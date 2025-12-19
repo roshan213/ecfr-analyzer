@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "international-trade-commission",
+    "name": "United States International Trade Commission",
+    "shortName": "ITC",
+    "titles": [
+      19
+    ],
+    "chapters": [
+      "II"
+    ]
+  },
+  "analysis": {
+    "slug": "international-trade-commission",
+    "name": "United States International Trade Commission",
+    "shortName": "ITC",
+    "wordCount": 1480583,
+    "sectionCount": 3170,
+    "titleCount": 1,
+    "checksum": "78eb30e7969c7179",
+    "complexityScore": 7.48,
+    "avgWordsPerSection": 467,
+    "titles": [
+      19
+    ],
+    "burdenIndex": 90,
+    "mandateDensity": 9.08,
+    "penaltyScore": 10,
+    "exemptionCount": 4310,
+    "definitionDensity": 1.58,
+    "formReportingBurden": 6638,
+    "lastSignificantUpdate": "2025-11-21",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.71,
+    "permissionBurden": 3212,
+    "complianceCostMentions": 7568,
+    "inspectionBurden": 2794,
+    "deadlineCount": 1667,
+    "discretionaryLanguage": 8960,
+    "smallBusinessMentions": 32,
+    "crossReferenceCount": 1991
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 35,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 217,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 58,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 202,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 273,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 179,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 151,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 168,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 304,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 203,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 175,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 214,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 183,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 221,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 181,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 253,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 222,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 258,
+      "total": 315
+    }
+  }
+}

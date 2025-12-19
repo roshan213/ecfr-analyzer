@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "railroad-retirement-board",
+    "name": "Railroad Retirement Board",
+    "shortName": "RRB",
+    "titles": [
+      20
+    ],
+    "chapters": [
+      "II"
+    ]
+  },
+  "analysis": {
+    "slug": "railroad-retirement-board",
+    "name": "Railroad Retirement Board",
+    "shortName": "RRB",
+    "wordCount": 2020814,
+    "sectionCount": 5652,
+    "titleCount": 1,
+    "checksum": "35b223d3bb427287",
+    "complexityScore": 7.43,
+    "avgWordsPerSection": 358,
+    "titles": [
+      20
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 7.89,
+    "penaltyScore": 9.3,
+    "exemptionCount": 4375,
+    "definitionDensity": 1.66,
+    "formReportingBurden": 8008,
+    "lastSignificantUpdate": "2025-10-27",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.68,
+    "permissionBurden": 1023,
+    "complianceCostMentions": 9901,
+    "inspectionBurden": 5639,
+    "deadlineCount": 1905,
+    "discretionaryLanguage": 13829,
+    "smallBusinessMentions": 14,
+    "crossReferenceCount": 3225
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 182,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 279,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 204,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 200,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 270,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 163,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 172,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 256,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 310,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 296,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 130,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 122,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 163,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 184,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 265,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 221,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 154,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 174,
+      "total": 315
+    }
+  }
+}

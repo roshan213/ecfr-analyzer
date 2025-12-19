@@ -1,0 +1,124 @@
+{
+  "agency": {
+    "slug": "agricultural-marketing-service",
+    "name": "Agricultural Marketing Service",
+    "shortName": "AMS",
+    "titles": [
+      7,
+      9
+    ],
+    "chapters": [
+      "I",
+      "VIII",
+      "IX",
+      "X",
+      "XI",
+      "II"
+    ]
+  },
+  "analysis": {
+    "slug": "agricultural-marketing-service",
+    "name": "Agricultural Marketing Service",
+    "shortName": "AMS",
+    "wordCount": 6701456,
+    "sectionCount": 19825,
+    "titleCount": 2,
+    "checksum": "faf933aa0e10d910",
+    "complexityScore": 7.61,
+    "avgWordsPerSection": 338,
+    "titles": [
+      7,
+      9
+    ],
+    "burdenIndex": 76,
+    "mandateDensity": 12.69,
+    "penaltyScore": 7,
+    "exemptionCount": 15352,
+    "definitionDensity": 2.03,
+    "formReportingBurden": 25506,
+    "lastSignificantUpdate": "2025-12-17",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.03,
+    "permissionBurden": 16039,
+    "complianceCostMentions": 36672,
+    "inspectionBurden": 19923,
+    "deadlineCount": 5317,
+    "discretionaryLanguage": 43435,
+    "smallBusinessMentions": 214,
+    "crossReferenceCount": 12049
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 242,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 74,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 275,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 36,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 216,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 33,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 119,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 46,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 200,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 18,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 39,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 9,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 24,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 24,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 67,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 30,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 23,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 20,
+      "total": 315
+    }
+  }
+}

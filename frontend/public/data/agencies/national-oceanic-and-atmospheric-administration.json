@@ -1,0 +1,121 @@
+{
+  "agency": {
+    "slug": "national-oceanic-and-atmospheric-administration",
+    "name": "National Oceanic and Atmospheric Administration",
+    "shortName": "NOAA",
+    "titles": [
+      15,
+      50
+    ],
+    "chapters": [
+      "IX",
+      "III",
+      "IV"
+    ]
+  },
+  "analysis": {
+    "slug": "national-oceanic-and-atmospheric-administration",
+    "name": "National Oceanic and Atmospheric Administration",
+    "shortName": "NOAA",
+    "wordCount": 5207764,
+    "sectionCount": 5614,
+    "titleCount": 2,
+    "checksum": "7fd28544252358c7",
+    "complexityScore": 7.9,
+    "avgWordsPerSection": 928,
+    "titles": [
+      15,
+      50
+    ],
+    "burdenIndex": 76,
+    "mandateDensity": 6.96,
+    "penaltyScore": 8.5,
+    "exemptionCount": 12640,
+    "definitionDensity": 1.35,
+    "formReportingBurden": 18386,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.14,
+    "permissionBurden": 28836,
+    "complianceCostMentions": 6383,
+    "inspectionBurden": 8916,
+    "deadlineCount": 3349,
+    "discretionaryLanguage": 24264,
+    "smallBusinessMentions": 31,
+    "crossReferenceCount": 8704
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 244,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 294,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 230,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 75,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 293,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 71,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 2,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 48,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 172,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 8,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 208,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 68,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 78,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 93,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 185,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 88,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 66,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 175,
+      "total": 315
+    }
+  }
+}

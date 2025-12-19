@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "agricultural-research-service",
+    "name": "Agricultural Research Service",
+    "shortName": "ARS",
+    "titles": [
+      7
+    ],
+    "chapters": [
+      "V"
+    ]
+  },
+  "analysis": {
+    "slug": "agricultural-research-service",
+    "name": "Agricultural Research Service",
+    "shortName": "ARS",
+    "wordCount": 5646392,
+    "sectionCount": 17385,
+    "titleCount": 1,
+    "checksum": "9f0ca91afb75e4c0",
+    "complexityScore": 7.66,
+    "avgWordsPerSection": 325,
+    "titles": [
+      7
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 12,
+    "penaltyScore": 7.5,
+    "exemptionCount": 12658,
+    "definitionDensity": 2.18,
+    "formReportingBurden": 23265,
+    "lastSignificantUpdate": "2025-12-17",
+    "structureDepth": 7,
+    "prohibitionDensity": 0.96,
+    "permissionBurden": 12579,
+    "complianceCostMentions": 35025,
+    "inspectionBurden": 15280,
+    "deadlineCount": 4446,
+    "discretionaryLanguage": 37146,
+    "smallBusinessMentions": 204,
+    "crossReferenceCount": 10322
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 192,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 81,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 248,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 51,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 140,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 37,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 70,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 22,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 237,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 23,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 43,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 13,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 41,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 41,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 69,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 41,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 36,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 27,
+      "total": 315
+    }
+  }
+}

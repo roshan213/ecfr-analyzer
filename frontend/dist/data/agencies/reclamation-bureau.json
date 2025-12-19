@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "reclamation-bureau",
+    "name": "Bureau of Reclamation",
+    "shortName": "BOR",
+    "titles": [
+      43
+    ],
+    "chapters": [
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "reclamation-bureau",
+    "name": "Bureau of Reclamation",
+    "shortName": "BOR",
+    "wordCount": 1250329,
+    "sectionCount": 5452,
+    "titleCount": 1,
+    "checksum": "68a611268b62d318",
+    "complexityScore": 7.61,
+    "avgWordsPerSection": 229,
+    "titles": [
+      43
+    ],
+    "burdenIndex": 80,
+    "mandateDensity": 11.63,
+    "penaltyScore": 10,
+    "exemptionCount": 2980,
+    "definitionDensity": 2.37,
+    "formReportingBurden": 4410,
+    "lastSignificantUpdate": "2025-12-17",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.16,
+    "permissionBurden": 5168,
+    "complianceCostMentions": 4398,
+    "inspectionBurden": 1929,
+    "deadlineCount": 1355,
+    "discretionaryLanguage": 10525,
+    "smallBusinessMentions": 28,
+    "crossReferenceCount": 1860
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 147,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 116,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 116,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 261,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 76,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 251,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 122,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 92,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 164,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 141,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 224,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 256,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 205,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 208,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 200,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 258,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 253,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 188,
+      "total": 315
+    }
+  }
+}

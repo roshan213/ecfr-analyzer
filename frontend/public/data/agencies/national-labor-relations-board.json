@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "national-labor-relations-board",
+    "name": "National Labor Relations Board",
+    "shortName": "NLRB",
+    "titles": [
+      5,
+      29
+    ],
+    "chapters": [
+      "LXI",
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "national-labor-relations-board",
+    "name": "National Labor Relations Board",
+    "shortName": "NLRB",
+    "wordCount": 5548466,
+    "sectionCount": 12648,
+    "titleCount": 2,
+    "checksum": "352ba25c0f774611",
+    "complexityScore": 7.66,
+    "avgWordsPerSection": 439,
+    "titles": [
+      5,
+      29
+    ],
+    "burdenIndex": 77,
+    "mandateDensity": 11.51,
+    "penaltyScore": 10,
+    "exemptionCount": 16171,
+    "definitionDensity": 2.25,
+    "formReportingBurden": 17433,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.35,
+    "permissionBurden": 5470,
+    "complianceCostMentions": 15255,
+    "inspectionBurden": 11322,
+    "deadlineCount": 5040,
+    "discretionaryLanguage": 37502,
+    "smallBusinessMentions": 61,
+    "crossReferenceCount": 10908
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 240,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 122,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 158,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 31,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 121,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 78,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 97,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 120,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 88,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 136,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 89,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 45,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 30,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 39,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 125,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 38,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 63,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 62,
+      "total": 315
+    }
+  }
+}

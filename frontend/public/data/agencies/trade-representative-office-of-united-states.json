@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "trade-representative-office-of-united-states",
+    "name": "Office of United States Trade Representative",
+    "shortName": "USTR",
+    "titles": [
+      15
+    ],
+    "chapters": [
+      "XX"
+    ]
+  },
+  "analysis": {
+    "slug": "trade-representative-office-of-united-states",
+    "name": "Office of United States Trade Representative",
+    "shortName": "USTR",
+    "wordCount": 1587384,
+    "sectionCount": 2398,
+    "titleCount": 1,
+    "checksum": "d1aca8e90f06dae0",
+    "complexityScore": 7.83,
+    "avgWordsPerSection": 662,
+    "titles": [
+      15
+    ],
+    "burdenIndex": 85,
+    "mandateDensity": 5.73,
+    "penaltyScore": 10,
+    "exemptionCount": 4200,
+    "definitionDensity": 1.35,
+    "formReportingBurden": 6176,
+    "lastSignificantUpdate": "2025-12-05",
+    "structureDepth": 7,
+    "prohibitionDensity": 1,
+    "permissionBurden": 9404,
+    "complianceCostMentions": 2018,
+    "inspectionBurden": 2985,
+    "deadlineCount": 881,
+    "discretionaryLanguage": 7814,
+    "smallBusinessMentions": 23,
+    "crossReferenceCount": 4152
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 74,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 314,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 84,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 212,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 295,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 201,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 12,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 80,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 230,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 70,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 297,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 210,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 253,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 268,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 222,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 189,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 219,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 291,
+      "total": 315
+    }
+  }
+}

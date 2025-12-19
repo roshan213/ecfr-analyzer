@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "privacy-and-civil-liberties-oversight-board",
+    "name": "Privacy and Civil Liberties Oversight Board",
+    "shortName": "PCLOB",
+    "titles": [
+      6
+    ],
+    "chapters": [
+      "X"
+    ]
+  },
+  "analysis": {
+    "slug": "privacy-and-civil-liberties-oversight-board",
+    "name": "Privacy and Civil Liberties Oversight Board",
+    "shortName": "PCLOB",
+    "wordCount": 260212,
+    "sectionCount": 562,
+    "titleCount": 1,
+    "checksum": "a52ca09f790ec2e9",
+    "complexityScore": 5.26,
+    "avgWordsPerSection": 463,
+    "titles": [
+      6
+    ],
+    "burdenIndex": 82,
+    "mandateDensity": 8.23,
+    "penaltyScore": 10,
+    "exemptionCount": 804,
+    "definitionDensity": 1.93,
+    "formReportingBurden": 1454,
+    "lastSignificantUpdate": "2025-11-05",
+    "structureDepth": 5,
+    "prohibitionDensity": 1.61,
+    "permissionBurden": 695,
+    "complianceCostMentions": 473,
+    "inspectionBurden": 672,
+    "deadlineCount": 175,
+    "discretionaryLanguage": 2195,
+    "smallBusinessMentions": 1,
+    "crossReferenceCount": 346
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 113,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 256,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 102,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 304,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 229,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 304,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 306,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 306,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 37,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 304,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 306,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 303,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 306,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 306,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 306,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 306,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 306,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 306,
+      "total": 315
+    }
+  }
+}

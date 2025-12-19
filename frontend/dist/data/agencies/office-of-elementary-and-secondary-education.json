@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "office-of-elementary-and-secondary-education",
+    "name": "Office of Elementary and Secondary Education",
+    "shortName": "",
+    "titles": [
+      34
+    ],
+    "chapters": [
+      "II"
+    ]
+  },
+  "analysis": {
+    "slug": "office-of-elementary-and-secondary-education",
+    "name": "Office of Elementary and Secondary Education",
+    "shortName": "Office of Elementary and Secondary Education",
+    "wordCount": 1254058,
+    "sectionCount": 3249,
+    "titleCount": 1,
+    "checksum": "1801719faa17f2fe",
+    "complexityScore": 7.44,
+    "avgWordsPerSection": 386,
+    "titles": [
+      34
+    ],
+    "burdenIndex": 75,
+    "mandateDensity": 7.73,
+    "penaltyScore": 8.3,
+    "exemptionCount": 2611,
+    "definitionDensity": 1.85,
+    "formReportingBurden": 4231,
+    "lastSignificantUpdate": "2025-10-31",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.93,
+    "permissionBurden": 1328,
+    "complianceCostMentions": 5406,
+    "inspectionBurden": 2277,
+    "deadlineCount": 1314,
+    "discretionaryLanguage": 7957,
+    "smallBusinessMentions": 20,
+    "crossReferenceCount": 2825
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 261,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 284,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 238,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 269,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 245,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 260,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 161,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 268,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 279,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 284,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 214,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 226,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 211,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 249,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 255,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 236,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 248,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 249,
+      "total": 315
+    }
+  }
+}

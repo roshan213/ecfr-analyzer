@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "water-resources-council",
+    "name": "Water Resources Council",
+    "shortName": "",
+    "titles": [
+      18
+    ],
+    "chapters": [
+      "VI"
+    ]
+  },
+  "analysis": {
+    "slug": "water-resources-council",
+    "name": "Water Resources Council",
+    "shortName": "Water Resources Council",
+    "wordCount": 946172,
+    "sectionCount": 2053,
+    "titleCount": 1,
+    "checksum": "ef5aa72a60606c79",
+    "complexityScore": 7.35,
+    "avgWordsPerSection": 461,
+    "titles": [
+      18
+    ],
+    "burdenIndex": 81,
+    "mandateDensity": 13.63,
+    "penaltyScore": 7.7,
+    "exemptionCount": 2581,
+    "definitionDensity": 1.46,
+    "formReportingBurden": 5258,
+    "lastSignificantUpdate": "2025-12-05",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.88,
+    "permissionBurden": 3324,
+    "complianceCostMentions": 9056,
+    "inspectionBurden": 1447,
+    "deadlineCount": 850,
+    "discretionaryLanguage": 5768,
+    "smallBusinessMentions": 8,
+    "crossReferenceCount": 1113
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 135,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 34,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 247,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 281,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 278,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 239,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 246,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 229,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 286,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 201,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 148,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 281,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 262,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 289,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 288,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 297,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 281,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 295,
+      "total": 315
+    }
+  }
+}

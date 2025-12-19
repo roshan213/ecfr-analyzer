@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "special-trustee-for-american-indians-office",
+    "name": "Office of Special Trustee for American Indians",
+    "shortName": "OST",
+    "titles": [
+      25
+    ],
+    "chapters": [
+      "VII"
+    ]
+  },
+  "analysis": {
+    "slug": "special-trustee-for-american-indians-office",
+    "name": "Office of Special Trustee for American Indians",
+    "shortName": "OST",
+    "wordCount": 837098,
+    "sectionCount": 4747,
+    "titleCount": 1,
+    "checksum": "a556af3b9a099f63",
+    "complexityScore": 6.93,
+    "avgWordsPerSection": 176,
+    "titles": [
+      25
+    ],
+    "burdenIndex": 81,
+    "mandateDensity": 13.52,
+    "penaltyScore": 10,
+    "exemptionCount": 1936,
+    "definitionDensity": 2.85,
+    "formReportingBurden": 3258,
+    "lastSignificantUpdate": "2025-12-01",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.97,
+    "permissionBurden": 2799,
+    "complianceCostMentions": 3933,
+    "inspectionBurden": 1681,
+    "deadlineCount": 1195,
+    "discretionaryLanguage": 6465,
+    "smallBusinessMentions": 6,
+    "crossReferenceCount": 1566
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 125,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 39,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 109,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 286,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 16,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 280,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 287,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 220,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 235,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 211,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 243,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 263,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 219,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 284,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 295,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 277,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 287,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 224,
+      "total": 315
+    }
+  }
+}

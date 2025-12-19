@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-aviation-administration",
+    "name": "Federal Aviation Administration",
+    "shortName": "FAA",
+    "titles": [
+      14
+    ],
+    "chapters": [
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-aviation-administration",
+    "name": "Federal Aviation Administration",
+    "shortName": "FAA",
+    "wordCount": 2187162,
+    "sectionCount": 6514,
+    "titleCount": 1,
+    "checksum": "b2ab8741c981384a",
+    "complexityScore": 7.42,
+    "avgWordsPerSection": 336,
+    "titles": [
+      14
+    ],
+    "burdenIndex": 69,
+    "mandateDensity": 14.53,
+    "penaltyScore": 5.7,
+    "exemptionCount": 6754,
+    "definitionDensity": 1.83,
+    "formReportingBurden": 5797,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.03,
+    "permissionBurden": 10565,
+    "complianceCostMentions": 3509,
+    "inspectionBurden": 3496,
+    "deadlineCount": 1166,
+    "discretionaryLanguage": 14341,
+    "smallBusinessMentions": 56,
+    "crossReferenceCount": 4848
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 297,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 12,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 288,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 141,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 252,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 228,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 194,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 286,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 203,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 55,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 255,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 193,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 222,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 164,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 130,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 163,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 146,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 142,
+      "total": 315
+    }
+  }
+}

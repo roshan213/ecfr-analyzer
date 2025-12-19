@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "national-railroad-passenger-corporation",
+    "name": "National Railroad Passenger Corporation",
+    "shortName": "AMTRAK",
+    "titles": [
+      49
+    ],
+    "chapters": [
+      "VII"
+    ]
+  },
+  "analysis": {
+    "slug": "national-railroad-passenger-corporation",
+    "name": "National Railroad Passenger Corporation",
+    "shortName": "AMTRAK",
+    "wordCount": 4107293,
+    "sectionCount": 9061,
+    "titleCount": 1,
+    "checksum": "9ebb7e06f39ded3d",
+    "complexityScore": 7.73,
+    "avgWordsPerSection": 453,
+    "titles": [
+      49
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 13.73,
+    "penaltyScore": 10,
+    "exemptionCount": 10417,
+    "definitionDensity": 2.17,
+    "formReportingBurden": 13156,
+    "lastSignificantUpdate": "2025-11-03",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.78,
+    "permissionBurden": 5923,
+    "complianceCostMentions": 8150,
+    "inspectionBurden": 8819,
+    "deadlineCount": 3203,
+    "discretionaryLanguage": 22274,
+    "smallBusinessMentions": 159,
+    "crossReferenceCount": 9040
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 180,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 24,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 134,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 94,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 176,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 95,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 34,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 98,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 25,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 111,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 164,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 70,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 82,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 98,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 103,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 71,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 80,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 84,
+      "total": 315
+    }
+  }
+}

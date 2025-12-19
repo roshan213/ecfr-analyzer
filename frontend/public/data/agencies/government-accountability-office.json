@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "government-accountability-office",
+    "name": "Government Accountability Office",
+    "shortName": "GAO",
+    "titles": [
+      4
+    ],
+    "chapters": [
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "government-accountability-office",
+    "name": "Government Accountability Office",
+    "shortName": "GAO",
+    "wordCount": 60501,
+    "sectionCount": 222,
+    "titleCount": 1,
+    "checksum": "0c00816c8c9309f4",
+    "complexityScore": 4.13,
+    "avgWordsPerSection": 273,
+    "titles": [
+      4
+    ],
+    "burdenIndex": 64,
+    "mandateDensity": 13.02,
+    "penaltyScore": 10,
+    "exemptionCount": 199,
+    "definitionDensity": 1.19,
+    "formReportingBurden": 310,
+    "lastSignificantUpdate": "2024-07-18",
+    "structureDepth": 6,
+    "prohibitionDensity": 2.18,
+    "permissionBurden": 58,
+    "complianceCostMentions": 165,
+    "inspectionBurden": 131,
+    "deadlineCount": 138,
+    "discretionaryLanguage": 668,
+    "smallBusinessMentions": 6,
+    "crossReferenceCount": 56
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 305,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 64,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 177,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 314,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 303,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 314,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 314,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 293,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 13,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 314,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 314,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 314,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 307,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 307,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 298,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 314,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 314,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 314,
+      "total": 315
+    }
+  }
+}

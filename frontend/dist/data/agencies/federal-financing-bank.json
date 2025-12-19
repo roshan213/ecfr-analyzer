@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-financing-bank",
+    "name": "Federal Financing Bank",
+    "shortName": "",
+    "titles": [
+      12
+    ],
+    "chapters": [
+      "VIII"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-financing-bank",
+    "name": "Federal Financing Bank",
+    "shortName": "Federal Financing Bank",
+    "wordCount": 5666910,
+    "sectionCount": 7198,
+    "titleCount": 1,
+    "checksum": "10c394ff76ecaff6",
+    "complexityScore": 7.64,
+    "avgWordsPerSection": 787,
+    "titles": [
+      12
+    ],
+    "burdenIndex": 84,
+    "mandateDensity": 8.92,
+    "penaltyScore": 8.6,
+    "exemptionCount": 13948,
+    "definitionDensity": 2.42,
+    "formReportingBurden": 33540,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.96,
+    "permissionBurden": 6407,
+    "complianceCostMentions": 38123,
+    "inspectionBurden": 6742,
+    "deadlineCount": 4792,
+    "discretionaryLanguage": 41373,
+    "smallBusinessMentions": 1183,
+    "crossReferenceCount": 8902
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 83,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 224,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 223,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 42,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 53,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 18,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 101,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 192,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 263,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 96,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 30,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 95,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 34,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 27,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 44,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 80,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 29,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 130,
+      "total": 315
+    }
+  }
+}

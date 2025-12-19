@@ -1,0 +1,118 @@
+{
+  "agency": {
+    "slug": "federal-highway-administration",
+    "name": "Federal Highway Administration",
+    "shortName": "FHWA",
+    "titles": [
+      23
+    ],
+    "chapters": [
+      "I",
+      "II"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-highway-administration",
+    "name": "Federal Highway Administration",
+    "shortName": "FHWA",
+    "wordCount": 433444,
+    "sectionCount": 1005,
+    "titleCount": 1,
+    "checksum": "2ce3899d3f291fbd",
+    "complexityScore": 5.67,
+    "avgWordsPerSection": 431,
+    "titles": [
+      23
+    ],
+    "burdenIndex": 62,
+    "mandateDensity": 12.04,
+    "penaltyScore": 10,
+    "exemptionCount": 787,
+    "definitionDensity": 2.41,
+    "formReportingBurden": 1323,
+    "lastSignificantUpdate": "2025-12-17",
+    "structureDepth": 5,
+    "prohibitionDensity": 1.07,
+    "permissionBurden": 1330,
+    "complianceCostMentions": 1731,
+    "inspectionBurden": 1243,
+    "deadlineCount": 277,
+    "discretionaryLanguage": 2843,
+    "smallBusinessMentions": 2,
+    "crossReferenceCount": 1179
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 307,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 80,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 178,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 305,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 61,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 305,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 304,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 314,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 194,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 280,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 300,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 282,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 304,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 303,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 303,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 294,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 303,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 302,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "government-national-mortgage-association",
+    "name": "Government National Mortgage Association",
+    "shortName": "GinnieMae",
+    "titles": [
+      24
+    ],
+    "chapters": [
+      "III"
+    ]
+  },
+  "analysis": {
+    "slug": "government-national-mortgage-association",
+    "name": "Government National Mortgage Association",
+    "shortName": "GinnieMae",
+    "wordCount": 1815674,
+    "sectionCount": 4961,
+    "titleCount": 1,
+    "checksum": "5d95c60c98402cfc",
+    "complexityScore": 7.68,
+    "avgWordsPerSection": 366,
+    "titles": [
+      24
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 13.51,
+    "penaltyScore": 10,
+    "exemptionCount": 4029,
+    "definitionDensity": 1.89,
+    "formReportingBurden": 6320,
+    "lastSignificantUpdate": "2025-12-08",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.39,
+    "permissionBurden": 2650,
+    "complianceCostMentions": 11327,
+    "inspectionBurden": 4647,
+    "deadlineCount": 1614,
+    "discretionaryLanguage": 13918,
+    "smallBusinessMentions": 21,
+    "crossReferenceCount": 6396
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 222,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 41,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 143,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 213,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 231,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 181,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 44,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 106,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 69,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 214,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 103,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 132,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 186,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 167,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 237,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 107,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 179,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 209,
+      "total": 315
+    }
+  }
+}

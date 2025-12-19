@@ -1,4 +1,8 @@
-const API_BASE = '/api';
+// Static data API for GitHub Pages hosting
+// All data is pre-generated as JSON files in /data/
+
+const BASE_URL = import.meta.env.BASE_URL || '/';
+const DATA_PATH = `${BASE_URL}data`;
 
 export interface AnalysisSummary {
     totalAgencies: number;
@@ -13,14 +17,6 @@ export interface AgencyWordCount {
     slug: string;
     name: string;
     wordCount: number;
-    sectionCount: number;
-}
-
-export interface AgencyChecksum {
-    slug: string;
-    name: string;
-    checksum: string;
-    titleCount: number;
 }
 
 export interface AgencyComplexity {
@@ -92,44 +88,48 @@ export interface Agency {
     titles: number[];
 }
 
+// Fetch helpers for static JSON
+async function fetchJSON<T>(path: string): Promise<T> {
+    const response = await fetch(`${DATA_PATH}/${path}`);
+    if (!response.ok) {
+        throw new Error(`Failed to fetch ${path}: ${response.statusText}`);
+    }
+    return response.json();
+}
+
+// API functions
 export async function fetchSummary(): Promise<AnalysisSummary> {
-    const res = await fetch(`${API_BASE}/analysis/summary`);
-    if (!res.ok) throw new Error('Failed to fetch summary');
-    return res.json();
+    return fetchJSON<AnalysisSummary>('summary.json');
 }
 
-export async function fetchWordCounts(limit = 20): Promise<{ wordCounts: AgencyWordCount[] }> {
-    const res = await fetch(`${API_BASE}/analysis/word-counts?limit=${limit}`);
-    if (!res.ok) throw new Error('Failed to fetch word counts');
-    return res.json();
+export async function fetchWordCounts(limit?: number): Promise<{ wordCounts: AgencyWordCount[] }> {
+    const data = await fetchJSON<{ wordCounts: AgencyWordCount[] }>('word-counts.json');
+    if (limit) {
+        return { wordCounts: data.wordCounts.slice(0, limit) };
+    }
+    return data;
 }
 
-export async function fetchChecksums(): Promise<{ checksums: AgencyChecksum[] }> {
-    const res = await fetch(`${API_BASE}/analysis/checksums`);
-    if (!res.ok) throw new Error('Failed to fetch checksums');
-    return res.json();
-}
-
-export async function fetchComplexity(limit = 20): Promise<{ complexityRanking: AgencyComplexity[] }> {
-    const res = await fetch(`${API_BASE}/analysis/complexity?limit=${limit}`);
-    if (!res.ok) throw new Error('Failed to fetch complexity');
-    return res.json();
+export async function fetchComplexity(limit?: number): Promise<{ complexityRanking: AgencyComplexity[] }> {
+    const data = await fetchJSON<{ complexityRanking: AgencyComplexity[] }>('complexity.json');
+    if (limit) {
+        return { complexityRanking: data.complexityRanking.slice(0, limit) };
+    }
+    return data;
 }
 
 export async function fetchHistory(): Promise<{ monthlyChanges: MonthlyChange[] }> {
-    const res = await fetch(`${API_BASE}/analysis/history`);
-    if (!res.ok) throw new Error('Failed to fetch history');
-    return res.json();
+    return fetchJSON<{ monthlyChanges: MonthlyChange[] }>('history.json');
 }
 
-export async function fetchAgencies(): Promise<{ agencies: Agency[]; downloadedAt: string }> {
-    const res = await fetch(`${API_BASE}/agencies`);
-    if (!res.ok) throw new Error('Failed to fetch agencies');
-    return res.json();
+export async function fetchAgencies(): Promise<{ agencies: Agency[] }> {
+    return fetchJSON<{ agencies: Agency[] }>('agencies.json');
 }
 
-export async function fetchAgencyDetail(slug: string): Promise<{ agency: Agency; analysis: AgencyAnalysis | null }> {
-    const res = await fetch(`${API_BASE}/agencies/${slug}`);
-    if (!res.ok) throw new Error('Failed to fetch agency');
-    return res.json();
+export async function fetchAgencyDetail(slug: string): Promise<{
+    agency: { name: string; shortName: string; titles: number[] };
+    analysis: AgencyAnalysis | null;
+    rankings: Record<string, { rank: number; total: number }> | null;
+}> {
+    return fetchJSON(`agencies/${slug}.json`);
 }

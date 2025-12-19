@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "united-states-agency-for-global-media",
+    "name": "United States Agency for Global Media",
+    "shortName": "USAGM",
+    "titles": [
+      22,
+      48
+    ],
+    "chapters": [
+      "V",
+      "19"
+    ]
+  },
+  "analysis": {
+    "slug": "united-states-agency-for-global-media",
+    "name": "United States Agency for Global Media",
+    "shortName": "USAGM",
+    "wordCount": 3622055,
+    "sectionCount": 15019,
+    "titleCount": 2,
+    "checksum": "433b456fab9774d8",
+    "complexityScore": 7.18,
+    "avgWordsPerSection": 241,
+    "titles": [
+      22,
+      48
+    ],
+    "burdenIndex": 81,
+    "mandateDensity": 11.46,
+    "penaltyScore": 9.1,
+    "exemptionCount": 11682,
+    "definitionDensity": 2.39,
+    "formReportingBurden": 15882,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.16,
+    "permissionBurden": 7201,
+    "complianceCostMentions": 35183,
+    "inspectionBurden": 5347,
+    "deadlineCount": 2726,
+    "discretionaryLanguage": 23684,
+    "smallBusinessMentions": 3261,
+    "crossReferenceCount": 6149
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 116,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 125,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 212,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 80,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 71,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 85,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 273,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 141,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 161,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 89,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 42,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 125,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 113,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 95,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 24,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 125,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 104,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 56,
+      "total": 315
+    }
+  }
+}

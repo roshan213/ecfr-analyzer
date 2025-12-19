@@ -20,8 +20,7 @@ export default function WordCountChart({ data }: Props) {
     const chartData = data.map(d => ({
         name: d.name.length > 20 ? d.name.substring(0, 20) + '...' : d.name,
         fullName: d.name,
-        wordCount: d.wordCount,
-        sectionCount: d.sectionCount
+        wordCount: d.wordCount
     }));
 
     return (

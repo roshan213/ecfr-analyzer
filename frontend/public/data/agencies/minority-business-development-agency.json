@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "minority-business-development-agency",
+    "name": "Minority Business Development Agency",
+    "shortName": "MBDA",
+    "titles": [
+      15
+    ],
+    "chapters": [
+      "XIV"
+    ]
+  },
+  "analysis": {
+    "slug": "minority-business-development-agency",
+    "name": "Minority Business Development Agency",
+    "shortName": "MBDA",
+    "wordCount": 1587384,
+    "sectionCount": 2398,
+    "titleCount": 1,
+    "checksum": "d1aca8e90f06dae0",
+    "complexityScore": 7.83,
+    "avgWordsPerSection": 662,
+    "titles": [
+      15
+    ],
+    "burdenIndex": 85,
+    "mandateDensity": 5.73,
+    "penaltyScore": 10,
+    "exemptionCount": 4200,
+    "definitionDensity": 1.35,
+    "formReportingBurden": 6176,
+    "lastSignificantUpdate": "2025-12-05",
+    "structureDepth": 7,
+    "prohibitionDensity": 1,
+    "permissionBurden": 9404,
+    "complianceCostMentions": 2018,
+    "inspectionBurden": 2985,
+    "deadlineCount": 881,
+    "discretionaryLanguage": 7814,
+    "smallBusinessMentions": 23,
+    "crossReferenceCount": 4152
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 68,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 309,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 13,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 207,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 288,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 196,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 7,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 12,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 220,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 65,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 292,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 205,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 248,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 263,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 214,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 184,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 214,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 286,
+      "total": 315
+    }
+  }
+}

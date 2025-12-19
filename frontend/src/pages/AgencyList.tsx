@@ -1,16 +1,9 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { fetchAgencies, fetchChecksums, Agency, AgencyChecksum } from '../api';
-
-function formatNumber(num: number): string {
-    if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
-    if (num >= 1000) return (num / 1000).toFixed(1) + 'K';
-    return num.toString();
-}
+import { fetchAgencies, Agency } from '../api';
 
 export default function AgencyList() {
     const [agencies, setAgencies] = useState<Agency[]>([]);
-    const [checksums, setChecksums] = useState<Map<string, AgencyChecksum>>(new Map());
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
     const [searchTerm, setSearchTerm] = useState('');
@@ -18,15 +11,8 @@ export default function AgencyList() {
     useEffect(() => {
         async function loadData() {
             try {
-                const [agencyData, checksumData] = await Promise.all([
-                    fetchAgencies(),
-                    fetchChecksums()
-                ]);
+                const agencyData = await fetchAgencies();
                 setAgencies(agencyData.agencies);
-
-                const checksumMap = new Map<string, AgencyChecksum>();
-                checksumData.checksums.forEach(c => checksumMap.set(c.slug, c));
-                setChecksums(checksumMap);
             } catch (err: any) {
                 setError(err.message);
             } finally {
@@ -63,7 +49,7 @@ export default function AgencyList() {
         <div>
             <div className="section-header">
                 <h2>Federal Agencies</h2>
-                <p>Browse all agencies with CFR regulations and their checksums</p>
+                <p>Browse all {agencies.length} agencies with CFR regulations</p>
             </div>
 
             <div style={{ marginBottom: 'var(--space-xl)' }}>
@@ -91,42 +77,27 @@ export default function AgencyList() {
                         <tr>
                             <th>Agency Name</th>
                             <th>Short Name</th>
-                            <th>Titles</th>
-                            <th>Checksum</th>
+                            <th>CFR Titles</th>
                             <th></th>
                         </tr>
                     </thead>
                     <tbody>
-                        {filteredAgencies.map(agency => {
-                            const checksum = checksums.get(agency.slug);
-                            return (
-                                <tr key={agency.slug}>
-                                    <td>
-                                        <Link to={`/agencies/${agency.slug}`} style={{ color: 'var(--text-primary)', textDecoration: 'none' }}>
-                                            {agency.name}
-                                        </Link>
-                                    </td>
-                                    <td style={{ color: 'var(--text-secondary)' }}>{agency.shortName || '-'}</td>
-                                    <td>{agency.titleCount}</td>
-                                    <td>
-                                        <code style={{
-                                            fontSize: '0.8rem',
-                                            background: 'var(--bg-primary)',
-                                            padding: '4px 8px',
-                                            borderRadius: '4px',
-                                            fontFamily: 'monospace'
-                                        }}>
-                                            {checksum?.checksum || '-'}
-                                        </code>
-                                    </td>
-                                    <td>
-                                        <Link to={`/agencies/${agency.slug}`} className="btn btn-secondary" style={{ padding: '6px 12px', fontSize: '0.85rem' }}>
-                                            View
-                                        </Link>
-                                    </td>
-                                </tr>
-                            );
-                        })}
+                        {filteredAgencies.map(agency => (
+                            <tr key={agency.slug}>
+                                <td>
+                                    <Link to={`/agencies/${agency.slug}`} style={{ color: 'var(--text-primary)', textDecoration: 'none' }}>
+                                        {agency.name}
+                                    </Link>
+                                </td>
+                                <td style={{ color: 'var(--text-secondary)' }}>{agency.shortName || '-'}</td>
+                                <td>{agency.titleCount}</td>
+                                <td>
+                                    <Link to={`/agencies/${agency.slug}`} className="btn btn-secondary" style={{ padding: '6px 12px', fontSize: '0.85rem' }}>
+                                        View
+                                    </Link>
+                                </td>
+                            </tr>
+                        ))}
                     </tbody>
                 </table>
                 {filteredAgencies.length === 0 && (

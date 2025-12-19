@@ -1,0 +1,131 @@
+{
+  "agency": {
+    "slug": "environmental-protection-agency",
+    "name": "Environmental Protection Agency",
+    "shortName": "EPA",
+    "titles": [
+      2,
+      5,
+      40,
+      41,
+      48
+    ],
+    "chapters": [
+      "XV",
+      "LIV",
+      "I",
+      "IV",
+      "VII",
+      "115",
+      "15"
+    ]
+  },
+  "analysis": {
+    "slug": "environmental-protection-agency",
+    "name": "Environmental Protection Agency",
+    "shortName": "EPA",
+    "wordCount": 22035707,
+    "sectionCount": 45904,
+    "titleCount": 5,
+    "checksum": "26770997d3c912b7",
+    "complexityScore": 7.49,
+    "avgWordsPerSection": 480,
+    "titles": [
+      2,
+      5,
+      40,
+      41,
+      48
+    ],
+    "burdenIndex": 80,
+    "mandateDensity": 10.69,
+    "penaltyScore": 6.3,
+    "exemptionCount": 55403,
+    "definitionDensity": 1.88,
+    "formReportingBurden": 104672,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 7,
+    "prohibitionDensity": 0.75,
+    "permissionBurden": 42785,
+    "complianceCostMentions": 54970,
+    "inspectionBurden": 62306,
+    "deadlineCount": 19428,
+    "discretionaryLanguage": 109987,
+    "smallBusinessMentions": 3666,
+    "crossReferenceCount": 65374
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 140,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 158,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 279,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 2,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 241,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 2,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 144,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 89,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 295,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 2,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 5,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 2,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 2,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 2,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 3,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 2,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 2,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 2,
+      "total": 315
+    }
+  }
+}

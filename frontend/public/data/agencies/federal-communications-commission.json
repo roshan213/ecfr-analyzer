@@ -1,0 +1,123 @@
+{
+  "agency": {
+    "slug": "federal-communications-commission",
+    "name": "Federal Communications Commission",
+    "shortName": "FCC",
+    "titles": [
+      2,
+      5,
+      47
+    ],
+    "chapters": [
+      "LX",
+      "XXIX",
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-communications-commission",
+    "name": "Federal Communications Commission",
+    "shortName": "FCC",
+    "wordCount": 4336567,
+    "sectionCount": 12194,
+    "titleCount": 3,
+    "checksum": "e4e775761ff5eda4",
+    "complexityScore": 7.43,
+    "avgWordsPerSection": 356,
+    "titles": [
+      2,
+      5,
+      47
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 10.69,
+    "penaltyScore": 8.3,
+    "exemptionCount": 11667,
+    "definitionDensity": 1.67,
+    "formReportingBurden": 17491,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.46,
+    "permissionBurden": 11018,
+    "complianceCostMentions": 19277,
+    "inspectionBurden": 6399,
+    "deadlineCount": 4245,
+    "discretionaryLanguage": 28618,
+    "smallBusinessMentions": 441,
+    "crossReferenceCount": 11556
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 162,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 159,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 232,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 81,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 264,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 74,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 167,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 240,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 54,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 53,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 79,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 105,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 71,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 74,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 53,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 32,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 75,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 70,
+      "total": 315
+    }
+  }
+}

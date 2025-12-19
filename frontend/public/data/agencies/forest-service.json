@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "forest-service",
+    "name": "Forest Service",
+    "shortName": "FS",
+    "titles": [
+      36
+    ],
+    "chapters": [
+      "II"
+    ]
+  },
+  "analysis": {
+    "slug": "forest-service",
+    "name": "Forest Service",
+    "shortName": "FS",
+    "wordCount": 1086664,
+    "sectionCount": 3142,
+    "titleCount": 1,
+    "checksum": "d25432c061cfbf3f",
+    "complexityScore": 7.42,
+    "avgWordsPerSection": 346,
+    "titles": [
+      36
+    ],
+    "burdenIndex": 73,
+    "mandateDensity": 13.41,
+    "penaltyScore": 9.7,
+    "exemptionCount": 3297,
+    "definitionDensity": 2.05,
+    "formReportingBurden": 2821,
+    "lastSignificantUpdate": "2025-07-18",
+    "structureDepth": 6,
+    "prohibitionDensity": 2.53,
+    "permissionBurden": 4378,
+    "complianceCostMentions": 2880,
+    "inspectionBurden": 1940,
+    "deadlineCount": 764,
+    "discretionaryLanguage": 8128,
+    "smallBusinessMentions": 31,
+    "crossReferenceCount": 1811
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 277,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 53,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 183,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 240,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 206,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 283,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 177,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 154,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 2,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 162,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 273,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 245,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 277,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 234,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 187,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 262,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 257,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 260,
+      "total": 315
+    }
+  }
+}

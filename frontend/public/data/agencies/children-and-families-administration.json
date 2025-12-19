@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "children-and-families-administration",
+    "name": "Administration for Children and Families",
+    "shortName": "ACF",
+    "titles": [
+      45
+    ],
+    "chapters": [
+      "XIII"
+    ]
+  },
+  "analysis": {
+    "slug": "children-and-families-administration",
+    "name": "Administration for Children and Families",
+    "shortName": "ACF",
+    "wordCount": 2016694,
+    "sectionCount": 5884,
+    "titleCount": 1,
+    "checksum": "317990c3c20746e9",
+    "complexityScore": 7.67,
+    "avgWordsPerSection": 343,
+    "titles": [
+      45
+    ],
+    "burdenIndex": 92,
+    "mandateDensity": 9.74,
+    "penaltyScore": 10,
+    "exemptionCount": 5405,
+    "definitionDensity": 2.5,
+    "formReportingBurden": 8934,
+    "lastSignificantUpdate": "2025-11-25",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.23,
+    "permissionBurden": 2632,
+    "complianceCostMentions": 9200,
+    "inspectionBurden": 4399,
+    "deadlineCount": 2025,
+    "discretionaryLanguage": 14839,
+    "smallBusinessMentions": 36,
+    "crossReferenceCount": 3795
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 20,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 192,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 46,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 173,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 26,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 148,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 58,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 63,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 129,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 228,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 136,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 152,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 141,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 149,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 159,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 203,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 159,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 159,
+      "total": 315
+    }
+  }
+}

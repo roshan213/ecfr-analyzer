@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-law-enforcement-training-center",
+    "name": "Federal Law Enforcement Training Center",
+    "shortName": "FLETC",
+    "titles": [
+      31
+    ],
+    "chapters": [
+      "VII"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-law-enforcement-training-center",
+    "name": "Federal Law Enforcement Training Center",
+    "shortName": "FLETC",
+    "wordCount": 1371454,
+    "sectionCount": 5464,
+    "titleCount": 1,
+    "checksum": "b869cd0529312ac5",
+    "complexityScore": 7.63,
+    "avgWordsPerSection": 251,
+    "titles": [
+      31
+    ],
+    "burdenIndex": 97,
+    "mandateDensity": 6.8,
+    "penaltyScore": 10,
+    "exemptionCount": 3854,
+    "definitionDensity": 3.32,
+    "formReportingBurden": 5974,
+    "lastSignificantUpdate": "2025-12-03",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.86,
+    "permissionBurden": 5797,
+    "complianceCostMentions": 7128,
+    "inspectionBurden": 1190,
+    "deadlineCount": 926,
+    "discretionaryLanguage": 8489,
+    "smallBusinessMentions": 34,
+    "crossReferenceCount": 3214
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 1,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 295,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 29,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 223,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 2,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 202,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 109,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 51,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 14,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 119,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 176,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 283,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 233,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 223,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 170,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 222,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 228,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 177,
+      "total": 315
+    }
+  }
+}

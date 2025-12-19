@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-procurement-policy-office",
+    "name": "Office of Federal Procurement Policy",
+    "shortName": "OFPP",
+    "titles": [
+      48
+    ],
+    "chapters": [
+      "99"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-procurement-policy-office",
+    "name": "Office of Federal Procurement Policy",
+    "shortName": "OFPP",
+    "wordCount": 2670081,
+    "sectionCount": 11574,
+    "titleCount": 1,
+    "checksum": "13148bf30efa9490",
+    "complexityScore": 6.99,
+    "avgWordsPerSection": 231,
+    "titles": [
+      48
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 11.72,
+    "penaltyScore": 6.3,
+    "exemptionCount": 8440,
+    "definitionDensity": 2.47,
+    "formReportingBurden": 11700,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 5,
+    "prohibitionDensity": 1.07,
+    "permissionBurden": 4684,
+    "complianceCostMentions": 30845,
+    "inspectionBurden": 3682,
+    "deadlineCount": 1926,
+    "discretionaryLanguage": 16919,
+    "smallBusinessMentions": 3252,
+    "crossReferenceCount": 4723
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 231,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 113,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 284,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 123,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 43,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 114,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 281,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 311,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 193,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 157,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 74,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 185,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 157,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 134,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 31,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 173,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 129,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 78,
+      "total": 315
+    }
+  }
+}

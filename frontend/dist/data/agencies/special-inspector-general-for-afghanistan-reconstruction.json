@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "special-inspector-general-for-afghanistan-reconstruction",
+    "name": "Special Inspector General for Afghanistan Reconstruction",
+    "shortName": "SIGAR",
+    "titles": [
+      5
+    ],
+    "chapters": [
+      "LXXXIII"
+    ]
+  },
+  "analysis": {
+    "slug": "special-inspector-general-for-afghanistan-reconstruction",
+    "name": "Special Inspector General for Afghanistan Reconstruction",
+    "shortName": "SIGAR",
+    "wordCount": 1631811,
+    "sectionCount": 5348,
+    "titleCount": 1,
+    "checksum": "fcd8f10ee6eacc05",
+    "complexityScore": 7.4,
+    "avgWordsPerSection": 305,
+    "titles": [
+      5
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 7.96,
+    "penaltyScore": 10,
+    "exemptionCount": 5582,
+    "definitionDensity": 2.35,
+    "formReportingBurden": 5957,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.47,
+    "permissionBurden": 1753,
+    "complianceCostMentions": 6584,
+    "inspectionBurden": 2205,
+    "deadlineCount": 1855,
+    "discretionaryLanguage": 12448,
+    "smallBusinessMentions": 23,
+    "crossReferenceCount": 4932
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 154,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 260,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 22,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 155,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 82,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 212,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 200,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 146,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 40,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 264,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 194,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 230,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 164,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 193,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 219,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 148,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 196,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 191,
+      "total": 315
+    }
+  }
+}

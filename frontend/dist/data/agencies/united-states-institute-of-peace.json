@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "united-states-institute-of-peace",
+    "name": "United States Institute of Peace",
+    "shortName": "USIP",
+    "titles": [
+      22
+    ],
+    "chapters": [
+      "XVII"
+    ]
+  },
+  "analysis": {
+    "slug": "united-states-institute-of-peace",
+    "name": "United States Institute of Peace",
+    "shortName": "USIP",
+    "wordCount": 951974,
+    "sectionCount": 3445,
+    "titleCount": 1,
+    "checksum": "6a527cf02e17e823",
+    "complexityScore": 7.27,
+    "avgWordsPerSection": 276,
+    "titles": [
+      22
+    ],
+    "burdenIndex": 88,
+    "mandateDensity": 10.73,
+    "penaltyScore": 10,
+    "exemptionCount": 3242,
+    "definitionDensity": 2.17,
+    "formReportingBurden": 4182,
+    "lastSignificantUpdate": "2025-11-07",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.4,
+    "permissionBurden": 2517,
+    "complianceCostMentions": 4338,
+    "inspectionBurden": 1665,
+    "deadlineCount": 800,
+    "discretionaryLanguage": 6765,
+    "smallBusinessMentions": 9,
+    "crossReferenceCount": 1426
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 45,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 150,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 68,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 254,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 169,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 267,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 257,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 173,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 63,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 243,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 233,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 269,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 266,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 273,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 279,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 282,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 273,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 240,
+      "total": 315
+    }
+  }
+}

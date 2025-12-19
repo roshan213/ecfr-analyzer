@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "election-assistance-commission",
+    "name": "Election Assistance Commission",
+    "shortName": "EAC",
+    "titles": [
+      2,
+      11
+    ],
+    "chapters": [
+      "LVIII",
+      "II"
+    ]
+  },
+  "analysis": {
+    "slug": "election-assistance-commission",
+    "name": "Election Assistance Commission",
+    "shortName": "EAC",
+    "wordCount": 595464,
+    "sectionCount": 2095,
+    "titleCount": 2,
+    "checksum": "476bbea9a3a6a7c8",
+    "complexityScore": 6.19,
+    "avgWordsPerSection": 284,
+    "titles": [
+      2,
+      11
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 11.36,
+    "penaltyScore": 10,
+    "exemptionCount": 1759,
+    "definitionDensity": 2.14,
+    "formReportingBurden": 3555,
+    "lastSignificantUpdate": "2025-10-01",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.18,
+    "permissionBurden": 585,
+    "complianceCostMentions": 6254,
+    "inspectionBurden": 1677,
+    "deadlineCount": 408,
+    "discretionaryLanguage": 3709,
+    "smallBusinessMentions": 49,
+    "crossReferenceCount": 5074
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 159,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 130,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 122,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 288,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 194,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 274,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 299,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 237,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 159,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 305,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 209,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 265,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 302,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 302,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 138,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 147,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 293,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 292,
+      "total": 315
+    }
+  }
+}

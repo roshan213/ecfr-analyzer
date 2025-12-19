@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "animal-and-plant-health-inspection-service",
+    "name": "Animal and Plant Health Inspection Service",
+    "shortName": "APHIS",
+    "titles": [
+      7,
+      9
+    ],
+    "chapters": [
+      "III",
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "animal-and-plant-health-inspection-service",
+    "name": "Animal and Plant Health Inspection Service",
+    "shortName": "APHIS",
+    "wordCount": 6701456,
+    "sectionCount": 19825,
+    "titleCount": 2,
+    "checksum": "faf933aa0e10d910",
+    "complexityScore": 7.61,
+    "avgWordsPerSection": 338,
+    "titles": [
+      7,
+      9
+    ],
+    "burdenIndex": 76,
+    "mandateDensity": 12.69,
+    "penaltyScore": 7,
+    "exemptionCount": 15352,
+    "definitionDensity": 2.03,
+    "formReportingBurden": 25506,
+    "lastSignificantUpdate": "2025-12-17",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.03,
+    "permissionBurden": 16039,
+    "complianceCostMentions": 36672,
+    "inspectionBurden": 19923,
+    "deadlineCount": 5317,
+    "discretionaryLanguage": 43435,
+    "smallBusinessMentions": 214,
+    "crossReferenceCount": 12049
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 243,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 75,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 276,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 37,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 217,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 34,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 120,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 47,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 201,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 19,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 40,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 10,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 25,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 25,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 68,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 31,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 24,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 21,
+      "total": 315
+    }
+  }
+}

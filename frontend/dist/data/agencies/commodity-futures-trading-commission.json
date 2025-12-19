@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "commodity-futures-trading-commission",
+    "name": "Commodity Futures Trading Commission",
+    "shortName": "CFTC",
+    "titles": [
+      5,
+      17
+    ],
+    "chapters": [
+      "XLI",
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "commodity-futures-trading-commission",
+    "name": "Commodity Futures Trading Commission",
+    "shortName": "CFTC",
+    "wordCount": 4076490,
+    "sectionCount": 8874,
+    "titleCount": 2,
+    "checksum": "e489e0713c472582",
+    "complexityScore": 7.29,
+    "avgWordsPerSection": 459,
+    "titles": [
+      5,
+      17
+    ],
+    "burdenIndex": 84,
+    "mandateDensity": 9.95,
+    "penaltyScore": 9.1,
+    "exemptionCount": 11795,
+    "definitionDensity": 2.33,
+    "formReportingBurden": 27831,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.19,
+    "permissionBurden": 3565,
+    "complianceCostMentions": 14554,
+    "inspectionBurden": 6316,
+    "deadlineCount": 4306,
+    "discretionaryLanguage": 26405,
+    "smallBusinessMentions": 188,
+    "crossReferenceCount": 7555
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 75,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 183,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 209,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 77,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 104,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 30,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 249,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 137,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 155,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 188,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 92,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 107,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 68,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 79,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 94,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 97,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 88,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 95,
+      "total": 315
+    }
+  }
+}

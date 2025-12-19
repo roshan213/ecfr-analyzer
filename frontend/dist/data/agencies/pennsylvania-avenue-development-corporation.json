@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "pennsylvania-avenue-development-corporation",
+    "name": "Pennsylvania Avenue Development Corporation",
+    "shortName": "",
+    "titles": [
+      36
+    ],
+    "chapters": [
+      "IX"
+    ]
+  },
+  "analysis": {
+    "slug": "pennsylvania-avenue-development-corporation",
+    "name": "Pennsylvania Avenue Development Corporation",
+    "shortName": "Pennsylvania Avenue Development Corporation",
+    "wordCount": 1086664,
+    "sectionCount": 3142,
+    "titleCount": 1,
+    "checksum": "d25432c061cfbf3f",
+    "complexityScore": 7.42,
+    "avgWordsPerSection": 346,
+    "titles": [
+      36
+    ],
+    "burdenIndex": 73,
+    "mandateDensity": 13.41,
+    "penaltyScore": 9.7,
+    "exemptionCount": 3297,
+    "definitionDensity": 2.05,
+    "formReportingBurden": 2821,
+    "lastSignificantUpdate": "2025-07-18",
+    "structureDepth": 6,
+    "prohibitionDensity": 2.53,
+    "permissionBurden": 4378,
+    "complianceCostMentions": 2880,
+    "inspectionBurden": 1940,
+    "deadlineCount": 764,
+    "discretionaryLanguage": 8128,
+    "smallBusinessMentions": 31,
+    "crossReferenceCount": 1811
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 284,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 60,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 192,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 247,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 213,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 290,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 191,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 279,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 9,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 169,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 280,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 252,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 284,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 241,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 196,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 269,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 264,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 267,
+      "total": 315
+    }
+  }
+}

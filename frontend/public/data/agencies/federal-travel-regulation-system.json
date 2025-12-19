@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-travel-regulation-system",
+    "name": "Federal Travel Regulation System",
+    "shortName": "",
+    "titles": [
+      41
+    ],
+    "chapters": [
+      null
+    ]
+  },
+  "analysis": {
+    "slug": "federal-travel-regulation-system",
+    "name": "Federal Travel Regulation System",
+    "shortName": "Federal Travel Regulation System",
+    "wordCount": 547419,
+    "sectionCount": 3126,
+    "titleCount": 1,
+    "checksum": "41f7146b28a5a74e",
+    "complexityScore": 6.46,
+    "avgWordsPerSection": 175,
+    "titles": [
+      41
+    ],
+    "burdenIndex": 75,
+    "mandateDensity": 11.22,
+    "penaltyScore": 10,
+    "exemptionCount": 1640,
+    "definitionDensity": 2.17,
+    "formReportingBurden": 2428,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.32,
+    "permissionBurden": 706,
+    "complianceCostMentions": 3441,
+    "inspectionBurden": 1022,
+    "deadlineCount": 449,
+    "discretionaryLanguage": 4355,
+    "smallBusinessMentions": 21,
+    "crossReferenceCount": 1255
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 268,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 137,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 171,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 295,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 187,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 297,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 297,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 133,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 102,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 301,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 262,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 300,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 300,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 300,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 250,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 292,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 301,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 274,
+      "total": 315
+    }
+  }
+}

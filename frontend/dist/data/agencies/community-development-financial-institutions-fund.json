@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "community-development-financial-institutions-fund",
+    "name": "Community Development Financial Institutions Fund",
+    "shortName": "CDFI",
+    "titles": [
+      12
+    ],
+    "chapters": [
+      "XVIII"
+    ]
+  },
+  "analysis": {
+    "slug": "community-development-financial-institutions-fund",
+    "name": "Community Development Financial Institutions Fund",
+    "shortName": "CDFI",
+    "wordCount": 5666910,
+    "sectionCount": 7198,
+    "titleCount": 1,
+    "checksum": "10c394ff76ecaff6",
+    "complexityScore": 7.64,
+    "avgWordsPerSection": 787,
+    "titles": [
+      12
+    ],
+    "burdenIndex": 84,
+    "mandateDensity": 8.92,
+    "penaltyScore": 8.6,
+    "exemptionCount": 13948,
+    "definitionDensity": 2.42,
+    "formReportingBurden": 33540,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.96,
+    "permissionBurden": 6407,
+    "complianceCostMentions": 38123,
+    "inspectionBurden": 6742,
+    "deadlineCount": 4792,
+    "discretionaryLanguage": 41373,
+    "smallBusinessMentions": 1183,
+    "crossReferenceCount": 8902
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 92,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 228,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 227,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 46,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 57,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 22,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 105,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 201,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 267,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 100,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 34,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 99,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 38,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 31,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 48,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 84,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 33,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 134,
+      "total": 315
+    }
+  }
+}

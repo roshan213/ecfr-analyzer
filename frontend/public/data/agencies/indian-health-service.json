@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "indian-health-service",
+    "name": "Indian Health Service",
+    "shortName": "IHS",
+    "titles": [
+      25,
+      42
+    ],
+    "chapters": [
+      "V",
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "indian-health-service",
+    "name": "Indian Health Service",
+    "shortName": "IHS",
+    "wordCount": 4041927,
+    "sectionCount": 11986,
+    "titleCount": 2,
+    "checksum": "820fe073214c96c5",
+    "complexityScore": 7.42,
+    "avgWordsPerSection": 337,
+    "titles": [
+      25,
+      42
+    ],
+    "burdenIndex": 83,
+    "mandateDensity": 9.27,
+    "penaltyScore": 10,
+    "exemptionCount": 10102,
+    "definitionDensity": 2.23,
+    "formReportingBurden": 17515,
+    "lastSignificantUpdate": "2025-12-04",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.78,
+    "permissionBurden": 7738,
+    "complianceCostMentions": 33675,
+    "inspectionBurden": 10193,
+    "deadlineCount": 4295,
+    "discretionaryLanguage": 25933,
+    "smallBusinessMentions": 19,
+    "crossReferenceCount": 7062
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 102,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 209,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 93,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 103,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 124,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 73,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 181,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 207,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 294,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 83,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 67,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 51,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 70,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 82,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 259,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 103,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 90,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 71,
+      "total": 315
+    }
+  }
+}

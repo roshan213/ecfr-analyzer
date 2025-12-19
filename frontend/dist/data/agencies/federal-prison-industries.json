@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-prison-industries",
+    "name": "Federal Prison Industries",
+    "shortName": "FPI",
+    "titles": [
+      28
+    ],
+    "chapters": [
+      "III"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-prison-industries",
+    "name": "Federal Prison Industries",
+    "shortName": "FPI",
+    "wordCount": 1400237,
+    "sectionCount": 3048,
+    "titleCount": 1,
+    "checksum": "cff28d43ae85bcff",
+    "complexityScore": 7.48,
+    "avgWordsPerSection": 459,
+    "titles": [
+      28
+    ],
+    "burdenIndex": 93,
+    "mandateDensity": 9.11,
+    "penaltyScore": 10,
+    "exemptionCount": 3789,
+    "definitionDensity": 2.1,
+    "formReportingBurden": 4957,
+    "lastSignificantUpdate": "2025-12-10",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.21,
+    "permissionBurden": 1765,
+    "complianceCostMentions": 3400,
+    "inspectionBurden": 2609,
+    "deadlineCount": 863,
+    "discretionaryLanguage": 9494,
+    "smallBusinessMentions": 169,
+    "crossReferenceCount": 2261
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 13,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 213,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 41,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 235,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 199,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 242,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 147,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 164,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 146,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 261,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 269,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 217,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 257,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 216,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 99,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 249,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 225,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 278,
+      "total": 315
+    }
+  }
+}

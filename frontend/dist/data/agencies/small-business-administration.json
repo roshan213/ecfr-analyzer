@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "small-business-administration",
+    "name": "Small Business Administration",
+    "shortName": "SBA",
+    "titles": [
+      2,
+      13
+    ],
+    "chapters": [
+      "XXVII",
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "small-business-administration",
+    "name": "Small Business Administration",
+    "shortName": "SBA",
+    "wordCount": 910394,
+    "sectionCount": 3207,
+    "titleCount": 2,
+    "checksum": "17d0fdeffb0994d6",
+    "complexityScore": 6.98,
+    "avgWordsPerSection": 284,
+    "titles": [
+      2,
+      13
+    ],
+    "burdenIndex": 82,
+    "mandateDensity": 9.84,
+    "penaltyScore": 10,
+    "exemptionCount": 2629,
+    "definitionDensity": 1.9,
+    "formReportingBurden": 4159,
+    "lastSignificantUpdate": "2025-12-05",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.01,
+    "permissionBurden": 1549,
+    "complianceCostMentions": 6747,
+    "inspectionBurden": 2428,
+    "deadlineCount": 783,
+    "discretionaryLanguage": 6839,
+    "smallBusinessMentions": 2196,
+    "crossReferenceCount": 3712
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 114,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 186,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 103,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 265,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 230,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 273,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 282,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 214,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 210,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 279,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 186,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 222,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 272,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 269,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 32,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 214,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 282,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 256,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "wage-and-hour-division",
+    "name": "Wage and Hour Division",
+    "shortName": "WHD",
+    "titles": [
+      29
+    ],
+    "chapters": [
+      "V"
+    ]
+  },
+  "analysis": {
+    "slug": "wage-and-hour-division",
+    "name": "Wage and Hour Division",
+    "shortName": "WHD",
+    "wordCount": 3916655,
+    "sectionCount": 7300,
+    "titleCount": 1,
+    "checksum": "0cb511146035c439",
+    "complexityScore": 7.77,
+    "avgWordsPerSection": 537,
+    "titles": [
+      29
+    ],
+    "burdenIndex": 76,
+    "mandateDensity": 12.99,
+    "penaltyScore": 10,
+    "exemptionCount": 10589,
+    "definitionDensity": 2.21,
+    "formReportingBurden": 11476,
+    "lastSignificantUpdate": "2025-10-31",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.3,
+    "permissionBurden": 3717,
+    "complianceCostMentions": 8671,
+    "inspectionBurden": 9117,
+    "deadlineCount": 3185,
+    "discretionaryLanguage": 25054,
+    "smallBusinessMentions": 38,
+    "crossReferenceCount": 5976
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 250,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 70,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 164,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 89,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 132,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 122,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 21,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 126,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 109,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 184,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 154,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 58,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 95,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 89,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 150,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 137,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 98,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 122,
+      "total": 315
+    }
+  }
+}

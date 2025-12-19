@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "office-of-housing-and-multifamily-housing-assistance-restructuring",
+    "name": "Office of Housing and Multifamily Housing Assistance Restructuring",
+    "shortName": "",
+    "titles": [
+      24
+    ],
+    "chapters": [
+      "IV"
+    ]
+  },
+  "analysis": {
+    "slug": "office-of-housing-and-multifamily-housing-assistance-restructuring",
+    "name": "Office of Housing and Multifamily Housing Assistance Restructuring",
+    "shortName": "Office of Housing and Multifamily Housing Assistance Restructuring",
+    "wordCount": 1815674,
+    "sectionCount": 4961,
+    "titleCount": 1,
+    "checksum": "5d95c60c98402cfc",
+    "complexityScore": 7.68,
+    "avgWordsPerSection": 366,
+    "titles": [
+      24
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 13.51,
+    "penaltyScore": 10,
+    "exemptionCount": 4029,
+    "definitionDensity": 1.89,
+    "formReportingBurden": 6320,
+    "lastSignificantUpdate": "2025-12-08",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.39,
+    "permissionBurden": 2650,
+    "complianceCostMentions": 11327,
+    "inspectionBurden": 4647,
+    "deadlineCount": 1614,
+    "discretionaryLanguage": 13918,
+    "smallBusinessMentions": 21,
+    "crossReferenceCount": 6396
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 227,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 46,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 148,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 218,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 236,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 186,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 49,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 111,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 74,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 219,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 108,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 137,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 191,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 172,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 242,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 112,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 184,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 214,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "agency": {
+    "slug": "homeland-security-department",
+    "name": "Department of Homeland Security",
+    "shortName": "DHS",
+    "titles": [
+      2,
+      5,
+      8
+    ],
+    "chapters": [
+      "XXX",
+      "XXXVI",
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "homeland-security-department",
+    "name": "Department of Homeland Security",
+    "shortName": "DHS",
+    "wordCount": 2799481,
+    "sectionCount": 7845,
+    "titleCount": 3,
+    "checksum": "541ec95ccc28aa4f",
+    "complexityScore": 7.3,
+    "avgWordsPerSection": 357,
+    "titles": [
+      2,
+      5,
+      8
+    ],
+    "burdenIndex": 88,
+    "mandateDensity": 9.39,
+    "penaltyScore": 10,
+    "exemptionCount": 10037,
+    "definitionDensity": 2,
+    "formReportingBurden": 14122,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.37,
+    "permissionBurden": 4938,
+    "complianceCostMentions": 12425,
+    "inspectionBurden": 5106,
+    "deadlineCount": 2768,
+    "discretionaryLanguage": 21231,
+    "smallBusinessMentions": 74,
+    "crossReferenceCount": 9764
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 44,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 208,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 67,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 105,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 220,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 91,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 248,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 172,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 82,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 149,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 101,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 127,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 111,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 110,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 117,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 65,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 122,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 109,
+      "total": 315
+    }
+  }
+}

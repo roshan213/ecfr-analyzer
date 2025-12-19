@@ -1,0 +1,126 @@
+{
+  "agency": {
+    "slug": "health-and-human-services-department",
+    "name": "Department of Health and Human Services",
+    "shortName": "HHS",
+    "titles": [
+      2,
+      5,
+      45,
+      48
+    ],
+    "chapters": [
+      "III",
+      "XLV",
+      null,
+      "3"
+    ]
+  },
+  "analysis": {
+    "slug": "health-and-human-services-department",
+    "name": "Department of Health and Human Services",
+    "shortName": "HHS",
+    "wordCount": 6672269,
+    "sectionCount": 24314,
+    "titleCount": 4,
+    "checksum": "bcfa2644e340008b",
+    "complexityScore": 7.39,
+    "avgWordsPerSection": 274,
+    "titles": [
+      2,
+      5,
+      45,
+      48
+    ],
+    "burdenIndex": 83,
+    "mandateDensity": 10.13,
+    "penaltyScore": 10,
+    "exemptionCount": 20603,
+    "definitionDensity": 2.43,
+    "formReportingBurden": 28351,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.2,
+    "permissionBurden": 9561,
+    "complianceCostMentions": 50799,
+    "inspectionBurden": 11603,
+    "deadlineCount": 5991,
+    "discretionaryLanguage": 46470,
+    "smallBusinessMentions": 3360,
+    "crossReferenceCount": 16347
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 100,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 174,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 91,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 15,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 49,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 28,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 222,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 83,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 151,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 58,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 6,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 40,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 19,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 19,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 9,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 14,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 25,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 12,
+      "total": 315
+    }
+  }
+}

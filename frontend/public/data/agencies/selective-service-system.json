@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "selective-service-system",
+    "name": "Selective Service System",
+    "shortName": "SSS",
+    "titles": [
+      32
+    ],
+    "chapters": [
+      "XVI"
+    ]
+  },
+  "analysis": {
+    "slug": "selective-service-system",
+    "name": "Selective Service System",
+    "shortName": "SSS",
+    "wordCount": 1788058,
+    "sectionCount": 3653,
+    "titleCount": 1,
+    "checksum": "b33fda50a10a9e9b",
+    "complexityScore": 7.74,
+    "avgWordsPerSection": 489,
+    "titles": [
+      32
+    ],
+    "burdenIndex": 90,
+    "mandateDensity": 8.77,
+    "penaltyScore": 10,
+    "exemptionCount": 5033,
+    "definitionDensity": 0.87,
+    "formReportingBurden": 7343,
+    "lastSignificantUpdate": "2025-12-01",
+    "structureDepth": 7,
+    "prohibitionDensity": 1,
+    "permissionBurden": 3558,
+    "complianceCostMentions": 6741,
+    "inspectionBurden": 4166,
+    "deadlineCount": 1079,
+    "discretionaryLanguage": 13286,
+    "smallBusinessMentions": 24,
+    "crossReferenceCount": 2482
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 39,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 237,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 62,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 191,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 312,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 176,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 31,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 77,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 228,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 195,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 192,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 167,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 230,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 190,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 208,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 245,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 194,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 235,
+      "total": 315
+    }
+  }
+}

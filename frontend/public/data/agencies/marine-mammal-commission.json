@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "marine-mammal-commission",
+    "name": "Marine Mammal Commission",
+    "shortName": "MMC",
+    "titles": [
+      50
+    ],
+    "chapters": [
+      "V"
+    ]
+  },
+  "analysis": {
+    "slug": "marine-mammal-commission",
+    "name": "Marine Mammal Commission",
+    "shortName": "MMC",
+    "wordCount": 3620380,
+    "sectionCount": 3216,
+    "titleCount": 1,
+    "checksum": "df456c576f7c3b1f",
+    "complexityScore": 7.81,
+    "avgWordsPerSection": 1126,
+    "titles": [
+      50
+    ],
+    "burdenIndex": 72,
+    "mandateDensity": 7.5,
+    "penaltyScore": 5.5,
+    "exemptionCount": 8440,
+    "definitionDensity": 1.35,
+    "formReportingBurden": 12210,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.21,
+    "permissionBurden": 19432,
+    "complianceCostMentions": 4365,
+    "inspectionBurden": 5931,
+    "deadlineCount": 2468,
+    "discretionaryLanguage": 16450,
+    "smallBusinessMentions": 8,
+    "crossReferenceCount": 4552
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 292,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 292,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 297,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 125,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 297,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 106,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 15,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 283,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 150,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 13,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 229,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 111,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 124,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 139,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 290,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 177,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 107,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 255,
+      "total": 315
+    }
+  }
+}

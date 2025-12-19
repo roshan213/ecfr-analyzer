@@ -1,0 +1,119 @@
+{
+  "agency": {
+    "slug": "international-trade-administration",
+    "name": "International Trade Administration",
+    "shortName": "ITA",
+    "titles": [
+      15,
+      19
+    ],
+    "chapters": [
+      "III"
+    ]
+  },
+  "analysis": {
+    "slug": "international-trade-administration",
+    "name": "International Trade Administration",
+    "shortName": "ITA",
+    "wordCount": 3067967,
+    "sectionCount": 5568,
+    "titleCount": 2,
+    "checksum": "11a30974d81a136e",
+    "complexityScore": 7.71,
+    "avgWordsPerSection": 551,
+    "titles": [
+      15,
+      19
+    ],
+    "burdenIndex": 87,
+    "mandateDensity": 7.35,
+    "penaltyScore": 10,
+    "exemptionCount": 8510,
+    "definitionDensity": 1.46,
+    "formReportingBurden": 12814,
+    "lastSignificantUpdate": "2025-12-05",
+    "structureDepth": 7,
+    "prohibitionDensity": 0.86,
+    "permissionBurden": 12616,
+    "complianceCostMentions": 9586,
+    "inspectionBurden": 5779,
+    "deadlineCount": 2548,
+    "discretionaryLanguage": 16774,
+    "smallBusinessMentions": 55,
+    "crossReferenceCount": 6143
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 59,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 293,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 6,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 115,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 275,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 103,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 42,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 5,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 287,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 22,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 131,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 114,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 120,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 135,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 133,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 126,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 115,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 176,
+      "total": 315
+    }
+  }
+}

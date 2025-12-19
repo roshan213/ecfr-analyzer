@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "office-of-inspector-general,-housing-and-urban-development",
+    "name": "Office of Inspector General, Housing and Urban Development",
+    "shortName": "",
+    "titles": [
+      24
+    ],
+    "chapters": [
+      "XII"
+    ]
+  },
+  "analysis": {
+    "slug": "office-of-inspector-general,-housing-and-urban-development",
+    "name": "Office of Inspector General, Housing and Urban Development",
+    "shortName": "Office of Inspector General, Housing and Urban Development",
+    "wordCount": 1815674,
+    "sectionCount": 4961,
+    "titleCount": 1,
+    "checksum": "5d95c60c98402cfc",
+    "complexityScore": 7.68,
+    "avgWordsPerSection": 366,
+    "titles": [
+      24
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 13.51,
+    "penaltyScore": 10,
+    "exemptionCount": 4029,
+    "definitionDensity": 1.89,
+    "formReportingBurden": 6320,
+    "lastSignificantUpdate": "2025-12-08",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.39,
+    "permissionBurden": 2650,
+    "complianceCostMentions": 11327,
+    "inspectionBurden": 4647,
+    "deadlineCount": 1614,
+    "discretionaryLanguage": 13918,
+    "smallBusinessMentions": 21,
+    "crossReferenceCount": 6396
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 228,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 47,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 149,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 219,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 237,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 187,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 50,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 112,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 75,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 220,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 109,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 138,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 192,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 173,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 243,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 113,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 185,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 215,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "neighborhood-reinvestment-corporation",
+    "name": "Neighborhood Reinvestment Corporation",
+    "shortName": "NEIGHBOR",
+    "titles": [
+      24
+    ],
+    "chapters": [
+      "XXV"
+    ]
+  },
+  "analysis": {
+    "slug": "neighborhood-reinvestment-corporation",
+    "name": "Neighborhood Reinvestment Corporation",
+    "shortName": "NEIGHBOR",
+    "wordCount": 1815674,
+    "sectionCount": 4961,
+    "titleCount": 1,
+    "checksum": "5d95c60c98402cfc",
+    "complexityScore": 7.68,
+    "avgWordsPerSection": 366,
+    "titles": [
+      24
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 13.51,
+    "penaltyScore": 10,
+    "exemptionCount": 4029,
+    "definitionDensity": 1.89,
+    "formReportingBurden": 6320,
+    "lastSignificantUpdate": "2025-12-08",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.39,
+    "permissionBurden": 2650,
+    "complianceCostMentions": 11327,
+    "inspectionBurden": 4647,
+    "deadlineCount": 1614,
+    "discretionaryLanguage": 13918,
+    "smallBusinessMentions": 21,
+    "crossReferenceCount": 6396
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 233,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 50,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 153,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 222,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 240,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 190,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 53,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 115,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 78,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 223,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 112,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 141,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 195,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 176,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 246,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 116,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 188,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 218,
+      "total": 315
+    }
+  }
+}

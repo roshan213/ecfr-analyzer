@@ -1,0 +1,118 @@
+{
+  "agency": {
+    "slug": "indian-affairs-bureau",
+    "name": "Bureau of Indian Affairs",
+    "shortName": "BIA",
+    "titles": [
+      25
+    ],
+    "chapters": [
+      "I",
+      "V"
+    ]
+  },
+  "analysis": {
+    "slug": "indian-affairs-bureau",
+    "name": "Bureau of Indian Affairs",
+    "shortName": "BIA",
+    "wordCount": 837098,
+    "sectionCount": 4747,
+    "titleCount": 1,
+    "checksum": "a556af3b9a099f63",
+    "complexityScore": 6.93,
+    "avgWordsPerSection": 176,
+    "titles": [
+      25
+    ],
+    "burdenIndex": 81,
+    "mandateDensity": 13.52,
+    "penaltyScore": 10,
+    "exemptionCount": 1936,
+    "definitionDensity": 2.85,
+    "formReportingBurden": 3258,
+    "lastSignificantUpdate": "2025-12-01",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.97,
+    "permissionBurden": 2799,
+    "complianceCostMentions": 3933,
+    "inspectionBurden": 1681,
+    "deadlineCount": 1195,
+    "discretionaryLanguage": 6465,
+    "smallBusinessMentions": 6,
+    "crossReferenceCount": 1566
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 121,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 35,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 105,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 282,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 12,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 276,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 283,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 216,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 231,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 207,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 239,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 259,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 215,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 280,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 291,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 273,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 283,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 220,
+      "total": 315
+    }
+  }
+}

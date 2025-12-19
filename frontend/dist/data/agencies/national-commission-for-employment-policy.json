@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "national-commission-for-employment-policy",
+    "name": "National Commission for Employment Policy",
+    "shortName": "",
+    "titles": [
+      1
+    ],
+    "chapters": [
+      "IV"
+    ]
+  },
+  "analysis": {
+    "slug": "national-commission-for-employment-policy",
+    "name": "National Commission for Employment Policy",
+    "shortName": "National Commission for Employment Policy",
+    "wordCount": 68018,
+    "sectionCount": 288,
+    "titleCount": 1,
+    "checksum": "55d5449e302424a1",
+    "complexityScore": 4.64,
+    "avgWordsPerSection": 236,
+    "titles": [
+      1
+    ],
+    "burdenIndex": 56,
+    "mandateDensity": 13.83,
+    "penaltyScore": 4.6,
+    "exemptionCount": 258,
+    "definitionDensity": 2.34,
+    "formReportingBurden": 466,
+    "lastSignificantUpdate": "2022-12-29",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.96,
+    "permissionBurden": 70,
+    "complianceCostMentions": 441,
+    "inspectionBurden": 179,
+    "deadlineCount": 74,
+    "discretionaryLanguage": 478,
+    "smallBusinessMentions": 1,
+    "crossReferenceCount": 119
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 309,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 17,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 300,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 308,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 98,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 308,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 308,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 295,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 270,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 308,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 308,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 308,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 309,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 309,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 307,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 308,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 308,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 308,
+      "total": 315
+    }
+  }
+}

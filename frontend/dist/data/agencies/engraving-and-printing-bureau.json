@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "engraving-and-printing-bureau",
+    "name": "Bureau of Engraving and Printing",
+    "shortName": "BEP",
+    "titles": [
+      31
+    ],
+    "chapters": [
+      "VI"
+    ]
+  },
+  "analysis": {
+    "slug": "engraving-and-printing-bureau",
+    "name": "Bureau of Engraving and Printing",
+    "shortName": "BEP",
+    "wordCount": 1371454,
+    "sectionCount": 5464,
+    "titleCount": 1,
+    "checksum": "b869cd0529312ac5",
+    "complexityScore": 7.63,
+    "avgWordsPerSection": 251,
+    "titles": [
+      31
+    ],
+    "burdenIndex": 97,
+    "mandateDensity": 6.8,
+    "penaltyScore": 10,
+    "exemptionCount": 3854,
+    "definitionDensity": 3.32,
+    "formReportingBurden": 5974,
+    "lastSignificantUpdate": "2025-12-03",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.86,
+    "permissionBurden": 5797,
+    "complianceCostMentions": 7128,
+    "inspectionBurden": 1190,
+    "deadlineCount": 926,
+    "discretionaryLanguage": 8489,
+    "smallBusinessMentions": 34,
+    "crossReferenceCount": 3214
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 3,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 297,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 31,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 225,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 4,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 204,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 111,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 53,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 16,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 121,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 178,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 285,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 235,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 225,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 172,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 224,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 230,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 179,
+      "total": 315
+    }
+  }
+}

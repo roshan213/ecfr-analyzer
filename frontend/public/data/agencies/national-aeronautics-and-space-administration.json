@@ -1,0 +1,126 @@
+{
+  "agency": {
+    "slug": "national-aeronautics-and-space-administration",
+    "name": "National Aeronautics and Space Administration",
+    "shortName": "NASA",
+    "titles": [
+      2,
+      5,
+      14,
+      48
+    ],
+    "chapters": [
+      "XVIII",
+      "LIX",
+      "V",
+      "18"
+    ]
+  },
+  "analysis": {
+    "slug": "national-aeronautics-and-space-administration",
+    "name": "National Aeronautics and Space Administration",
+    "shortName": "NASA",
+    "wordCount": 6842737,
+    "sectionCount": 24944,
+    "titleCount": 4,
+    "checksum": "030ed8cfdbb2929b",
+    "complexityScore": 7.29,
+    "avgWordsPerSection": 274,
+    "titles": [
+      2,
+      5,
+      14,
+      48
+    ],
+    "burdenIndex": 76,
+    "mandateDensity": 11.65,
+    "penaltyScore": 7.5,
+    "exemptionCount": 21952,
+    "definitionDensity": 2.22,
+    "formReportingBurden": 25214,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.14,
+    "permissionBurden": 17494,
+    "complianceCostMentions": 45108,
+    "inspectionBurden": 10700,
+    "deadlineCount": 5132,
+    "discretionaryLanguage": 45972,
+    "smallBusinessMentions": 3380,
+    "crossReferenceCount": 17400
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 251,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 114,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 272,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 12,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 126,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 35,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 253,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 262,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 173,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 17,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 12,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 47,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 26,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 22,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 7,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 12,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 22,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 8,
+      "total": 315
+    }
+  }
+}

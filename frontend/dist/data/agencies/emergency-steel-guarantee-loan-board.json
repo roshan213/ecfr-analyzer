@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "emergency-steel-guarantee-loan-board",
+    "name": "Emergency Steel Guarantee Loan Board",
+    "shortName": "",
+    "titles": [
+      13
+    ],
+    "chapters": [
+      "IV"
+    ]
+  },
+  "analysis": {
+    "slug": "emergency-steel-guarantee-loan-board",
+    "name": "Emergency Steel Guarantee Loan Board",
+    "shortName": "Emergency Steel Guarantee Loan Board",
+    "wordCount": 556711,
+    "sectionCount": 1699,
+    "titleCount": 1,
+    "checksum": "0f0076caa038e756",
+    "complexityScore": 5.93,
+    "avgWordsPerSection": 328,
+    "titles": [
+      13
+    ],
+    "burdenIndex": 72,
+    "mandateDensity": 9.53,
+    "penaltyScore": 10,
+    "exemptionCount": 1453,
+    "definitionDensity": 1.77,
+    "formReportingBurden": 2399,
+    "lastSignificantUpdate": "2025-12-05",
+    "structureDepth": 5,
+    "prohibitionDensity": 1.15,
+    "permissionBurden": 1057,
+    "complianceCostMentions": 2577,
+    "inspectionBurden": 1111,
+    "deadlineCount": 598,
+    "discretionaryLanguage": 4575,
+    "smallBusinessMentions": 2147,
+    "crossReferenceCount": 815
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 290,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 205,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 176,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 302,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 258,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 301,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 302,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 313,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 171,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 290,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 285,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 295,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 293,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 295,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 35,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 300,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 296,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 298,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "ocean-energy-management-bureau",
+    "name": "Bureau of Ocean Energy Management",
+    "shortName": "BOEM",
+    "titles": [
+      30
+    ],
+    "chapters": [
+      "V"
+    ]
+  },
+  "analysis": {
+    "slug": "ocean-energy-management-bureau",
+    "name": "Bureau of Ocean Energy Management",
+    "shortName": "BOEM",
+    "wordCount": 1360505,
+    "sectionCount": 5957,
+    "titleCount": 1,
+    "checksum": "a02b1a77a686eb79",
+    "complexityScore": 7.36,
+    "avgWordsPerSection": 228,
+    "titles": [
+      30
+    ],
+    "burdenIndex": 88,
+    "mandateDensity": 16.92,
+    "penaltyScore": 10,
+    "exemptionCount": 2603,
+    "definitionDensity": 1.96,
+    "formReportingBurden": 5639,
+    "lastSignificantUpdate": "2025-12-17",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.24,
+    "permissionBurden": 6001,
+    "complianceCostMentions": 3567,
+    "inspectionBurden": 4095,
+    "deadlineCount": 1366,
+    "discretionaryLanguage": 7950,
+    "smallBusinessMentions": 13,
+    "crossReferenceCount": 3839
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 46,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 4,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 69,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 273,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 222,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 231,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 235,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 174,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 118,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 104,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 248,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 169,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 198,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 253,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 266,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 193,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 238,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 148,
+      "total": 315
+    }
+  }
+}

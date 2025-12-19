@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "defense-acquisition-regulations-system",
+    "name": "Defense Acquisition Regulations System",
+    "shortName": "DARS",
+    "titles": [
+      48
+    ],
+    "chapters": [
+      "2"
+    ]
+  },
+  "analysis": {
+    "slug": "defense-acquisition-regulations-system",
+    "name": "Defense Acquisition Regulations System",
+    "shortName": "DARS",
+    "wordCount": 2670081,
+    "sectionCount": 11574,
+    "titleCount": 1,
+    "checksum": "13148bf30efa9490",
+    "complexityScore": 6.99,
+    "avgWordsPerSection": 231,
+    "titles": [
+      48
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 11.72,
+    "penaltyScore": 6.3,
+    "exemptionCount": 8440,
+    "definitionDensity": 2.47,
+    "formReportingBurden": 11700,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 5,
+    "prohibitionDensity": 1.07,
+    "permissionBurden": 4684,
+    "complianceCostMentions": 30845,
+    "inspectionBurden": 3682,
+    "deadlineCount": 1926,
+    "discretionaryLanguage": 16919,
+    "smallBusinessMentions": 3252,
+    "crossReferenceCount": 4723
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 216,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 107,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 277,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 116,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 37,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 108,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 275,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 301,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 186,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 151,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 68,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 179,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 151,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 128,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 25,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 167,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 123,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 72,
+      "total": 315
+    }
+  }
+}

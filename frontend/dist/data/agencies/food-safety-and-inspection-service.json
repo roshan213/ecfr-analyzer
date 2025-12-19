@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "food-safety-and-inspection-service",
+    "name": "Food Safety and Inspection Service",
+    "shortName": "FSIS",
+    "titles": [
+      9
+    ],
+    "chapters": [
+      "III"
+    ]
+  },
+  "analysis": {
+    "slug": "food-safety-and-inspection-service",
+    "name": "Food Safety and Inspection Service",
+    "shortName": "FSIS",
+    "wordCount": 1055064,
+    "sectionCount": 2440,
+    "titleCount": 1,
+    "checksum": "b6d3c05297773c64",
+    "complexityScore": 7.47,
+    "avgWordsPerSection": 432,
+    "titles": [
+      9
+    ],
+    "burdenIndex": 65,
+    "mandateDensity": 16.36,
+    "penaltyScore": 4.1,
+    "exemptionCount": 2694,
+    "definitionDensity": 1.27,
+    "formReportingBurden": 2241,
+    "lastSignificantUpdate": "2025-10-30",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.37,
+    "permissionBurden": 3460,
+    "complianceCostMentions": 1647,
+    "inspectionBurden": 4643,
+    "deadlineCount": 871,
+    "discretionaryLanguage": 6289,
+    "smallBusinessMentions": 10,
+    "crossReferenceCount": 1727
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 301,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 10,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 306,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 264,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 300,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 302,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 152,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 160,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 81,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 198,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 302,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 142,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 254,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 286,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 275,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 272,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 267,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 281,
+      "total": 315
+    }
+  }
+}

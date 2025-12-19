@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "alcohol-tobacco-firearms-and-explosives-bureau",
+    "name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+    "shortName": "ATF",
+    "titles": [
+      27
+    ],
+    "chapters": [
+      "II"
+    ]
+  },
+  "analysis": {
+    "slug": "alcohol-tobacco-firearms-and-explosives-bureau",
+    "name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+    "shortName": "ATF",
+    "wordCount": 1025105,
+    "sectionCount": 3949,
+    "titleCount": 1,
+    "checksum": "1bb1163e78cb73c5",
+    "complexityScore": 7.38,
+    "avgWordsPerSection": 260,
+    "titles": [
+      27
+    ],
+    "burdenIndex": 81,
+    "mandateDensity": 10.65,
+    "penaltyScore": 9.2,
+    "exemptionCount": 1756,
+    "definitionDensity": 0.8,
+    "formReportingBurden": 4561,
+    "lastSignificantUpdate": "2025-11-28",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.06,
+    "permissionBurden": 4023,
+    "complianceCostMentions": 2233,
+    "inspectionBurden": 458,
+    "deadlineCount": 593,
+    "discretionaryLanguage": 7974,
+    "smallBusinessMentions": 0,
+    "crossReferenceCount": 1955
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 126,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 160,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 207,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 289,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 314,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 248,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 230,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 221,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 197,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 175,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 286,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 305,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 294,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 244,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 313,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 254,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 268,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 227,
+      "total": 315
+    }
+  }
+}

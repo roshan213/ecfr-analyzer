@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "federal-election-commission",
+    "name": "Federal Election Commission",
+    "shortName": "FEC",
+    "titles": [
+      5,
+      11
+    ],
+    "chapters": [
+      "XXXVII",
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-election-commission",
+    "name": "Federal Election Commission",
+    "shortName": "FEC",
+    "wordCount": 1873592,
+    "sectionCount": 5935,
+    "titleCount": 2,
+    "checksum": "8ce74b18ac2da46d",
+    "complexityScore": 7.22,
+    "avgWordsPerSection": 316,
+    "titles": [
+      5,
+      11
+    ],
+    "burdenIndex": 82,
+    "mandateDensity": 8.6,
+    "penaltyScore": 10,
+    "exemptionCount": 6165,
+    "definitionDensity": 2.32,
+    "formReportingBurden": 7752,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.5,
+    "permissionBurden": 1846,
+    "complianceCostMentions": 8668,
+    "inspectionBurden": 2565,
+    "deadlineCount": 2078,
+    "discretionaryLanguage": 13893,
+    "smallBusinessMentions": 23,
+    "crossReferenceCount": 7109
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 110,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 245,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 100,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 149,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 106,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 166,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 269,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 212,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 39,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 258,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 158,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 220,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 132,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 178,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 223,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 102,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 178,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 154,
+      "total": 315
+    }
+  }
+}

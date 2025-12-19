@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-transit-administration",
+    "name": "Federal Transit Administration",
+    "shortName": "FTA",
+    "titles": [
+      49
+    ],
+    "chapters": [
+      "VI"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-transit-administration",
+    "name": "Federal Transit Administration",
+    "shortName": "FTA",
+    "wordCount": 4107293,
+    "sectionCount": 9061,
+    "titleCount": 1,
+    "checksum": "9ebb7e06f39ded3d",
+    "complexityScore": 7.73,
+    "avgWordsPerSection": 453,
+    "titles": [
+      49
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 13.73,
+    "penaltyScore": 10,
+    "exemptionCount": 10417,
+    "definitionDensity": 2.17,
+    "formReportingBurden": 13156,
+    "lastSignificantUpdate": "2025-11-03",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.78,
+    "permissionBurden": 5923,
+    "complianceCostMentions": 8150,
+    "inspectionBurden": 8819,
+    "deadlineCount": 3203,
+    "discretionaryLanguage": 22274,
+    "smallBusinessMentions": 159,
+    "crossReferenceCount": 9040
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 189,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 29,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 140,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 99,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 181,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 100,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 39,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 103,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 30,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 116,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 169,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 75,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 87,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 103,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 108,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 76,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 85,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 89,
+      "total": 315
+    }
+  }
+}

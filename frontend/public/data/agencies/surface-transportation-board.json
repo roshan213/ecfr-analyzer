@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "surface-transportation-board",
+    "name": "Surface Transportation Board",
+    "shortName": "STB",
+    "titles": [
+      49
+    ],
+    "chapters": [
+      "X"
+    ]
+  },
+  "analysis": {
+    "slug": "surface-transportation-board",
+    "name": "Surface Transportation Board",
+    "shortName": "STB",
+    "wordCount": 4107293,
+    "sectionCount": 9061,
+    "titleCount": 1,
+    "checksum": "9ebb7e06f39ded3d",
+    "complexityScore": 7.73,
+    "avgWordsPerSection": 453,
+    "titles": [
+      49
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 13.73,
+    "penaltyScore": 10,
+    "exemptionCount": 10417,
+    "definitionDensity": 2.17,
+    "formReportingBurden": 13156,
+    "lastSignificantUpdate": "2025-11-03",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.78,
+    "permissionBurden": 5923,
+    "complianceCostMentions": 8150,
+    "inspectionBurden": 8819,
+    "deadlineCount": 3203,
+    "discretionaryLanguage": 22274,
+    "smallBusinessMentions": 159,
+    "crossReferenceCount": 9040
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 185,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 26,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 137,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 96,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 178,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 97,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 36,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 100,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 27,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 113,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 166,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 72,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 84,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 100,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 105,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 73,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 82,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 86,
+      "total": 315
+    }
+  }
+}

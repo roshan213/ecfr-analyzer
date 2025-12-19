@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "engineers-corps",
+    "name": "Army Corps of Engineers",
+    "shortName": "COE",
+    "titles": [
+      33,
+      36
+    ],
+    "chapters": [
+      "II",
+      "III"
+    ]
+  },
+  "analysis": {
+    "slug": "engineers-corps",
+    "name": "Army Corps of Engineers",
+    "shortName": "COE",
+    "wordCount": 2595054,
+    "sectionCount": 7840,
+    "titleCount": 2,
+    "checksum": "666dcc03ec75e144",
+    "complexityScore": 7.42,
+    "avgWordsPerSection": 331,
+    "titles": [
+      33,
+      36
+    ],
+    "burdenIndex": 74,
+    "mandateDensity": 11.91,
+    "penaltyScore": 10,
+    "exemptionCount": 7003,
+    "definitionDensity": 2.14,
+    "formReportingBurden": 6211,
+    "lastSignificantUpdate": "2025-12-12",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.65,
+    "permissionBurden": 8096,
+    "complianceCostMentions": 4814,
+    "inspectionBurden": 4490,
+    "deadlineCount": 1646,
+    "discretionaryLanguage": 16632,
+    "smallBusinessMentions": 37,
+    "crossReferenceCount": 4790
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 273,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 105,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 27,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 135,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 191,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 191,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 175,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 152,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 35,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 81,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 222,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 145,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 185,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 136,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 154,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 166,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 133,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 110,
+      "total": 315
+    }
+  }
+}

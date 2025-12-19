@@ -1,0 +1,127 @@
+{
+  "agency": {
+    "slug": "agriculture-department",
+    "name": "Department of Agriculture",
+    "shortName": "USDA",
+    "titles": [
+      2,
+      5,
+      7,
+      48
+    ],
+    "chapters": [
+      "IV",
+      "LXXIII",
+      "XVI",
+      "XX",
+      "4"
+    ]
+  },
+  "analysis": {
+    "slug": "agriculture-department",
+    "name": "Department of Agriculture",
+    "shortName": "USDA",
+    "wordCount": 10301967,
+    "sectionCount": 35815,
+    "titleCount": 4,
+    "checksum": "0bc0f1784a7d25c1",
+    "complexityScore": 7.39,
+    "avgWordsPerSection": 288,
+    "titles": [
+      2,
+      5,
+      7,
+      48
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 11.23,
+    "penaltyScore": 7.9,
+    "exemptionCount": 27856,
+    "definitionDensity": 2.28,
+    "formReportingBurden": 42682,
+    "lastSignificantUpdate": "2025-12-17",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.06,
+    "permissionBurden": 19508,
+    "complianceCostMentions": 76624,
+    "inspectionBurden": 22484,
+    "deadlineCount": 8412,
+    "discretionaryLanguage": 68777,
+    "smallBusinessMentions": 3528,
+    "crossReferenceCount": 22874
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 155,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 132,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 242,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 9,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 112,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 9,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 220,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 21,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 195,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 10,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 2,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 8,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 9,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 9,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 4,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 9,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 10,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 3,
+      "total": 315
+    }
+  }
+}

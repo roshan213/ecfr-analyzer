@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "armed-forces-retirement-home",
+    "name": "Armed Forces Retirement Home",
+    "shortName": "AFRH",
+    "titles": [
+      5,
+      38
+    ],
+    "chapters": [
+      "XI",
+      "II"
+    ]
+  },
+  "analysis": {
+    "slug": "armed-forces-retirement-home",
+    "name": "Armed Forces Retirement Home",
+    "shortName": "AFRH",
+    "wordCount": 2923461,
+    "sectionCount": 8302,
+    "titleCount": 2,
+    "checksum": "b6ff993a99b76416",
+    "complexityScore": 7.24,
+    "avgWordsPerSection": 352,
+    "titles": [
+      5,
+      38
+    ],
+    "burdenIndex": 74,
+    "mandateDensity": 7.66,
+    "penaltyScore": 7.9,
+    "exemptionCount": 8549,
+    "definitionDensity": 2.16,
+    "formReportingBurden": 9652,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.25,
+    "permissionBurden": 3726,
+    "complianceCostMentions": 14058,
+    "inspectionBurden": 4054,
+    "deadlineCount": 2810,
+    "discretionaryLanguage": 21114,
+    "smallBusinessMentions": 52,
+    "crossReferenceCount": 5972
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 272,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 288,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 243,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 114,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 189,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 143,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 268,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 151,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 115,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 177,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 95,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 175,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 109,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 111,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 135,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 141,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 118,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 108,
+      "total": 315
+    }
+  }
+}

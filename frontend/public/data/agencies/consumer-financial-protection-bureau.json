@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "consumer-financial-protection-bureau",
+    "name": "Consumer Financial Protection Bureau",
+    "shortName": "CFPB",
+    "titles": [
+      5,
+      12
+    ],
+    "chapters": [
+      "LXXXIV",
+      "X"
+    ]
+  },
+  "analysis": {
+    "slug": "consumer-financial-protection-bureau",
+    "name": "Consumer Financial Protection Bureau",
+    "shortName": "CFPB",
+    "wordCount": 7298721,
+    "sectionCount": 12546,
+    "titleCount": 2,
+    "checksum": "c1870dd1c77f3b0f",
+    "complexityScore": 7.54,
+    "avgWordsPerSection": 582,
+    "titles": [
+      5,
+      12
+    ],
+    "burdenIndex": 84,
+    "mandateDensity": 8.7,
+    "penaltyScore": 9.1,
+    "exemptionCount": 19530,
+    "definitionDensity": 2.4,
+    "formReportingBurden": 39497,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.08,
+    "permissionBurden": 8160,
+    "complianceCostMentions": 44707,
+    "inspectionBurden": 8947,
+    "deadlineCount": 6647,
+    "discretionaryLanguage": 53821,
+    "smallBusinessMentions": 1206,
+    "crossReferenceCount": 13834
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 76,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 239,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 210,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 17,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 62,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 11,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 132,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 138,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 180,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 75,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 16,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 62,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 11,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 11,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 37,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 18,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 14,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 64,
+      "total": 315
+    }
+  }
+}

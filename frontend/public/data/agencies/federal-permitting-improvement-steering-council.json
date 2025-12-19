@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-permitting-improvement-steering-council",
+    "name": "Federal Permitting Improvement Steering Council",
+    "shortName": "FPISC",
+    "titles": [
+      40
+    ],
+    "chapters": [
+      "IX"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-permitting-improvement-steering-council",
+    "name": "Federal Permitting Improvement Steering Council",
+    "shortName": "FPISC",
+    "wordCount": 16832713,
+    "sectionCount": 24348,
+    "titleCount": 1,
+    "checksum": "70f088e35c0de005",
+    "complexityScore": 7.6,
+    "avgWordsPerSection": 691,
+    "titles": [
+      40
+    ],
+    "burdenIndex": 80,
+    "mandateDensity": 10.78,
+    "penaltyScore": 5.5,
+    "exemptionCount": 38565,
+    "definitionDensity": 1.73,
+    "formReportingBurden": 82827,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.61,
+    "permissionBurden": 35150,
+    "complianceCostMentions": 9930,
+    "inspectionBurden": 54080,
+    "deadlineCount": 15013,
+    "discretionaryLanguage": 74001,
+    "smallBusinessMentions": 321,
+    "crossReferenceCount": 51567
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 142,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 144,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 295,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 8,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 262,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 7,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 129,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 231,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 314,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 7,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 124,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 7,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 7,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 8,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 62,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 7,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 7,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 11,
+      "total": 315
+    }
+  }
+}

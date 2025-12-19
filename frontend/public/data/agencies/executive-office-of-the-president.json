@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "executive-office-of-the-president",
+    "name": "Executive Office of the President",
+    "shortName": "EOP",
+    "titles": [
+      3
+    ],
+    "chapters": [
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "executive-office-of-the-president",
+    "name": "Executive Office of the President",
+    "shortName": "EOP",
+    "wordCount": 4223,
+    "sectionCount": 27,
+    "titleCount": 1,
+    "checksum": "5f5202e3de75cb32",
+    "complexityScore": 1.37,
+    "avgWordsPerSection": 156,
+    "titles": [
+      3
+    ],
+    "burdenIndex": 42,
+    "mandateDensity": 13.5,
+    "penaltyScore": 9.5,
+    "exemptionCount": 11,
+    "definitionDensity": 4.26,
+    "formReportingBurden": 6,
+    "lastSignificantUpdate": "2015-03-17",
+    "structureDepth": 3,
+    "prohibitionDensity": 2.37,
+    "permissionBurden": 2,
+    "complianceCostMentions": 0,
+    "inspectionBurden": 2,
+    "deadlineCount": 8,
+    "discretionaryLanguage": 22,
+    "smallBusinessMentions": 0,
+    "crossReferenceCount": 11
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 315,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 51,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 197,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 315,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 1,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 315,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 315,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 315,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 12,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 315,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 315,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 315,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 315,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 315,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 315,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 315,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 315,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 315,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "federal-labor-relations-authority",
+    "name": "Federal Labor Relations Authority",
+    "shortName": "FLRA",
+    "titles": [
+      5,
+      22
+    ],
+    "chapters": [
+      "XLIX",
+      "XIV"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-labor-relations-authority",
+    "name": "Federal Labor Relations Authority",
+    "shortName": "FLRA",
+    "wordCount": 2583785,
+    "sectionCount": 8793,
+    "titleCount": 2,
+    "checksum": "d56881e42d7e4ee8",
+    "complexityScore": 7.4,
+    "avgWordsPerSection": 294,
+    "titles": [
+      5,
+      22
+    ],
+    "burdenIndex": 83,
+    "mandateDensity": 8.98,
+    "penaltyScore": 10,
+    "exemptionCount": 8824,
+    "definitionDensity": 2.28,
+    "formReportingBurden": 10139,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.44,
+    "permissionBurden": 4270,
+    "complianceCostMentions": 10922,
+    "inspectionBurden": 3870,
+    "deadlineCount": 2655,
+    "discretionaryLanguage": 19213,
+    "smallBusinessMentions": 32,
+    "crossReferenceCount": 6358
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 98,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 219,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 89,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 111,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 113,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 136,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 203,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 204,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 57,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 172,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 113,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 176,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 117,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 117,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 182,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 119,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 136,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 97,
+      "total": 315
+    }
+  }
+}

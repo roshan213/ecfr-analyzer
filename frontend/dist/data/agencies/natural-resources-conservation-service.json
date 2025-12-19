@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "natural-resources-conservation-service",
+    "name": "Natural Resources Conservation Service",
+    "shortName": "NRCS",
+    "titles": [
+      7
+    ],
+    "chapters": [
+      "VI"
+    ]
+  },
+  "analysis": {
+    "slug": "natural-resources-conservation-service",
+    "name": "Natural Resources Conservation Service",
+    "shortName": "NRCS",
+    "wordCount": 5646392,
+    "sectionCount": 17385,
+    "titleCount": 1,
+    "checksum": "9f0ca91afb75e4c0",
+    "complexityScore": 7.66,
+    "avgWordsPerSection": 325,
+    "titles": [
+      7
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 12,
+    "penaltyScore": 7.5,
+    "exemptionCount": 12658,
+    "definitionDensity": 2.18,
+    "formReportingBurden": 23265,
+    "lastSignificantUpdate": "2025-12-17",
+    "structureDepth": 7,
+    "prohibitionDensity": 0.96,
+    "permissionBurden": 12579,
+    "complianceCostMentions": 35025,
+    "inspectionBurden": 15280,
+    "deadlineCount": 4446,
+    "discretionaryLanguage": 37146,
+    "smallBusinessMentions": 204,
+    "crossReferenceCount": 10322
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 201,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 90,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 257,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 60,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 149,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 46,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 79,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 31,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 246,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 32,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 52,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 22,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 50,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 50,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 78,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 50,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 45,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 36,
+      "total": 315
+    }
+  }
+}

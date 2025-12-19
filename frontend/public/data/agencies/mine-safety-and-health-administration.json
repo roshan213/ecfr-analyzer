@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "mine-safety-and-health-administration",
+    "name": "Mine Safety and Health Administration",
+    "shortName": "MSHA",
+    "titles": [
+      30
+    ],
+    "chapters": [
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "mine-safety-and-health-administration",
+    "name": "Mine Safety and Health Administration",
+    "shortName": "MSHA",
+    "wordCount": 1360505,
+    "sectionCount": 5957,
+    "titleCount": 1,
+    "checksum": "a02b1a77a686eb79",
+    "complexityScore": 7.36,
+    "avgWordsPerSection": 228,
+    "titles": [
+      30
+    ],
+    "burdenIndex": 88,
+    "mandateDensity": 16.92,
+    "penaltyScore": 10,
+    "exemptionCount": 2603,
+    "definitionDensity": 1.96,
+    "formReportingBurden": 5639,
+    "lastSignificantUpdate": "2025-12-17",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.24,
+    "permissionBurden": 6001,
+    "complianceCostMentions": 3567,
+    "inspectionBurden": 4095,
+    "deadlineCount": 1366,
+    "discretionaryLanguage": 7950,
+    "smallBusinessMentions": 13,
+    "crossReferenceCount": 3839
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 56,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 9,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 79,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 278,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 227,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 236,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 240,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 183,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 123,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 109,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 253,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 174,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 203,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 258,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 271,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 198,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 243,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 153,
+      "total": 315
+    }
+  }
+}

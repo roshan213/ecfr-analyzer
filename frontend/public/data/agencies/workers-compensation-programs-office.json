@@ -1,0 +1,118 @@
+{
+  "agency": {
+    "slug": "workers-compensation-programs-office",
+    "name": "Office of Workers' Compensation Programs",
+    "shortName": "OWCP",
+    "titles": [
+      20
+    ],
+    "chapters": [
+      "I",
+      "VI"
+    ]
+  },
+  "analysis": {
+    "slug": "workers-compensation-programs-office",
+    "name": "Office of Workers' Compensation Programs",
+    "shortName": "OWCP",
+    "wordCount": 2020814,
+    "sectionCount": 5652,
+    "titleCount": 1,
+    "checksum": "35b223d3bb427287",
+    "complexityScore": 7.43,
+    "avgWordsPerSection": 358,
+    "titles": [
+      20
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 7.89,
+    "penaltyScore": 9.3,
+    "exemptionCount": 4375,
+    "definitionDensity": 1.66,
+    "formReportingBurden": 8008,
+    "lastSignificantUpdate": "2025-10-27",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.68,
+    "permissionBurden": 1023,
+    "complianceCostMentions": 9901,
+    "inspectionBurden": 5639,
+    "deadlineCount": 1905,
+    "discretionaryLanguage": 13829,
+    "smallBusinessMentions": 14,
+    "crossReferenceCount": 3225
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 176,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 278,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 203,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 199,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 269,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 162,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 171,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 252,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 309,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 295,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 129,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 121,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 162,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 183,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 264,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 220,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 153,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 173,
+      "total": 315
+    }
+  }
+}

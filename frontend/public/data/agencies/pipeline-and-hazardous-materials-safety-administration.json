@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "pipeline-and-hazardous-materials-safety-administration",
+    "name": "Pipeline and Hazardous Materials Safety Administration",
+    "shortName": "PHMSA",
+    "titles": [
+      49
+    ],
+    "chapters": [
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "pipeline-and-hazardous-materials-safety-administration",
+    "name": "Pipeline and Hazardous Materials Safety Administration",
+    "shortName": "PHMSA",
+    "wordCount": 4107293,
+    "sectionCount": 9061,
+    "titleCount": 1,
+    "checksum": "9ebb7e06f39ded3d",
+    "complexityScore": 7.73,
+    "avgWordsPerSection": 453,
+    "titles": [
+      49
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 13.73,
+    "penaltyScore": 10,
+    "exemptionCount": 10417,
+    "definitionDensity": 2.17,
+    "formReportingBurden": 13156,
+    "lastSignificantUpdate": "2025-11-03",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.78,
+    "permissionBurden": 5923,
+    "complianceCostMentions": 8150,
+    "inspectionBurden": 8819,
+    "deadlineCount": 3203,
+    "discretionaryLanguage": 22274,
+    "smallBusinessMentions": 159,
+    "crossReferenceCount": 9040
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 191,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 31,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 142,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 101,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 183,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 102,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 41,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 105,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 32,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 118,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 171,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 77,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 89,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 105,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 110,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 78,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 87,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 91,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "patent-and-trademark-office",
+    "name": "United States Patent and Trademark Office",
+    "shortName": "PTO",
+    "titles": [
+      37
+    ],
+    "chapters": [
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "patent-and-trademark-office",
+    "name": "United States Patent and Trademark Office",
+    "shortName": "PTO",
+    "wordCount": 647800,
+    "sectionCount": 1315,
+    "titleCount": 1,
+    "checksum": "30d1bd5361c815b4",
+    "complexityScore": 6.62,
+    "avgWordsPerSection": 493,
+    "titles": [
+      37
+    ],
+    "burdenIndex": 70,
+    "mandateDensity": 12.04,
+    "penaltyScore": 3.6,
+    "exemptionCount": 1594,
+    "definitionDensity": 1.4,
+    "formReportingBurden": 4807,
+    "lastSignificantUpdate": "2025-12-03",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.01,
+    "permissionBurden": 2001,
+    "complianceCostMentions": 3417,
+    "inspectionBurden": 1452,
+    "deadlineCount": 781,
+    "discretionaryLanguage": 4851,
+    "smallBusinessMentions": 280,
+    "crossReferenceCount": 513
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 293,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 77,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 313,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 297,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 279,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 245,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 290,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 158,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 209,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 255,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 264,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 276,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 273,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 290,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 64,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 302,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 290,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 299,
+      "total": 315
+    }
+  }
+}

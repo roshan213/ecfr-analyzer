@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "peace-corps",
+    "name": "Peace Corps",
+    "shortName": "PC",
+    "titles": [
+      2,
+      22
+    ],
+    "chapters": [
+      "XXXVII",
+      "III"
+    ]
+  },
+  "analysis": {
+    "slug": "peace-corps",
+    "name": "Peace Corps",
+    "shortName": "PC",
+    "wordCount": 1305657,
+    "sectionCount": 4953,
+    "titleCount": 2,
+    "checksum": "65f84079157ed215",
+    "complexityScore": 7.38,
+    "avgWordsPerSection": 264,
+    "titles": [
+      2,
+      22
+    ],
+    "burdenIndex": 88,
+    "mandateDensity": 10.62,
+    "penaltyScore": 10,
+    "exemptionCount": 4418,
+    "definitionDensity": 2.16,
+    "formReportingBurden": 5942,
+    "lastSignificantUpdate": "2025-11-07",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.23,
+    "permissionBurden": 3009,
+    "complianceCostMentions": 8508,
+    "inspectionBurden": 2982,
+    "deadlineCount": 985,
+    "discretionaryLanguage": 9029,
+    "smallBusinessMentions": 58,
+    "crossReferenceCount": 4323
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 58,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 162,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 81,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 194,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 190,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 226,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 229,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 185,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 139,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 206,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 162,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 211,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 232,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 219,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 128,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 179,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 244,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 219,
+      "total": 315
+    }
+  }
+}

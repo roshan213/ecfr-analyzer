@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "federal-mediation-and-conciliation-service",
+    "name": "Federal Mediation and Conciliation Service",
+    "shortName": "FMCS",
+    "titles": [
+      5,
+      29
+    ],
+    "chapters": [
+      "CIII",
+      "XII"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-mediation-and-conciliation-service",
+    "name": "Federal Mediation and Conciliation Service",
+    "shortName": "FMCS",
+    "wordCount": 5548466,
+    "sectionCount": 12648,
+    "titleCount": 2,
+    "checksum": "352ba25c0f774611",
+    "complexityScore": 7.66,
+    "avgWordsPerSection": 439,
+    "titles": [
+      5,
+      29
+    ],
+    "burdenIndex": 77,
+    "mandateDensity": 11.51,
+    "penaltyScore": 10,
+    "exemptionCount": 16171,
+    "definitionDensity": 2.25,
+    "formReportingBurden": 17433,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.35,
+    "permissionBurden": 5470,
+    "complianceCostMentions": 15255,
+    "inspectionBurden": 11322,
+    "deadlineCount": 5040,
+    "discretionaryLanguage": 37502,
+    "smallBusinessMentions": 61,
+    "crossReferenceCount": 10908
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 237,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 120,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 156,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 29,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 119,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 76,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 95,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 118,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 86,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 134,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 87,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 43,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 28,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 37,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 123,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 36,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 61,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 60,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "foreign-service-labor-relations-board",
+    "name": "Foreign Service Labor Relations Board",
+    "shortName": "FSLRB",
+    "titles": [
+      22
+    ],
+    "chapters": [
+      "XIV"
+    ]
+  },
+  "analysis": {
+    "slug": "foreign-service-labor-relations-board",
+    "name": "Foreign Service Labor Relations Board",
+    "shortName": "FSLRB",
+    "wordCount": 951974,
+    "sectionCount": 3445,
+    "titleCount": 1,
+    "checksum": "6a527cf02e17e823",
+    "complexityScore": 7.27,
+    "avgWordsPerSection": 276,
+    "titles": [
+      22
+    ],
+    "burdenIndex": 88,
+    "mandateDensity": 10.73,
+    "penaltyScore": 10,
+    "exemptionCount": 3242,
+    "definitionDensity": 2.17,
+    "formReportingBurden": 4182,
+    "lastSignificantUpdate": "2025-11-07",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.4,
+    "permissionBurden": 2517,
+    "complianceCostMentions": 4338,
+    "inspectionBurden": 1665,
+    "deadlineCount": 800,
+    "discretionaryLanguage": 6765,
+    "smallBusinessMentions": 9,
+    "crossReferenceCount": 1426
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 43,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 149,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 66,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 253,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 168,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 266,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 256,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 171,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 62,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 242,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 232,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 268,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 265,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 272,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 278,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 281,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 272,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 239,
+      "total": 315
+    }
+  }
+}

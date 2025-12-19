@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "centers-for-medicare-medicaid-services",
+    "name": "Centers for Medicare & Medicaid Services",
+    "shortName": "CMS",
+    "titles": [
+      42
+    ],
+    "chapters": [
+      "IV"
+    ]
+  },
+  "analysis": {
+    "slug": "centers-for-medicare-medicaid-services",
+    "name": "Centers for Medicare & Medicaid Services",
+    "shortName": "CMS",
+    "wordCount": 3204829,
+    "sectionCount": 7239,
+    "titleCount": 1,
+    "checksum": "85a9837bcb3175e7",
+    "complexityScore": 7.47,
+    "avgWordsPerSection": 443,
+    "titles": [
+      42
+    ],
+    "burdenIndex": 83,
+    "mandateDensity": 8.15,
+    "penaltyScore": 10,
+    "exemptionCount": 8166,
+    "definitionDensity": 2.07,
+    "formReportingBurden": 14257,
+    "lastSignificantUpdate": "2025-12-04",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.72,
+    "permissionBurden": 4939,
+    "complianceCostMentions": 29742,
+    "inspectionBurden": 8512,
+    "deadlineCount": 3100,
+    "discretionaryLanguage": 19468,
+    "smallBusinessMentions": 13,
+    "crossReferenceCount": 5496
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 101,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 257,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 92,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 127,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 202,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 88,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 153,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 206,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 299,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 146,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 75,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 78,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 100,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 114,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 272,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 142,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 110,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 126,
+      "total": 315
+    }
+  }
+}

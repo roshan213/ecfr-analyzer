@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "national-commission-on-libraries-and-information-science",
+    "name": "National Commission on Libraries and Information Science",
+    "shortName": "NCLIS",
+    "titles": [
+      45
+    ],
+    "chapters": [
+      "XVII"
+    ]
+  },
+  "analysis": {
+    "slug": "national-commission-on-libraries-and-information-science",
+    "name": "National Commission on Libraries and Information Science",
+    "shortName": "NCLIS",
+    "wordCount": 2016694,
+    "sectionCount": 5884,
+    "titleCount": 1,
+    "checksum": "317990c3c20746e9",
+    "complexityScore": 7.67,
+    "avgWordsPerSection": 343,
+    "titles": [
+      45
+    ],
+    "burdenIndex": 92,
+    "mandateDensity": 9.74,
+    "penaltyScore": 10,
+    "exemptionCount": 5405,
+    "definitionDensity": 2.5,
+    "formReportingBurden": 8934,
+    "lastSignificantUpdate": "2025-11-25",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.23,
+    "permissionBurden": 2632,
+    "complianceCostMentions": 9200,
+    "inspectionBurden": 4399,
+    "deadlineCount": 2025,
+    "discretionaryLanguage": 14839,
+    "smallBusinessMentions": 36,
+    "crossReferenceCount": 3795
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 28,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 200,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 54,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 181,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 34,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 156,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 66,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 71,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 137,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 236,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 144,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 160,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 149,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 157,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 167,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 211,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 167,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 167,
+      "total": 315
+    }
+  }
+}

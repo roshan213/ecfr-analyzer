@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "smithsonian-institution",
+    "name": "Smithsonian Institution",
+    "shortName": "",
+    "titles": [
+      36
+    ],
+    "chapters": [
+      "V"
+    ]
+  },
+  "analysis": {
+    "slug": "smithsonian-institution",
+    "name": "Smithsonian Institution",
+    "shortName": "Smithsonian Institution",
+    "wordCount": 1086664,
+    "sectionCount": 3142,
+    "titleCount": 1,
+    "checksum": "d25432c061cfbf3f",
+    "complexityScore": 7.42,
+    "avgWordsPerSection": 346,
+    "titles": [
+      36
+    ],
+    "burdenIndex": 73,
+    "mandateDensity": 13.41,
+    "penaltyScore": 9.7,
+    "exemptionCount": 3297,
+    "definitionDensity": 2.05,
+    "formReportingBurden": 2821,
+    "lastSignificantUpdate": "2025-07-18",
+    "structureDepth": 6,
+    "prohibitionDensity": 2.53,
+    "permissionBurden": 4378,
+    "complianceCostMentions": 2880,
+    "inspectionBurden": 1940,
+    "deadlineCount": 764,
+    "discretionaryLanguage": 8128,
+    "smallBusinessMentions": 31,
+    "crossReferenceCount": 1811
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 286,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 62,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 194,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 249,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 215,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 292,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 193,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 281,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 11,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 171,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 282,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 254,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 286,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 243,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 198,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 271,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 266,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 269,
+      "total": 315
+    }
+  }
+}
