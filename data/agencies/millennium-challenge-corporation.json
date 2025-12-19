@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "millennium-challenge-corporation",
+    "name": "Millennium Challenge Corporation",
+    "shortName": "MCC",
+    "titles": [
+      22
+    ],
+    "chapters": [
+      "XIII"
+    ]
+  },
+  "analysis": {
+    "slug": "millennium-challenge-corporation",
+    "name": "Millennium Challenge Corporation",
+    "shortName": "MCC",
+    "wordCount": 951974,
+    "sectionCount": 3445,
+    "titleCount": 1,
+    "checksum": "6a527cf02e17e823",
+    "complexityScore": 7.27,
+    "avgWordsPerSection": 276,
+    "titles": [
+      22
+    ],
+    "burdenIndex": 88,
+    "mandateDensity": 10.73,
+    "penaltyScore": 10,
+    "exemptionCount": 3242,
+    "definitionDensity": 2.17,
+    "formReportingBurden": 4182,
+    "lastSignificantUpdate": "2025-11-07",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.4,
+    "permissionBurden": 2517,
+    "complianceCostMentions": 4338,
+    "inspectionBurden": 1665,
+    "deadlineCount": 800,
+    "discretionaryLanguage": 6765,
+    "smallBusinessMentions": 9,
+    "crossReferenceCount": 1426
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 57,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 155,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 80,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 259,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 174,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 272,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 262,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 184,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 68,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 248,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 238,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 274,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 271,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 278,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 284,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 287,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 278,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 245,
+      "total": 315
+    }
+  }
+}

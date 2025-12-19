@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "air-transportation-stabilization-board",
+    "name": "Air Transportation System Stabilization",
+    "shortName": "ATSB",
+    "titles": [
+      14
+    ],
+    "chapters": [
+      "VI"
+    ]
+  },
+  "analysis": {
+    "slug": "air-transportation-stabilization-board",
+    "name": "Air Transportation System Stabilization",
+    "shortName": "ATSB",
+    "wordCount": 2187162,
+    "sectionCount": 6514,
+    "titleCount": 1,
+    "checksum": "b2ab8741c981384a",
+    "complexityScore": 7.42,
+    "avgWordsPerSection": 336,
+    "titles": [
+      14
+    ],
+    "burdenIndex": 69,
+    "mandateDensity": 14.53,
+    "penaltyScore": 5.7,
+    "exemptionCount": 6754,
+    "definitionDensity": 1.83,
+    "formReportingBurden": 5797,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.03,
+    "permissionBurden": 10565,
+    "complianceCostMentions": 3509,
+    "inspectionBurden": 3496,
+    "deadlineCount": 1166,
+    "discretionaryLanguage": 14341,
+    "smallBusinessMentions": 56,
+    "crossReferenceCount": 4848
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 296,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 11,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 287,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 140,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 250,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 227,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 180,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 159,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 202,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 54,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 254,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 192,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 221,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 163,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 129,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 162,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 145,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 141,
+      "total": 315
+    }
+  }
+}

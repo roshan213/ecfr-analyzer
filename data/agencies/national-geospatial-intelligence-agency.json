@@ -1,0 +1,38 @@
+{
+  "agency": {
+    "slug": "national-geospatial-intelligence-agency",
+    "name": "National Geospatial-Intelligence Agency",
+    "shortName": "NGA",
+    "titles": [],
+    "chapters": []
+  },
+  "analysis": {
+    "slug": "national-geospatial-intelligence-agency",
+    "name": "National Geospatial-Intelligence Agency",
+    "shortName": "NGA",
+    "wordCount": 0,
+    "sectionCount": 0,
+    "titleCount": 0,
+    "checksum": "e3b0c44298fc1c14",
+    "complexityScore": 0,
+    "avgWordsPerSection": 0,
+    "titles": [],
+    "burdenIndex": null,
+    "mandateDensity": 0,
+    "penaltyScore": 0,
+    "exemptionCount": 0,
+    "definitionDensity": 0,
+    "formReportingBurden": 0,
+    "lastSignificantUpdate": "",
+    "structureDepth": 0,
+    "prohibitionDensity": 0,
+    "permissionBurden": 0,
+    "complianceCostMentions": 0,
+    "inspectionBurden": 0,
+    "deadlineCount": 0,
+    "discretionaryLanguage": 0,
+    "smallBusinessMentions": 0,
+    "crossReferenceCount": 0
+  },
+  "rankings": null
+}

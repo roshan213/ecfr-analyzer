@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-financial-institutions-examination-council",
+    "name": "Federal Financial Institutions Examination Council",
+    "shortName": "FFIEC",
+    "titles": [
+      12
+    ],
+    "chapters": [
+      "XI"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-financial-institutions-examination-council",
+    "name": "Federal Financial Institutions Examination Council",
+    "shortName": "FFIEC",
+    "wordCount": 5666910,
+    "sectionCount": 7198,
+    "titleCount": 1,
+    "checksum": "10c394ff76ecaff6",
+    "complexityScore": 7.64,
+    "avgWordsPerSection": 787,
+    "titles": [
+      12
+    ],
+    "burdenIndex": 84,
+    "mandateDensity": 8.92,
+    "penaltyScore": 8.6,
+    "exemptionCount": 13948,
+    "definitionDensity": 2.42,
+    "formReportingBurden": 33540,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.96,
+    "permissionBurden": 6407,
+    "complianceCostMentions": 38123,
+    "inspectionBurden": 6742,
+    "deadlineCount": 4792,
+    "discretionaryLanguage": 41373,
+    "smallBusinessMentions": 1183,
+    "crossReferenceCount": 8902
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 82,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 223,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 222,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 41,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 52,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 17,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 100,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 191,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 262,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 95,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 29,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 94,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 33,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 26,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 43,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 79,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 28,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 129,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "agency": {
+    "slug": "nuclear-regulatory-commission",
+    "name": "Nuclear Regulatory Commission",
+    "shortName": "NRC",
+    "titles": [
+      2,
+      5,
+      10,
+      48
+    ],
+    "chapters": [
+      "XX",
+      "XLVIII",
+      "I",
+      "20"
+    ]
+  },
+  "analysis": {
+    "slug": "nuclear-regulatory-commission",
+    "name": "Nuclear Regulatory Commission",
+    "shortName": "NRC",
+    "wordCount": 7255300,
+    "sectionCount": 23522,
+    "titleCount": 4,
+    "checksum": "ed9dda1c8847916c",
+    "complexityScore": 7.31,
+    "avgWordsPerSection": 308,
+    "titles": [
+      2,
+      5,
+      10,
+      48
+    ],
+    "burdenIndex": 81,
+    "mandateDensity": 10.69,
+    "penaltyScore": 10,
+    "exemptionCount": 20837,
+    "definitionDensity": 2.45,
+    "formReportingBurden": 29437,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.07,
+    "permissionBurden": 18522,
+    "complianceCostMentions": 46918,
+    "inspectionBurden": 12114,
+    "deadlineCount": 5715,
+    "discretionaryLanguage": 47040,
+    "smallBusinessMentions": 3376,
+    "crossReferenceCount": 18627
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 129,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 157,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 112,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 13,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 45,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 27,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 247,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 223,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 188,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 15,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 10,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 39,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 22,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 18,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 8,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 11,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 20,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 14,
+      "total": 315
+    }
+  }
+}

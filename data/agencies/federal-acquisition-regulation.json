@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-acquisition-regulation",
+    "name": "Federal Acquisition Regulatory Council",
+    "shortName": "",
+    "titles": [
+      48
+    ],
+    "chapters": [
+      "1"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-acquisition-regulation",
+    "name": "Federal Acquisition Regulatory Council",
+    "shortName": "Federal Acquisition Regulatory Council",
+    "wordCount": 2670081,
+    "sectionCount": 11574,
+    "titleCount": 1,
+    "checksum": "13148bf30efa9490",
+    "complexityScore": 6.99,
+    "avgWordsPerSection": 231,
+    "titles": [
+      48
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 11.72,
+    "penaltyScore": 6.3,
+    "exemptionCount": 8440,
+    "definitionDensity": 2.47,
+    "formReportingBurden": 11700,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 5,
+    "prohibitionDensity": 1.07,
+    "permissionBurden": 4684,
+    "complianceCostMentions": 30845,
+    "inspectionBurden": 3682,
+    "deadlineCount": 1926,
+    "discretionaryLanguage": 16919,
+    "smallBusinessMentions": 3252,
+    "crossReferenceCount": 4723
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 219,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 110,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 281,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 120,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 40,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 111,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 278,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 308,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 190,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 154,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 71,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 182,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 154,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 131,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 28,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 170,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 126,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 75,
+      "total": 315
+    }
+  }
+}

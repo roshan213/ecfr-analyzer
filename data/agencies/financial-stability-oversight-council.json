@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "financial-stability-oversight-council",
+    "name": "Financial Stability Oversight Council",
+    "shortName": "FSOC",
+    "titles": [
+      12
+    ],
+    "chapters": [
+      "XIII"
+    ]
+  },
+  "analysis": {
+    "slug": "financial-stability-oversight-council",
+    "name": "Financial Stability Oversight Council",
+    "shortName": "FSOC",
+    "wordCount": 5666910,
+    "sectionCount": 7198,
+    "titleCount": 1,
+    "checksum": "10c394ff76ecaff6",
+    "complexityScore": 7.64,
+    "avgWordsPerSection": 787,
+    "titles": [
+      12
+    ],
+    "burdenIndex": 84,
+    "mandateDensity": 8.92,
+    "penaltyScore": 8.6,
+    "exemptionCount": 13948,
+    "definitionDensity": 2.42,
+    "formReportingBurden": 33540,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.96,
+    "permissionBurden": 6407,
+    "complianceCostMentions": 38123,
+    "inspectionBurden": 6742,
+    "deadlineCount": 4792,
+    "discretionaryLanguage": 41373,
+    "smallBusinessMentions": 1183,
+    "crossReferenceCount": 8902
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 86,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 226,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 225,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 44,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 55,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 20,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 103,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 195,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 265,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 98,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 32,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 97,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 36,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 29,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 46,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 82,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 31,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 132,
+      "total": 315
+    }
+  }
+}

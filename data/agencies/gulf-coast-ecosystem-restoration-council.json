@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "gulf-coast-ecosystem-restoration-council",
+    "name": "Gulf Coast Ecosystem Restoration Council",
+    "shortName": "Gulf Restoration Council",
+    "titles": [
+      2,
+      40
+    ],
+    "chapters": [
+      "LIX",
+      "VIII"
+    ]
+  },
+  "analysis": {
+    "slug": "gulf-coast-ecosystem-restoration-council",
+    "name": "Gulf Coast Ecosystem Restoration Council",
+    "shortName": "Gulf Restoration Council",
+    "wordCount": 17186396,
+    "sectionCount": 25856,
+    "titleCount": 2,
+    "checksum": "2584bd8832aedbd7",
+    "complexityScore": 7.58,
+    "avgWordsPerSection": 665,
+    "titles": [
+      2,
+      40
+    ],
+    "burdenIndex": 80,
+    "mandateDensity": 10.77,
+    "penaltyScore": 5.6,
+    "exemptionCount": 39741,
+    "definitionDensity": 1.74,
+    "formReportingBurden": 84587,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.61,
+    "permissionBurden": 35642,
+    "complianceCostMentions": 14100,
+    "inspectionBurden": 55397,
+    "deadlineCount": 15198,
+    "discretionaryLanguage": 76265,
+    "smallBusinessMentions": 370,
+    "crossReferenceCount": 54464
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 144,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 146,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 291,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 4,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 259,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 4,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 131,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 233,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 315,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 4,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 94,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 4,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 4,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 5,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 58,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 4,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 4,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 7,
+      "total": 315
+    }
+  }
+}

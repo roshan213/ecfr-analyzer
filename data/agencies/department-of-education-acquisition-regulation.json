@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "department-of-education-acquisition-regulation",
+    "name": "Department of Education Acquisition Regulation",
+    "shortName": "",
+    "titles": [
+      48
+    ],
+    "chapters": [
+      "34"
+    ]
+  },
+  "analysis": {
+    "slug": "department-of-education-acquisition-regulation",
+    "name": "Department of Education Acquisition Regulation",
+    "shortName": "Department of Education Acquisition Regulation",
+    "wordCount": 2670081,
+    "sectionCount": 11574,
+    "titleCount": 1,
+    "checksum": "13148bf30efa9490",
+    "complexityScore": 6.99,
+    "avgWordsPerSection": 231,
+    "titles": [
+      48
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 11.72,
+    "penaltyScore": 6.3,
+    "exemptionCount": 8440,
+    "definitionDensity": 2.47,
+    "formReportingBurden": 11700,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 5,
+    "prohibitionDensity": 1.07,
+    "permissionBurden": 4684,
+    "complianceCostMentions": 30845,
+    "inspectionBurden": 3682,
+    "deadlineCount": 1926,
+    "discretionaryLanguage": 16919,
+    "smallBusinessMentions": 3252,
+    "crossReferenceCount": 4723
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 218,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 109,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 280,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 119,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 39,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 110,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 277,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 307,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 189,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 153,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 70,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 181,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 153,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 130,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 27,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 169,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 125,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 74,
+      "total": 315
+    }
+  }
+}

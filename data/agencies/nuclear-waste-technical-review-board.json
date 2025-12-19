@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "nuclear-waste-technical-review-board",
+    "name": "Nuclear Waste Technical Review Board",
+    "shortName": "NWTRB",
+    "titles": [
+      10
+    ],
+    "chapters": [
+      "XIII"
+    ]
+  },
+  "analysis": {
+    "slug": "nuclear-waste-technical-review-board",
+    "name": "Nuclear Waste Technical Review Board",
+    "shortName": "NWTRB",
+    "wordCount": 2599725,
+    "sectionCount": 5092,
+    "titleCount": 1,
+    "checksum": "f692c56281d85d98",
+    "complexityScore": 7.51,
+    "avgWordsPerSection": 511,
+    "titles": [
+      10
+    ],
+    "burdenIndex": 84,
+    "mandateDensity": 11.39,
+    "penaltyScore": 10,
+    "exemptionCount": 5639,
+    "definitionDensity": 2.55,
+    "formReportingBurden": 10020,
+    "lastSignificantUpdate": "2025-12-09",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.86,
+    "permissionBurden": 11593,
+    "complianceCostMentions": 5319,
+    "inspectionBurden": 4910,
+    "deadlineCount": 1749,
+    "discretionaryLanguage": 15409,
+    "smallBusinessMentions": 52,
+    "crossReferenceCount": 6075
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 90,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 128,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 86,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 154,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 20,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 141,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 143,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 199,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 290,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 51,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 220,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 130,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 181,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 142,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 137,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 129,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 132,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 208,
+      "total": 315
+    }
+  }
+}

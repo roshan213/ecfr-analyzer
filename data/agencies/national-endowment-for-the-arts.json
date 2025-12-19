@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "national-endowment-for-the-arts",
+    "name": "National Endowment for the Arts",
+    "shortName": "NEA",
+    "titles": [
+      2,
+      5
+    ],
+    "chapters": [
+      "XXXII",
+      "LV"
+    ]
+  },
+  "analysis": {
+    "slug": "national-endowment-for-the-arts",
+    "name": "National Endowment for the Arts",
+    "shortName": "NEA",
+    "wordCount": 1985494,
+    "sectionCount": 6856,
+    "titleCount": 2,
+    "checksum": "2b5ffa2c9a53a2a2",
+    "complexityScore": 7.39,
+    "avgWordsPerSection": 290,
+    "titles": [
+      2,
+      5
+    ],
+    "burdenIndex": 80,
+    "mandateDensity": 8.38,
+    "penaltyScore": 10,
+    "exemptionCount": 6758,
+    "definitionDensity": 2.31,
+    "formReportingBurden": 7717,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.34,
+    "permissionBurden": 2245,
+    "complianceCostMentions": 10754,
+    "inspectionBurden": 3522,
+    "deadlineCount": 2040,
+    "discretionaryLanguage": 14712,
+    "smallBusinessMentions": 72,
+    "crossReferenceCount": 7829
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 151,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 253,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 119,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 138,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 109,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 169,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 227,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 235,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 94,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 251,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 118,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 190,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 135,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 161,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 120,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 94,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 171,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 139,
+      "total": 315
+    }
+  }
+}

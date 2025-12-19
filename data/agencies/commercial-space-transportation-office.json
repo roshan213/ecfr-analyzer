@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "commercial-space-transportation-office",
+    "name": "Federal Aviation Administration Commercial Space Transportation",
+    "shortName": "AST",
+    "titles": [
+      14
+    ],
+    "chapters": [
+      "III"
+    ]
+  },
+  "analysis": {
+    "slug": "commercial-space-transportation-office",
+    "name": "Federal Aviation Administration Commercial Space Transportation",
+    "shortName": "AST",
+    "wordCount": 2187162,
+    "sectionCount": 6514,
+    "titleCount": 1,
+    "checksum": "b2ab8741c981384a",
+    "complexityScore": 7.42,
+    "avgWordsPerSection": 336,
+    "titles": [
+      14
+    ],
+    "burdenIndex": 69,
+    "mandateDensity": 14.53,
+    "penaltyScore": 5.7,
+    "exemptionCount": 6754,
+    "definitionDensity": 1.83,
+    "formReportingBurden": 5797,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.03,
+    "permissionBurden": 10565,
+    "complianceCostMentions": 3509,
+    "inspectionBurden": 3496,
+    "deadlineCount": 1166,
+    "discretionaryLanguage": 14341,
+    "smallBusinessMentions": 56,
+    "crossReferenceCount": 4848
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 298,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 13,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 289,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 142,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 253,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 229,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 195,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 287,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 204,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 56,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 256,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 194,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 223,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 165,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 131,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 164,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 147,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 143,
+      "total": 315
+    }
+  }
+}

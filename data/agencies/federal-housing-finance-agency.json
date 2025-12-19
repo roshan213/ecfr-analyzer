@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "federal-housing-finance-agency",
+    "name": "Federal Housing Finance Agency",
+    "shortName": "FHFA",
+    "titles": [
+      5,
+      12
+    ],
+    "chapters": [
+      "LXXX",
+      "XII"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-housing-finance-agency",
+    "name": "Federal Housing Finance Agency",
+    "shortName": "FHFA",
+    "wordCount": 7298721,
+    "sectionCount": 12546,
+    "titleCount": 2,
+    "checksum": "c1870dd1c77f3b0f",
+    "complexityScore": 7.54,
+    "avgWordsPerSection": 582,
+    "titles": [
+      5,
+      12
+    ],
+    "burdenIndex": 84,
+    "mandateDensity": 8.7,
+    "penaltyScore": 9.1,
+    "exemptionCount": 19530,
+    "definitionDensity": 2.4,
+    "formReportingBurden": 39497,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.08,
+    "permissionBurden": 8160,
+    "complianceCostMentions": 44707,
+    "inspectionBurden": 8947,
+    "deadlineCount": 6647,
+    "discretionaryLanguage": 53821,
+    "smallBusinessMentions": 1206,
+    "crossReferenceCount": 13834
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 84,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 243,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 216,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 21,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 66,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 15,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 136,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 193,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 184,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 79,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 20,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 66,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 15,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 15,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 41,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 22,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 18,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 68,
+      "total": 315
+    }
+  }
+}

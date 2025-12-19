@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "defense-logistics-agency",
+    "name": "Defense Logistics Agency",
+    "shortName": "DLA",
+    "titles": [
+      32,
+      48
+    ],
+    "chapters": [
+      "XII",
+      "54"
+    ]
+  },
+  "analysis": {
+    "slug": "defense-logistics-agency",
+    "name": "Defense Logistics Agency",
+    "shortName": "DLA",
+    "wordCount": 4458139,
+    "sectionCount": 15227,
+    "titleCount": 2,
+    "checksum": "43b7394df6c64ed5",
+    "complexityScore": 7.4,
+    "avgWordsPerSection": 293,
+    "titles": [
+      32,
+      48
+    ],
+    "burdenIndex": 83,
+    "mandateDensity": 10.54,
+    "penaltyScore": 10,
+    "exemptionCount": 13473,
+    "definitionDensity": 1.83,
+    "formReportingBurden": 19043,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.04,
+    "permissionBurden": 8242,
+    "complianceCostMentions": 37586,
+    "inspectionBurden": 7848,
+    "deadlineCount": 3005,
+    "discretionaryLanguage": 30205,
+    "smallBusinessMentions": 3276,
+    "crossReferenceCount": 7205
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 95,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 163,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 20,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 49,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 249,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 70,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 199,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 18,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 199,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 74,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 37,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 84,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 105,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 73,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 22,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 100,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 74,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 54,
+      "total": 315
+    }
+  }
+}

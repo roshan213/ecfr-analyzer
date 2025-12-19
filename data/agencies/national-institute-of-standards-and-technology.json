@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "national-institute-of-standards-and-technology",
+    "name": "National Institute of Standards and Technology",
+    "shortName": "NIST",
+    "titles": [
+      15,
+      37
+    ],
+    "chapters": [
+      "II",
+      "IV"
+    ]
+  },
+  "analysis": {
+    "slug": "national-institute-of-standards-and-technology",
+    "name": "National Institute of Standards and Technology",
+    "shortName": "NIST",
+    "wordCount": 2235184,
+    "sectionCount": 3713,
+    "titleCount": 2,
+    "checksum": "22276352a7804c8b",
+    "complexityScore": 7.74,
+    "avgWordsPerSection": 602,
+    "titles": [
+      15,
+      37
+    ],
+    "burdenIndex": 86,
+    "mandateDensity": 7.56,
+    "penaltyScore": 10,
+    "exemptionCount": 5794,
+    "definitionDensity": 1.36,
+    "formReportingBurden": 10983,
+    "lastSignificantUpdate": "2025-12-05",
+    "structureDepth": 7,
+    "prohibitionDensity": 1,
+    "permissionBurden": 11405,
+    "complianceCostMentions": 5435,
+    "inspectionBurden": 4437,
+    "deadlineCount": 1662,
+    "discretionaryLanguage": 12665,
+    "smallBusinessMentions": 303,
+    "crossReferenceCount": 4665
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 62,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 289,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 8,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 151,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 283,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 128,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 27,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 7,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 215,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 52,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 210,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 147,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 184,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 192,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 63,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 174,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 144,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 229,
+      "total": 315
+    }
+  }
+}

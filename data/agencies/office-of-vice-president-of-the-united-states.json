@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "office-of-vice-president-of-the-united-states",
+    "name": "Office of Vice President of the United States",
+    "shortName": "",
+    "titles": [
+      32
+    ],
+    "chapters": [
+      "XXVIII"
+    ]
+  },
+  "analysis": {
+    "slug": "office-of-vice-president-of-the-united-states",
+    "name": "Office of Vice President of the United States",
+    "shortName": "Office of Vice President of the United States",
+    "wordCount": 1788058,
+    "sectionCount": 3653,
+    "titleCount": 1,
+    "checksum": "b33fda50a10a9e9b",
+    "complexityScore": 7.74,
+    "avgWordsPerSection": 489,
+    "titles": [
+      32
+    ],
+    "burdenIndex": 90,
+    "mandateDensity": 8.77,
+    "penaltyScore": 10,
+    "exemptionCount": 5033,
+    "definitionDensity": 0.87,
+    "formReportingBurden": 7343,
+    "lastSignificantUpdate": "2025-12-01",
+    "structureDepth": 7,
+    "prohibitionDensity": 1,
+    "permissionBurden": 3558,
+    "complianceCostMentions": 6741,
+    "inspectionBurden": 4166,
+    "deadlineCount": 1079,
+    "discretionaryLanguage": 13286,
+    "smallBusinessMentions": 24,
+    "crossReferenceCount": 2482
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 40,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 238,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 63,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 192,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 313,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 177,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 32,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 78,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 229,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 196,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 193,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 168,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 231,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 191,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 209,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 246,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 195,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 236,
+      "total": 315
+    }
+  }
+}

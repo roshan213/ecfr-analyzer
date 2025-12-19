@@ -1,0 +1,79 @@
+{
+  "wordCounts": [
+    {
+      "slug": "justice-department",
+      "name": "DOJ",
+      "wordCount": 24807398
+    },
+    {
+      "slug": "environmental-protection-agency",
+      "name": "EPA",
+      "wordCount": 22035707
+    },
+    {
+      "slug": "defense-department",
+      "name": "DOD",
+      "wordCount": 20606265
+    },
+    {
+      "slug": "gulf-coast-ecosystem-restoration-council",
+      "name": "Gulf Restoration Council",
+      "wordCount": 17186396
+    },
+    {
+      "slug": "chemical-safety-and-hazard-investigation-board",
+      "name": "CSB",
+      "wordCount": 16832713
+    },
+    {
+      "slug": "council-on-environmental-quality",
+      "name": "CEQ",
+      "wordCount": 16832713
+    },
+    {
+      "slug": "federal-permitting-improvement-steering-council",
+      "name": "FPISC",
+      "wordCount": 16832713
+    },
+    {
+      "slug": "treasury-department",
+      "name": "TREAS",
+      "wordCount": 14138618
+    },
+    {
+      "slug": "internal-revenue-service",
+      "name": "IRS",
+      "wordCount": 12033498
+    },
+    {
+      "slug": "agriculture-department",
+      "name": "USDA",
+      "wordCount": 10301967
+    },
+    {
+      "slug": "energy-department",
+      "name": "DOE",
+      "wordCount": 7802719
+    },
+    {
+      "slug": "export-import-bank",
+      "name": "EIB/USEIB",
+      "wordCount": 7652404
+    },
+    {
+      "slug": "coast-guard",
+      "name": "USCG",
+      "wordCount": 7544842
+    },
+    {
+      "slug": "consumer-financial-protection-bureau",
+      "name": "CFPB",
+      "wordCount": 7298721
+    },
+    {
+      "slug": "farm-credit-administration",
+      "name": "FCA",
+      "wordCount": 7298721
+    }
+  ]
+}

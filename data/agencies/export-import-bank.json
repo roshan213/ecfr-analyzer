@@ -1,0 +1,123 @@
+{
+  "agency": {
+    "slug": "export-import-bank",
+    "name": "Export-Import Bank of the United States",
+    "shortName": "EIB/USEIB",
+    "titles": [
+      2,
+      5,
+      12
+    ],
+    "chapters": [
+      "XXXV",
+      "LII",
+      "IV"
+    ]
+  },
+  "analysis": {
+    "slug": "export-import-bank",
+    "name": "Export-Import Bank of the United States",
+    "shortName": "EIB/USEIB",
+    "wordCount": 7652404,
+    "sectionCount": 14054,
+    "titleCount": 3,
+    "checksum": "02c6dda43e4b7016",
+    "complexityScore": 7.52,
+    "avgWordsPerSection": 545,
+    "titles": [
+      2,
+      5,
+      12
+    ],
+    "burdenIndex": 84,
+    "mandateDensity": 8.78,
+    "penaltyScore": 9.2,
+    "exemptionCount": 20706,
+    "definitionDensity": 2.39,
+    "formReportingBurden": 41257,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.06,
+    "permissionBurden": 8652,
+    "complianceCostMentions": 48877,
+    "inspectionBurden": 10264,
+    "deadlineCount": 6832,
+    "discretionaryLanguage": 56085,
+    "smallBusinessMentions": 1255,
+    "crossReferenceCount": 16731
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 78,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 231,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 206,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 14,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 72,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 10,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 140,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 187,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 196,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 73,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 9,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 50,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 10,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 10,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 36,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 13,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 12,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 57,
+      "total": 315
+    }
+  }
+}

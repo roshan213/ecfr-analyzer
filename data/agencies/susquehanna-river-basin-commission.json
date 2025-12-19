@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "susquehanna-river-basin-commission",
+    "name": "Susquehanna River Basin Commission",
+    "shortName": "SRBC",
+    "titles": [
+      18
+    ],
+    "chapters": [
+      "VIII"
+    ]
+  },
+  "analysis": {
+    "slug": "susquehanna-river-basin-commission",
+    "name": "Susquehanna River Basin Commission",
+    "shortName": "SRBC",
+    "wordCount": 946172,
+    "sectionCount": 2053,
+    "titleCount": 1,
+    "checksum": "ef5aa72a60606c79",
+    "complexityScore": 7.35,
+    "avgWordsPerSection": 461,
+    "titles": [
+      18
+    ],
+    "burdenIndex": 81,
+    "mandateDensity": 13.63,
+    "penaltyScore": 7.7,
+    "exemptionCount": 2581,
+    "definitionDensity": 1.46,
+    "formReportingBurden": 5258,
+    "lastSignificantUpdate": "2025-12-05",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.88,
+    "permissionBurden": 3324,
+    "complianceCostMentions": 9056,
+    "inspectionBurden": 1447,
+    "deadlineCount": 850,
+    "discretionaryLanguage": 5768,
+    "smallBusinessMentions": 8,
+    "crossReferenceCount": 1113
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 132,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 33,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 246,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 280,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 277,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 238,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 245,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 226,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 285,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 200,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 147,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 280,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 261,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 288,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 287,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 296,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 280,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 294,
+      "total": 315
+    }
+  }
+}

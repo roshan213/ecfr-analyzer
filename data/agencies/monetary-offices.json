@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "monetary-offices",
+    "name": "Monetary Offices",
+    "shortName": "",
+    "titles": [
+      31
+    ],
+    "chapters": [
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "monetary-offices",
+    "name": "Monetary Offices",
+    "shortName": "Monetary Offices",
+    "wordCount": 1371454,
+    "sectionCount": 5464,
+    "titleCount": 1,
+    "checksum": "b869cd0529312ac5",
+    "complexityScore": 7.63,
+    "avgWordsPerSection": 251,
+    "titles": [
+      31
+    ],
+    "burdenIndex": 97,
+    "mandateDensity": 6.8,
+    "penaltyScore": 10,
+    "exemptionCount": 3854,
+    "definitionDensity": 3.32,
+    "formReportingBurden": 5974,
+    "lastSignificantUpdate": "2025-12-03",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.86,
+    "permissionBurden": 5797,
+    "complianceCostMentions": 7128,
+    "inspectionBurden": 1190,
+    "deadlineCount": 926,
+    "discretionaryLanguage": 8489,
+    "smallBusinessMentions": 34,
+    "crossReferenceCount": 3214
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 7,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 301,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 35,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 229,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 8,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 208,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 115,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 57,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 20,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 125,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 182,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 289,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 239,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 229,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 176,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 228,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 234,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 183,
+      "total": 315
+    }
+  }
+}

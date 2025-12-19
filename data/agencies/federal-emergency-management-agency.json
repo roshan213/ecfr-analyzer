@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-emergency-management-agency",
+    "name": "Federal Emergency Management Agency",
+    "shortName": "FEMA",
+    "titles": [
+      44
+    ],
+    "chapters": [
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-emergency-management-agency",
+    "name": "Federal Emergency Management Agency",
+    "shortName": "FEMA",
+    "wordCount": 337150,
+    "sectionCount": 943,
+    "titleCount": 1,
+    "checksum": "0e4978579fa96329",
+    "complexityScore": 5.77,
+    "avgWordsPerSection": 358,
+    "titles": [
+      44
+    ],
+    "burdenIndex": 62,
+    "mandateDensity": 9,
+    "penaltyScore": 9.3,
+    "exemptionCount": 647,
+    "definitionDensity": 2.53,
+    "formReportingBurden": 1276,
+    "lastSignificantUpdate": "2024-12-31",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.81,
+    "permissionBurden": 449,
+    "complianceCostMentions": 1779,
+    "inspectionBurden": 652,
+    "deadlineCount": 395,
+    "discretionaryLanguage": 2273,
+    "smallBusinessMentions": 22,
+    "crossReferenceCount": 560
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 306,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 218,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 205,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 306,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 21,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 306,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 303,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 294,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 293,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 306,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 299,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 304,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 303,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 304,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 235,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 301,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 304,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 304,
+      "total": 315
+    }
+  }
+}

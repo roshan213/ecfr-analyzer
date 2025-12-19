@@ -1,0 +1,126 @@
+{
+  "agency": {
+    "slug": "defense-department",
+    "name": "Department of Defense",
+    "shortName": "DOD",
+    "titles": [
+      2,
+      5,
+      32,
+      40
+    ],
+    "chapters": [
+      "XI",
+      "XXVI",
+      null,
+      "VII"
+    ]
+  },
+  "analysis": {
+    "slug": "defense-department",
+    "name": "Department of Defense",
+    "shortName": "DOD",
+    "wordCount": 20606265,
+    "sectionCount": 34857,
+    "titleCount": 4,
+    "checksum": "59f7db5fc145d96f",
+    "complexityScore": 7.64,
+    "avgWordsPerSection": 591,
+    "titles": [
+      2,
+      5,
+      32,
+      40
+    ],
+    "burdenIndex": 81,
+    "mandateDensity": 10.38,
+    "penaltyScore": 7.3,
+    "exemptionCount": 50356,
+    "definitionDensity": 1.71,
+    "formReportingBurden": 97887,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 7,
+    "prohibitionDensity": 0.71,
+    "permissionBurden": 40953,
+    "complianceCostMentions": 27425,
+    "inspectionBurden": 61768,
+    "deadlineCount": 18132,
+    "discretionaryLanguage": 101999,
+    "smallBusinessMentions": 417,
+    "crossReferenceCount": 61878
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 117,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 168,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 273,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 3,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 263,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 3,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 99,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 19,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 302,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 3,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 78,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 3,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 3,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 3,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 54,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 3,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 3,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 4,
+      "total": 315
+    }
+  }
+}

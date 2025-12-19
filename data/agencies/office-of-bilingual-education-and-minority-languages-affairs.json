@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "office-of-bilingual-education-and-minority-languages-affairs",
+    "name": "Office of Bilingual Education and Minority Languages Affairs",
+    "shortName": "",
+    "titles": [
+      34
+    ],
+    "chapters": [
+      "V"
+    ]
+  },
+  "analysis": {
+    "slug": "office-of-bilingual-education-and-minority-languages-affairs",
+    "name": "Office of Bilingual Education and Minority Languages Affairs",
+    "shortName": "Office of Bilingual Education and Minority Languages Affairs",
+    "wordCount": 1254058,
+    "sectionCount": 3249,
+    "titleCount": 1,
+    "checksum": "1801719faa17f2fe",
+    "complexityScore": 7.44,
+    "avgWordsPerSection": 386,
+    "titles": [
+      34
+    ],
+    "burdenIndex": 75,
+    "mandateDensity": 7.73,
+    "penaltyScore": 8.3,
+    "exemptionCount": 2611,
+    "definitionDensity": 1.85,
+    "formReportingBurden": 4231,
+    "lastSignificantUpdate": "2025-10-31",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.93,
+    "permissionBurden": 1328,
+    "complianceCostMentions": 5406,
+    "inspectionBurden": 2277,
+    "deadlineCount": 1314,
+    "discretionaryLanguage": 7957,
+    "smallBusinessMentions": 20,
+    "crossReferenceCount": 2825
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 260,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 283,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 237,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 268,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 244,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 259,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 160,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 267,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 278,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 283,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 213,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 225,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 210,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 248,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 254,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 235,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 247,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 248,
+      "total": 315
+    }
+  }
+}

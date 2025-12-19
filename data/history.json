@@ -1,0 +1,124 @@
+{
+  "monthlyChanges": [
+    {
+      "month": "2024-01",
+      "changeCount": 1517,
+      "titlesChanged": 41
+    },
+    {
+      "month": "2024-02",
+      "changeCount": 1316,
+      "titlesChanged": 39
+    },
+    {
+      "month": "2024-03",
+      "changeCount": 1663,
+      "titlesChanged": 44
+    },
+    {
+      "month": "2024-04",
+      "changeCount": 3245,
+      "titlesChanged": 40
+    },
+    {
+      "month": "2024-05",
+      "changeCount": 2812,
+      "titlesChanged": 43
+    },
+    {
+      "month": "2024-06",
+      "changeCount": 2707,
+      "titlesChanged": 37
+    },
+    {
+      "month": "2024-07",
+      "changeCount": 2831,
+      "titlesChanged": 42
+    },
+    {
+      "month": "2024-08",
+      "changeCount": 1731,
+      "titlesChanged": 41
+    },
+    {
+      "month": "2024-09",
+      "changeCount": 2272,
+      "titlesChanged": 41
+    },
+    {
+      "month": "2024-10",
+      "changeCount": 2081,
+      "titlesChanged": 37
+    },
+    {
+      "month": "2024-11",
+      "changeCount": 2656,
+      "titlesChanged": 41
+    },
+    {
+      "month": "2024-12",
+      "changeCount": 3436,
+      "titlesChanged": 42
+    },
+    {
+      "month": "2025-01",
+      "changeCount": 5184,
+      "titlesChanged": 45
+    },
+    {
+      "month": "2025-02",
+      "changeCount": 922,
+      "titlesChanged": 30
+    },
+    {
+      "month": "2025-03",
+      "changeCount": 847,
+      "titlesChanged": 34
+    },
+    {
+      "month": "2025-04",
+      "changeCount": 641,
+      "titlesChanged": 31
+    },
+    {
+      "month": "2025-05",
+      "changeCount": 593,
+      "titlesChanged": 27
+    },
+    {
+      "month": "2025-06",
+      "changeCount": 839,
+      "titlesChanged": 29
+    },
+    {
+      "month": "2025-07",
+      "changeCount": 2248,
+      "titlesChanged": 34
+    },
+    {
+      "month": "2025-08",
+      "changeCount": 1276,
+      "titlesChanged": 28
+    },
+    {
+      "month": "2025-09",
+      "changeCount": 1528,
+      "titlesChanged": 33
+    },
+    {
+      "month": "2025-10",
+      "changeCount": 1386,
+      "titlesChanged": 34
+    },
+    {
+      "month": "2025-11",
+      "changeCount": 644,
+      "titlesChanged": 30
+    },
+    {
+      "month": "2025-12",
+      "changeCount": 3584,
+      "titlesChanged": 29
+    }
+  ]
+}

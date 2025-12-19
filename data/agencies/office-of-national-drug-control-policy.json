@@ -1,0 +1,120 @@
+{
+  "agency": {
+    "slug": "office-of-national-drug-control-policy",
+    "name": "Office of National Drug Control Policy",
+    "shortName": "ONDCP",
+    "titles": [
+      2,
+      21
+    ],
+    "chapters": [
+      "XXXVI",
+      "III"
+    ]
+  },
+  "analysis": {
+    "slug": "office-of-national-drug-control-policy",
+    "name": "Office of National Drug Control Policy",
+    "shortName": "ONDCP",
+    "wordCount": 3190676,
+    "sectionCount": 9881,
+    "titleCount": 2,
+    "checksum": "1cb0f701af69ed07",
+    "complexityScore": 7.41,
+    "avgWordsPerSection": 323,
+    "titles": [
+      2,
+      21
+    ],
+    "burdenIndex": 76,
+    "mandateDensity": 10.04,
+    "penaltyScore": 5,
+    "exemptionCount": 7533,
+    "definitionDensity": 1.39,
+    "formReportingBurden": 13320,
+    "lastSignificantUpdate": "2025-12-17",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.74,
+    "permissionBurden": 5171,
+    "complianceCostMentions": 5191,
+    "inspectionBurden": 5825,
+    "deadlineCount": 1757,
+    "discretionaryLanguage": 20573,
+    "smallBusinessMentions": 91,
+    "crossReferenceCount": 9269
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 252,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 180,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 298,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 134,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 282,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 92,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 197,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 263,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 296,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 139,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 221,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 113,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 178,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 112,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 114,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 67,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 113,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 82,
+      "total": 315
+    }
+  }
+}

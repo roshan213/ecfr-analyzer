@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "foreign-service-impasse-disputes-panel",
+    "name": "Foreign Service Impasse Disputes Panel",
+    "shortName": "Disputes Panel",
+    "titles": [
+      22
+    ],
+    "chapters": [
+      "XIV"
+    ]
+  },
+  "analysis": {
+    "slug": "foreign-service-impasse-disputes-panel",
+    "name": "Foreign Service Impasse Disputes Panel",
+    "shortName": "Disputes Panel",
+    "wordCount": 951974,
+    "sectionCount": 3445,
+    "titleCount": 1,
+    "checksum": "6a527cf02e17e823",
+    "complexityScore": 7.27,
+    "avgWordsPerSection": 276,
+    "titles": [
+      22
+    ],
+    "burdenIndex": 88,
+    "mandateDensity": 10.73,
+    "penaltyScore": 10,
+    "exemptionCount": 3242,
+    "definitionDensity": 2.17,
+    "formReportingBurden": 4182,
+    "lastSignificantUpdate": "2025-11-07",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.4,
+    "permissionBurden": 2517,
+    "complianceCostMentions": 4338,
+    "inspectionBurden": 1665,
+    "deadlineCount": 800,
+    "discretionaryLanguage": 6765,
+    "smallBusinessMentions": 9,
+    "crossReferenceCount": 1426
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 42,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 148,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 65,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 252,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 167,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 265,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 255,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 170,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 61,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 241,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 231,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 267,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 264,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 271,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 277,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 280,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 271,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 238,
+      "total": 315
+    }
+  }
+}

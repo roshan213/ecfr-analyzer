@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "federal-register-office",
+    "name": "Office of Federal Register",
+    "shortName": "OFR",
+    "titles": [
+      1
+    ],
+    "chapters": [
+      "II"
+    ]
+  },
+  "analysis": {
+    "slug": "federal-register-office",
+    "name": "Office of Federal Register",
+    "shortName": "OFR",
+    "wordCount": 68018,
+    "sectionCount": 288,
+    "titleCount": 1,
+    "checksum": "55d5449e302424a1",
+    "complexityScore": 4.64,
+    "avgWordsPerSection": 236,
+    "titles": [
+      1
+    ],
+    "burdenIndex": 56,
+    "mandateDensity": 13.83,
+    "penaltyScore": 4.6,
+    "exemptionCount": 258,
+    "definitionDensity": 2.34,
+    "formReportingBurden": 466,
+    "lastSignificantUpdate": "2022-12-29",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.96,
+    "permissionBurden": 70,
+    "complianceCostMentions": 441,
+    "inspectionBurden": 179,
+    "deadlineCount": 74,
+    "discretionaryLanguage": 478,
+    "smallBusinessMentions": 1,
+    "crossReferenceCount": 119
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 312,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 20,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 303,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 311,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 101,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 311,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 311,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 298,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 273,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 311,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 311,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 311,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 312,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 312,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 310,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 311,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 311,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 311,
+      "total": 315
+    }
+  }
+}

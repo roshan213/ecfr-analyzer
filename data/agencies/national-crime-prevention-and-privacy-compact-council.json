@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "national-crime-prevention-and-privacy-compact-council",
+    "name": "National Crime Prevention and Privacy Compact Council",
+    "shortName": "NCPPCC",
+    "titles": [
+      28
+    ],
+    "chapters": [
+      "IX"
+    ]
+  },
+  "analysis": {
+    "slug": "national-crime-prevention-and-privacy-compact-council",
+    "name": "National Crime Prevention and Privacy Compact Council",
+    "shortName": "NCPPCC",
+    "wordCount": 1400237,
+    "sectionCount": 3048,
+    "titleCount": 1,
+    "checksum": "cff28d43ae85bcff",
+    "complexityScore": 7.48,
+    "avgWordsPerSection": 459,
+    "titles": [
+      28
+    ],
+    "burdenIndex": 93,
+    "mandateDensity": 9.11,
+    "penaltyScore": 10,
+    "exemptionCount": 3789,
+    "definitionDensity": 2.1,
+    "formReportingBurden": 4957,
+    "lastSignificantUpdate": "2025-12-10",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.21,
+    "permissionBurden": 1765,
+    "complianceCostMentions": 3400,
+    "inspectionBurden": 2609,
+    "deadlineCount": 863,
+    "discretionaryLanguage": 9494,
+    "smallBusinessMentions": 169,
+    "crossReferenceCount": 2261
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 15,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 215,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 43,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 237,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 201,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 244,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 149,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 166,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 148,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 263,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 271,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 219,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 259,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 218,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 101,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 251,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 227,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 280,
+      "total": 315
+    }
+  }
+}

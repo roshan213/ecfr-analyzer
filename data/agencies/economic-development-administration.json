@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "economic-development-administration",
+    "name": "Economic Development Administration",
+    "shortName": "EDA",
+    "titles": [
+      13
+    ],
+    "chapters": [
+      "III"
+    ]
+  },
+  "analysis": {
+    "slug": "economic-development-administration",
+    "name": "Economic Development Administration",
+    "shortName": "EDA",
+    "wordCount": 556711,
+    "sectionCount": 1699,
+    "titleCount": 1,
+    "checksum": "0f0076caa038e756",
+    "complexityScore": 5.93,
+    "avgWordsPerSection": 328,
+    "titles": [
+      13
+    ],
+    "burdenIndex": 72,
+    "mandateDensity": 9.53,
+    "penaltyScore": 10,
+    "exemptionCount": 1453,
+    "definitionDensity": 1.77,
+    "formReportingBurden": 2399,
+    "lastSignificantUpdate": "2025-12-05",
+    "structureDepth": 5,
+    "prohibitionDensity": 1.15,
+    "permissionBurden": 1057,
+    "complianceCostMentions": 2577,
+    "inspectionBurden": 1111,
+    "deadlineCount": 598,
+    "discretionaryLanguage": 4575,
+    "smallBusinessMentions": 2147,
+    "crossReferenceCount": 815
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 287,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 203,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 28,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 300,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 255,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 299,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 300,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 303,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 168,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 288,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 283,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 293,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 291,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 293,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 33,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 298,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 294,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 296,
+      "total": 315
+    }
+  }
+}

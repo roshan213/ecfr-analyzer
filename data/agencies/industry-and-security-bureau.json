@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "industry-and-security-bureau",
+    "name": "Bureau of Industry and Security",
+    "shortName": "BIS",
+    "titles": [
+      15
+    ],
+    "chapters": [
+      "VII"
+    ]
+  },
+  "analysis": {
+    "slug": "industry-and-security-bureau",
+    "name": "Bureau of Industry and Security",
+    "shortName": "BIS",
+    "wordCount": 1587384,
+    "sectionCount": 2398,
+    "titleCount": 1,
+    "checksum": "d1aca8e90f06dae0",
+    "complexityScore": 7.83,
+    "avgWordsPerSection": 662,
+    "titles": [
+      15
+    ],
+    "burdenIndex": 85,
+    "mandateDensity": 5.73,
+    "penaltyScore": 10,
+    "exemptionCount": 4200,
+    "definitionDensity": 1.35,
+    "formReportingBurden": 6176,
+    "lastSignificantUpdate": "2025-12-05",
+    "structureDepth": 7,
+    "prohibitionDensity": 1,
+    "permissionBurden": 9404,
+    "complianceCostMentions": 2018,
+    "inspectionBurden": 2985,
+    "deadlineCount": 881,
+    "discretionaryLanguage": 7814,
+    "smallBusinessMentions": 23,
+    "crossReferenceCount": 4152
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 66,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 307,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 11,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 205,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 286,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 194,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 5,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 10,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 218,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 63,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 290,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 203,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 246,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 261,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 212,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 182,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 212,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 284,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "arctic-research-commission",
+    "name": "Arctic Research Commission",
+    "shortName": "ARCTIC",
+    "titles": [
+      45
+    ],
+    "chapters": [
+      "XXIII"
+    ]
+  },
+  "analysis": {
+    "slug": "arctic-research-commission",
+    "name": "Arctic Research Commission",
+    "shortName": "ARCTIC",
+    "wordCount": 2016694,
+    "sectionCount": 5884,
+    "titleCount": 1,
+    "checksum": "317990c3c20746e9",
+    "complexityScore": 7.67,
+    "avgWordsPerSection": 343,
+    "titles": [
+      45
+    ],
+    "burdenIndex": 92,
+    "mandateDensity": 9.74,
+    "penaltyScore": 10,
+    "exemptionCount": 5405,
+    "definitionDensity": 2.5,
+    "formReportingBurden": 8934,
+    "lastSignificantUpdate": "2025-11-25",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.23,
+    "permissionBurden": 2632,
+    "complianceCostMentions": 9200,
+    "inspectionBurden": 4399,
+    "deadlineCount": 2025,
+    "discretionaryLanguage": 14839,
+    "smallBusinessMentions": 36,
+    "crossReferenceCount": 3795
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 16,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 188,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 1,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 169,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 22,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 144,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 54,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 1,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 124,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 224,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 132,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 148,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 137,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 145,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 155,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 199,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 155,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 155,
+      "total": 315
+    }
+  }
+}

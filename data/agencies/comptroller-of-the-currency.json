@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "comptroller-of-the-currency",
+    "name": "Comptroller of the Currency",
+    "shortName": "OCC",
+    "titles": [
+      12
+    ],
+    "chapters": [
+      "I"
+    ]
+  },
+  "analysis": {
+    "slug": "comptroller-of-the-currency",
+    "name": "Comptroller of the Currency",
+    "shortName": "OCC",
+    "wordCount": 5666910,
+    "sectionCount": 7198,
+    "titleCount": 1,
+    "checksum": "10c394ff76ecaff6",
+    "complexityScore": 7.64,
+    "avgWordsPerSection": 787,
+    "titles": [
+      12
+    ],
+    "burdenIndex": 84,
+    "mandateDensity": 8.92,
+    "penaltyScore": 8.6,
+    "exemptionCount": 13948,
+    "definitionDensity": 2.42,
+    "formReportingBurden": 33540,
+    "lastSignificantUpdate": "2025-12-16",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.96,
+    "permissionBurden": 6407,
+    "complianceCostMentions": 38123,
+    "inspectionBurden": 6742,
+    "deadlineCount": 4792,
+    "discretionaryLanguage": 41373,
+    "smallBusinessMentions": 1183,
+    "crossReferenceCount": 8902
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 93,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 229,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 228,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 47,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 58,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 23,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 106,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 202,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 268,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 101,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 35,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 100,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 39,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 32,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 49,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 85,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 34,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 135,
+      "total": 315
+    }
+  }
+}

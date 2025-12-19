@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "international-organizations-employees-loyalty-board",
+    "name": "International Organizations Employees Loyalty Board",
+    "shortName": "",
+    "titles": [
+      5
+    ],
+    "chapters": [
+      "V"
+    ]
+  },
+  "analysis": {
+    "slug": "international-organizations-employees-loyalty-board",
+    "name": "International Organizations Employees Loyalty Board",
+    "shortName": "International Organizations Employees Loyalty Board",
+    "wordCount": 1631811,
+    "sectionCount": 5348,
+    "titleCount": 1,
+    "checksum": "fcd8f10ee6eacc05",
+    "complexityScore": 7.4,
+    "avgWordsPerSection": 305,
+    "titles": [
+      5
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 7.96,
+    "penaltyScore": 10,
+    "exemptionCount": 5582,
+    "definitionDensity": 2.35,
+    "formReportingBurden": 5957,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.47,
+    "permissionBurden": 1753,
+    "complianceCostMentions": 6584,
+    "inspectionBurden": 2205,
+    "deadlineCount": 1855,
+    "discretionaryLanguage": 12448,
+    "smallBusinessMentions": 23,
+    "crossReferenceCount": 4932
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 171,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 269,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 130,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 164,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 92,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 221,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 213,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 247,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 49,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 273,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 203,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 239,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 173,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 202,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 230,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 157,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 205,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 200,
+      "total": 315
+    }
+  }
+}

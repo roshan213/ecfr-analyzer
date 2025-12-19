@@ -1,0 +1,123 @@
+{
+  "agency": {
+    "slug": "social-security-administration",
+    "name": "Social Security Administration",
+    "shortName": "SSA",
+    "titles": [
+      2,
+      20,
+      48
+    ],
+    "chapters": [
+      "XXIII",
+      "III",
+      "23"
+    ]
+  },
+  "analysis": {
+    "slug": "social-security-administration",
+    "name": "Social Security Administration",
+    "shortName": "SSA",
+    "wordCount": 5044578,
+    "sectionCount": 18734,
+    "titleCount": 3,
+    "checksum": "8852f11ee3b18a02",
+    "complexityScore": 7.26,
+    "avgWordsPerSection": 269,
+    "titles": [
+      2,
+      20,
+      48
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 10.09,
+    "penaltyScore": 7.9,
+    "exemptionCount": 13991,
+    "definitionDensity": 2.12,
+    "formReportingBurden": 21468,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 6,
+    "prohibitionDensity": 0.9,
+    "permissionBurden": 6199,
+    "complianceCostMentions": 44916,
+    "inspectionBurden": 10638,
+    "deadlineCount": 4016,
+    "discretionaryLanguage": 33012,
+    "smallBusinessMentions": 3315,
+    "crossReferenceCount": 10845
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 183,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 177,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 244,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 40,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 196,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 64,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 263,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 257,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 283,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 103,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 15,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 48,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 73,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 70,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 18,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 40,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 69,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 24,
+      "total": 315
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "military-compensation-and-retirement-modernization-commission",
+    "name": "Military Compensation and Retirement Modernization Commission",
+    "shortName": "Military Compensation and Retirement Modernization Commission",
+    "titles": [
+      5
+    ],
+    "chapters": [
+      "XCIX"
+    ]
+  },
+  "analysis": {
+    "slug": "military-compensation-and-retirement-modernization-commission",
+    "name": "Military Compensation and Retirement Modernization Commission",
+    "shortName": "Military Compensation and Retirement Modernization Commission",
+    "wordCount": 1631811,
+    "sectionCount": 5348,
+    "titleCount": 1,
+    "checksum": "fcd8f10ee6eacc05",
+    "complexityScore": 7.4,
+    "avgWordsPerSection": 305,
+    "titles": [
+      5
+    ],
+    "burdenIndex": 79,
+    "mandateDensity": 7.96,
+    "penaltyScore": 10,
+    "exemptionCount": 5582,
+    "definitionDensity": 2.35,
+    "formReportingBurden": 5957,
+    "lastSignificantUpdate": "2025-12-15",
+    "structureDepth": 6,
+    "prohibitionDensity": 1.47,
+    "permissionBurden": 1753,
+    "complianceCostMentions": 6584,
+    "inspectionBurden": 2205,
+    "deadlineCount": 1855,
+    "discretionaryLanguage": 12448,
+    "smallBusinessMentions": 23,
+    "crossReferenceCount": 4932
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 179,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 272,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 133,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 167,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 95,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 224,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 216,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 255,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 52,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 276,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 206,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 242,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 176,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 205,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 233,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 160,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 208,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 203,
+      "total": 315
+    }
+  }
+}

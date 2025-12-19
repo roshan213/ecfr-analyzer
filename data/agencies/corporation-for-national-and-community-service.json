@@ -1,0 +1,121 @@
+{
+  "agency": {
+    "slug": "corporation-for-national-and-community-service",
+    "name": "Corporation for National and Community Service",
+    "shortName": "CORP/CNCS",
+    "titles": [
+      2,
+      45
+    ],
+    "chapters": [
+      "XXII",
+      "XII",
+      "XXV"
+    ]
+  },
+  "analysis": {
+    "slug": "corporation-for-national-and-community-service",
+    "name": "Corporation for National and Community Service",
+    "shortName": "CORP/CNCS",
+    "wordCount": 2370377,
+    "sectionCount": 7392,
+    "titleCount": 2,
+    "checksum": "3dd56c0d2c138183",
+    "complexityScore": 7.6,
+    "avgWordsPerSection": 321,
+    "titles": [
+      2,
+      45
+    ],
+    "burdenIndex": 91,
+    "mandateDensity": 9.83,
+    "penaltyScore": 10,
+    "exemptionCount": 6581,
+    "definitionDensity": 2.44,
+    "formReportingBurden": 10694,
+    "lastSignificantUpdate": "2025-11-25",
+    "structureDepth": 7,
+    "prohibitionDensity": 1.16,
+    "permissionBurden": 3124,
+    "complianceCostMentions": 13370,
+    "inspectionBurden": 5716,
+    "deadlineCount": 2210,
+    "discretionaryLanguage": 17103,
+    "smallBusinessMentions": 85,
+    "crossReferenceCount": 6692
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 31,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 187,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 56,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 144,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 47,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 130,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 127,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 73,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 162,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 204,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 98,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 115,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 130,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 127,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 115,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 106,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 142,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 116,
+      "total": 315
+    }
+  }
+}

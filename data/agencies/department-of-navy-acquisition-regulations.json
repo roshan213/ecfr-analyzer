@@ -1,0 +1,117 @@
+{
+  "agency": {
+    "slug": "department-of-navy-acquisition-regulations",
+    "name": "Department of Navy Acquisition Regulations",
+    "shortName": "",
+    "titles": [
+      48
+    ],
+    "chapters": [
+      "52"
+    ]
+  },
+  "analysis": {
+    "slug": "department-of-navy-acquisition-regulations",
+    "name": "Department of Navy Acquisition Regulations",
+    "shortName": "Department of Navy Acquisition Regulations",
+    "wordCount": 2670081,
+    "sectionCount": 11574,
+    "titleCount": 1,
+    "checksum": "13148bf30efa9490",
+    "complexityScore": 6.99,
+    "avgWordsPerSection": 231,
+    "titles": [
+      48
+    ],
+    "burdenIndex": 78,
+    "mandateDensity": 11.72,
+    "penaltyScore": 6.3,
+    "exemptionCount": 8440,
+    "definitionDensity": 2.47,
+    "formReportingBurden": 11700,
+    "lastSignificantUpdate": "2025-12-02",
+    "structureDepth": 5,
+    "prohibitionDensity": 1.07,
+    "permissionBurden": 4684,
+    "complianceCostMentions": 30845,
+    "inspectionBurden": 3682,
+    "deadlineCount": 1926,
+    "discretionaryLanguage": 16919,
+    "smallBusinessMentions": 3252,
+    "crossReferenceCount": 4723
+  },
+  "rankings": {
+    "burdenIndex": {
+      "rank": 217,
+      "total": 315
+    },
+    "mandateDensity": {
+      "rank": 108,
+      "total": 315
+    },
+    "penaltyScore": {
+      "rank": 278,
+      "total": 315
+    },
+    "exemptionCount": {
+      "rank": 117,
+      "total": 315
+    },
+    "definitionDensity": {
+      "rank": 38,
+      "total": 315
+    },
+    "formReportingBurden": {
+      "rank": 109,
+      "total": 315
+    },
+    "complexityScore": {
+      "rank": 276,
+      "total": 315
+    },
+    "structureDepth": {
+      "rank": 302,
+      "total": 315
+    },
+    "prohibitionDensity": {
+      "rank": 187,
+      "total": 315
+    },
+    "permissionBurden": {
+      "rank": 152,
+      "total": 315
+    },
+    "complianceCostMentions": {
+      "rank": 69,
+      "total": 315
+    },
+    "inspectionBurden": {
+      "rank": 180,
+      "total": 315
+    },
+    "deadlineCount": {
+      "rank": 152,
+      "total": 315
+    },
+    "discretionaryLanguage": {
+      "rank": 129,
+      "total": 315
+    },
+    "smallBusinessMentions": {
+      "rank": 26,
+      "total": 315
+    },
+    "crossReferenceCount": {
+      "rank": 168,
+      "total": 315
+    },
+    "wordCount": {
+      "rank": 124,
+      "total": 315
+    },
+    "sectionCount": {
+      "rank": 73,
+      "total": 315
+    }
+  }
+}
