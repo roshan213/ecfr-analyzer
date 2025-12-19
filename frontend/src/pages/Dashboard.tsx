@@ -130,13 +130,6 @@ export default function Dashboard() {
                     <div className="stat-value">{formatNumber(summary?.totalSections || 0)}</div>
                 </div>
                 <div className="stat-card">
-                    <div className="stat-label">
-                        Avg Complexity
-                        <InfoTooltip {...METRIC_DEFINITIONS.complexityScore} />
-                    </div>
-                    <div className="stat-value">{summary?.avgComplexity?.toFixed(1) || '0'}</div>
-                </div>
-                <div className="stat-card">
                     <div className="stat-label">Last Updated</div>
                     <div className="stat-value" style={{ fontSize: '1rem' }}>
                         {summary?.lastUpdated ? new Date(summary.lastUpdated).toLocaleDateString() : 'N/A'}
