@@ -24,7 +24,7 @@ if (!dataStore.hasData()) {
 }
 
 // Get data from dataStore and analyzer
-const analysis = analyzer.getAnalysis();
+const analysisCache = analyzer.getAnalysis();
 const agencyData = dataStore.getAgencies();
 
 if (!agencyData) {
@@ -32,14 +32,14 @@ if (!agencyData) {
     process.exit(1);
 }
 
-// 1. Export summary
+// 1. Export summary (use the summary from the cache)
 const summary = {
-    totalAgencies: analysis.agencyAnalysis.length,
-    totalTitles: analysis.totalTitles,
-    totalWordCount: analysis.totalWordCount,
-    totalSections: analysis.totalSections,
-    avgComplexity: analysis.avgComplexity,
-    lastUpdated: new Date().toISOString()
+    totalAgencies: analysisCache.summary.totalAgencies,
+    totalTitles: analysisCache.summary.totalTitles,
+    totalWordCount: analysisCache.summary.totalWordCount,
+    totalSections: analysisCache.summary.totalSections,
+    avgComplexity: analysisCache.summary.avgComplexity,
+    lastUpdated: analysisCache.summary.lastUpdated
 };
 fs.writeFileSync(
     path.join(FRONTEND_PUBLIC, 'summary.json'),
@@ -48,7 +48,7 @@ fs.writeFileSync(
 console.log('✅ Exported summary.json');
 
 // 2. Export word counts (top 15)
-const wordCounts = analysis.agencyAnalysis
+const wordCounts = analysisCache.agencyAnalysis
     .filter(a => a.wordCount > 0)
     .sort((a, b) => b.wordCount - a.wordCount)
     .slice(0, 15)
@@ -64,7 +64,7 @@ fs.writeFileSync(
 console.log('✅ Exported word-counts.json');
 
 // 3. Export complexity data (all agencies with data)
-const complexityRanking = analysis.agencyAnalysis
+const complexityRanking = analysisCache.agencyAnalysis
     .filter(a => a.wordCount > 0)
     .sort((a, b) => b.complexityScore - a.complexityScore)
     .map(a => ({
@@ -118,7 +118,7 @@ fs.writeFileSync(
 console.log('✅ Exported agencies.json');
 
 // 6. Export individual agency details with rankings
-const allAgencies = analysis.agencyAnalysis.filter(a => a.wordCount > 0);
+const allAgencies = analysisCache.agencyAnalysis.filter(a => a.wordCount > 0);
 const total = allAgencies.length;
 
 // Helper to compute rank
@@ -151,7 +151,7 @@ if (!fs.existsSync(agenciesDir)) {
 
 let exportedCount = 0;
 for (const agencyInfo of agencyData.flatAgencies) {
-    const agencyAnalysis = analysis.agencyAnalysis.find(a => a.slug === agencyInfo.slug);
+    const agencyAnalysis = analysisCache.agencyAnalysis.find(a => a.slug === agencyInfo.slug);
 
     // Calculate rankings if analysis exists
     let rankings: Record<string, { rank: number; total: number }> | null = null;
