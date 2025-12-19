@@ -1,4 +1,8 @@
 {
   "totalAgencies": 316,
-  "lastUpdated": "2025-12-19T18:20:02.745Z"
+  "totalTitles": 49,
+  "totalWordCount": 1013360719,
+  "totalSections": 2658896,
+  "avgComplexity": 7.32,
+  "lastUpdated": "2025-12-19T05:11:49.076Z"
 }
