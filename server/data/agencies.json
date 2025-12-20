@@ -4982,9 +4982,6 @@
       "slug": "administrative-conference-of-the-united-states",
       "titles": [
         1
-      ],
-      "chapters": [
-        "III"
       ]
     },
     {
@@ -4993,9 +4990,6 @@
       "slug": "advisory-council-on-historic-preservation",
       "titles": [
         36
-      ],
-      "chapters": [
-        "VIII"
       ]
     },
     {
@@ -5004,9 +4998,6 @@
       "slug": "special-inspector-general-for-afghanistan-reconstruction",
       "titles": [
         5
-      ],
-      "chapters": [
-        "LXXXIII"
       ]
     },
     {
@@ -5016,10 +5007,6 @@
       "titles": [
         22,
         48
-      ],
-      "chapters": [
-        "XV",
-        "57"
       ]
     },
     {
@@ -5029,10 +5016,6 @@
       "titles": [
         22,
         48
-      ],
-      "chapters": [
-        "V",
-        "19"
       ]
     },
     {
@@ -5043,14 +5026,8 @@
         2,
         5,
         7,
+        7,
         48
-      ],
-      "chapters": [
-        "IV",
-        "LXXIII",
-        "XVI",
-        "XX",
-        "4"
       ]
     },
     {
@@ -5059,17 +5036,12 @@
       "slug": "agricultural-marketing-service",
       "titles": [
         7,
+        7,
+        7,
+        7,
+        7,
         9
-      ],
-      "chapters": [
-        "I",
-        "VIII",
-        "IX",
-        "X",
-        "XI",
-        "II"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Agricultural Research Service",
@@ -5077,11 +5049,7 @@
       "slug": "agricultural-research-service",
       "titles": [
         7
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Animal and Plant Health Inspection Service",
@@ -5090,12 +5058,7 @@
       "titles": [
         7,
         9
-      ],
-      "chapters": [
-        "III",
-        "I"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Commodity Credit Corporation",
@@ -5103,11 +5066,7 @@
       "slug": "commodity-credit-corporation",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XIV"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Economic Research Service",
@@ -5115,11 +5074,7 @@
       "slug": "economic-research-service",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXXVII"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Farm Service Agency",
@@ -5127,11 +5082,7 @@
       "slug": "farm-service-agency",
       "titles": [
         7
-      ],
-      "chapters": [
-        "VII"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Federal Crop Insurance Corporation",
@@ -5139,11 +5090,7 @@
       "slug": "federal-crop-insurance-corporation",
       "titles": [
         7
-      ],
-      "chapters": [
-        "IV"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Food and Nutrition Service",
@@ -5151,11 +5098,7 @@
       "slug": "food-and-nutrition-service",
       "titles": [
         7
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Food Safety and Inspection Service",
@@ -5163,11 +5106,7 @@
       "slug": "food-safety-and-inspection-service",
       "titles": [
         9
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Foreign Agricultural Service",
@@ -5175,11 +5114,7 @@
       "slug": "foreign-agricultural-service",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XV"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Forest Service",
@@ -5187,11 +5122,7 @@
       "slug": "forest-service",
       "titles": [
         36
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "National Agricultural Statistics Service",
@@ -5199,11 +5130,7 @@
       "slug": "national-agricultural-statistics-service",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXXVI"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "National Institute of Food and Agriculture",
@@ -5211,11 +5138,7 @@
       "slug": "national-institute-of-food-and-agriculture",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXXIV"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Natural Resources Conservation Service",
@@ -5223,11 +5146,7 @@
       "slug": "natural-resources-conservation-service",
       "titles": [
         7
-      ],
-      "chapters": [
-        "VI"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Office of Advocacy and Outreach",
@@ -5235,11 +5154,7 @@
       "slug": "advocacy-and-outreach-office",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXV"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Office of Chief Financial Officer",
@@ -5247,11 +5162,7 @@
       "slug": "office-of-the-chief-financial-officer-agriculture-department",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXX"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Office of Energy Policy and New Uses",
@@ -5259,11 +5170,7 @@
       "slug": "energy-policy-and-new-uses-office",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXIX"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Office of Environmental Quality",
@@ -5271,11 +5178,7 @@
       "slug": "office-of-environmental-quality",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXXI"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Office of Information Resources Management",
@@ -5283,11 +5186,7 @@
       "slug": "office-of-information-resources-management",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXVII"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Office of Inspector General",
@@ -5295,11 +5194,7 @@
       "slug": "inspector-general-office-agriculture-department",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXVI"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Office of Operations",
@@ -5307,11 +5202,7 @@
       "slug": "office-of-operations",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXVIII"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Office of Procurement and Property Management",
@@ -5319,11 +5210,7 @@
       "slug": "procurement-and-property-management-office-of",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXXII"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Office of Secretary of Agriculture",
@@ -5331,11 +5218,7 @@
       "slug": "office-of-secretary-of-agriculture",
       "titles": [
         7
-      ],
-      "chapters": [
-        null
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Office of Transportation",
@@ -5343,54 +5226,38 @@
       "slug": "transportation-office",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXXIII"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Rural Business-Cooperative Service",
       "short_name": "RBS",
       "slug": "rural-business-cooperative-service",
       "titles": [
+        7,
+        7,
         7
-      ],
-      "chapters": [
-        "XVIII",
-        "XLII",
-        "L"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Rural Housing Service",
       "short_name": "RHS",
       "slug": "rural-housing-service",
       "titles": [
+        7,
+        7,
         7
-      ],
-      "chapters": [
-        "XVIII",
-        "XXXV",
-        "L"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Rural Utilities Service",
       "short_name": "RUS",
       "slug": "rural-utilities-service",
       "titles": [
+        7,
+        7,
+        7,
         7
-      ],
-      "chapters": [
-        "XVII",
-        "XVIII",
-        "XLII",
-        "L"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "World Agricultural Outlook Board",
@@ -5398,11 +5265,7 @@
       "slug": "world-agricultural-outlook-board",
       "titles": [
         7
-      ],
-      "chapters": [
-        "XXXVIII"
-      ],
-      "parentSlug": "agriculture-department"
+      ]
     },
     {
       "name": "Air Transportation System Stabilization",
@@ -5410,9 +5273,6 @@
       "slug": "air-transportation-stabilization-board",
       "titles": [
         14
-      ],
-      "chapters": [
-        "VI"
       ]
     },
     {
@@ -5421,9 +5281,6 @@
       "slug": "american-battle-monuments-commission",
       "titles": [
         36
-      ],
-      "chapters": [
-        "IV"
       ]
     },
     {
@@ -5432,9 +5289,6 @@
       "slug": "appalachian-regional-commission",
       "titles": [
         5
-      ],
-      "chapters": [
-        "IX"
       ]
     },
     {
@@ -5443,9 +5297,6 @@
       "slug": "architectural-and-transportation-barriers-compliance-board",
       "titles": [
         36
-      ],
-      "chapters": [
-        "XI"
       ]
     },
     {
@@ -5454,9 +5305,6 @@
       "slug": "arctic-research-commission",
       "titles": [
         45
-      ],
-      "chapters": [
-        "XXIII"
       ]
     },
     {
@@ -5466,10 +5314,6 @@
       "titles": [
         5,
         38
-      ],
-      "chapters": [
-        "XI",
-        "II"
       ]
     },
     {
@@ -5478,9 +5322,6 @@
       "slug": "committee-for-purchase-from-people-who-are-blind-or-severely-disabled",
       "titles": [
         41
-      ],
-      "chapters": [
-        "51"
       ]
     },
     {
@@ -5489,9 +5330,6 @@
       "slug": "central-intelligence-agency",
       "titles": [
         32
-      ],
-      "chapters": [
-        "XIX"
       ]
     },
     {
@@ -5500,9 +5338,6 @@
       "slug": "chemical-safety-and-hazard-investigation-board",
       "titles": [
         40
-      ],
-      "chapters": [
-        "VI"
       ]
     },
     {
@@ -5512,10 +5347,6 @@
       "titles": [
         5,
         45
-      ],
-      "chapters": [
-        "LXVIII",
-        "VII"
       ]
     },
     {
@@ -5526,11 +5357,6 @@
         2,
         44,
         48
-      ],
-      "chapters": [
-        "XIII",
-        "IV",
-        "13"
       ]
     },
     {
@@ -5539,11 +5365,7 @@
       "slug": "census-bureau",
       "titles": [
         15
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "Bureau of Economic Analysis",
@@ -5551,11 +5373,7 @@
       "slug": "economic-analysis-bureau",
       "titles": [
         15
-      ],
-      "chapters": [
-        "VIII"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "Bureau of Industry and Security",
@@ -5563,11 +5381,7 @@
       "slug": "industry-and-security-bureau",
       "titles": [
         15
-      ],
-      "chapters": [
-        "VII"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "Economic Development Administration",
@@ -5575,11 +5389,7 @@
       "slug": "economic-development-administration",
       "titles": [
         13
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "Foreign-Trade Zones Board",
@@ -5587,11 +5397,7 @@
       "slug": "foreign-trade-zones-board",
       "titles": [
         15
-      ],
-      "chapters": [
-        "IV"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "International Trade Administration",
@@ -5600,11 +5406,7 @@
       "titles": [
         15,
         19
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "Minority Business Development Agency",
@@ -5612,11 +5414,7 @@
       "slug": "minority-business-development-agency",
       "titles": [
         15
-      ],
-      "chapters": [
-        "XIV"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "National Institute of Standards and Technology",
@@ -5625,12 +5423,7 @@
       "titles": [
         15,
         37
-      ],
-      "chapters": [
-        "II",
-        "IV"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "National Oceanic and Atmospheric Administration",
@@ -5638,14 +5431,9 @@
       "slug": "national-oceanic-and-atmospheric-administration",
       "titles": [
         15,
+        50,
         50
-      ],
-      "chapters": [
-        "IX",
-        "III",
-        "IV"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "National Oceanic and Atmospheric Administration National Marine Fisheries Service",
@@ -5653,11 +5441,7 @@
       "slug": "national-oceanic-and-atmospheric-administration-national-marine-fisheries-service",
       "titles": [
         50
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "National Technical Information Service",
@@ -5665,11 +5449,7 @@
       "slug": "national-technical-information-service",
       "titles": [
         15
-      ],
-      "chapters": [
-        "XI"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "National Telecommunications and Information Administration",
@@ -5677,14 +5457,9 @@
       "slug": "national-telecommunications-and-information-administration",
       "titles": [
         15,
+        47,
         47
-      ],
-      "chapters": [
-        "XXIII",
-        "III",
-        "IV"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "Office of Secretary of Commerce",
@@ -5692,11 +5467,7 @@
       "slug": "office-of-secretary-of-commerce",
       "titles": [
         15
-      ],
-      "chapters": [
-        null
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "Office of Under-Secretary for Economic Affairs",
@@ -5704,11 +5475,7 @@
       "slug": "under-secretary-for-economic-affairs",
       "titles": [
         15
-      ],
-      "chapters": [
-        "XV"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "United States Patent and Trademark Office",
@@ -5716,11 +5483,7 @@
       "slug": "patent-and-trademark-office",
       "titles": [
         37
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "commerce-department"
+      ]
     },
     {
       "name": "Commodity Futures Trading Commission",
@@ -5729,10 +5492,6 @@
       "titles": [
         5,
         17
-      ],
-      "chapters": [
-        "XLI",
-        "I"
       ]
     },
     {
@@ -5741,9 +5500,6 @@
       "slug": "construction-industry-collective-bargaining-commission",
       "titles": [
         29
-      ],
-      "chapters": [
-        "IX"
       ]
     },
     {
@@ -5753,10 +5509,6 @@
       "titles": [
         5,
         12
-      ],
-      "chapters": [
-        "LXXXIV",
-        "X"
       ]
     },
     {
@@ -5766,10 +5518,6 @@
       "titles": [
         5,
         16
-      ],
-      "chapters": [
-        "LXXI",
-        "II"
       ]
     },
     {
@@ -5778,9 +5526,6 @@
       "slug": "council-of-the-inspectors-general-on-integrity-and-efficiency",
       "titles": [
         5
-      ],
-      "chapters": [
-        "XCVIII"
       ]
     },
     {
@@ -5790,10 +5535,6 @@
       "titles": [
         5,
         28
-      ],
-      "chapters": [
-        "LXX",
-        "VIII"
       ]
     },
     {
@@ -5802,9 +5543,6 @@
       "slug": "defense-nuclear-facilities-safety-board",
       "titles": [
         10
-      ],
-      "chapters": [
-        "XVII"
       ]
     },
     {
@@ -5816,12 +5554,6 @@
         5,
         32,
         40
-      ],
-      "chapters": [
-        "XI",
-        "XXVI",
-        null,
-        "VII"
       ]
     },
     {
@@ -5831,12 +5563,7 @@
       "titles": [
         33,
         36
-      ],
-      "chapters": [
-        "II",
-        "III"
-      ],
-      "parentSlug": "defense-department"
+      ]
     },
     {
       "name": "Defense Acquisition Regulations System",
@@ -5844,11 +5571,7 @@
       "slug": "defense-acquisition-regulations-system",
       "titles": [
         48
-      ],
-      "chapters": [
-        "2"
-      ],
-      "parentSlug": "defense-department"
+      ]
     },
     {
       "name": "Defense Logistics Agency",
@@ -5857,12 +5580,7 @@
       "titles": [
         32,
         48
-      ],
-      "chapters": [
-        "XII",
-        "54"
-      ],
-      "parentSlug": "defense-department"
+      ]
     },
     {
       "name": "Department of Navy Acquisition Regulations",
@@ -5870,19 +5588,13 @@
       "slug": "department-of-navy-acquisition-regulations",
       "titles": [
         48
-      ],
-      "chapters": [
-        "52"
-      ],
-      "parentSlug": "defense-department"
+      ]
     },
     {
       "name": "National Geospatial-Intelligence Agency",
       "short_name": "NGA",
       "slug": "national-geospatial-intelligence-agency",
-      "titles": [],
-      "chapters": [],
-      "parentSlug": "defense-department"
+      "titles": []
     },
     {
       "name": "Office of the Secretary",
@@ -5890,11 +5602,7 @@
       "slug": "office-of-the-secretary",
       "titles": [
         32
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "defense-department"
+      ]
     },
     {
       "name": "Delaware River Basin Commission",
@@ -5902,9 +5610,6 @@
       "slug": "delaware-river-basin-commission",
       "titles": [
         18
-      ],
-      "chapters": [
-        "III"
       ]
     },
     {
@@ -5913,9 +5618,6 @@
       "slug": "denali-commission",
       "titles": [
         45
-      ],
-      "chapters": [
-        "IX"
       ]
     },
     {
@@ -5925,10 +5627,6 @@
       "titles": [
         5,
         32
-      ],
-      "chapters": [
-        "IV",
-        "XVII"
       ]
     },
     {
@@ -5938,10 +5636,6 @@
       "titles": [
         5,
         34
-      ],
-      "chapters": [
-        "C",
-        "XII"
       ]
     },
     {
@@ -5950,9 +5644,6 @@
       "slug": "east-west-foreign-trade-board",
       "titles": [
         15
-      ],
-      "chapters": [
-        "XIII"
       ]
     },
     {
@@ -5962,10 +5653,6 @@
       "titles": [
         2,
         5
-      ],
-      "chapters": [
-        "XXXIV",
-        "LIII"
       ]
     },
     {
@@ -5974,11 +5661,7 @@
       "slug": "department-of-education-acquisition-regulation",
       "titles": [
         48
-      ],
-      "chapters": [
-        "34"
-      ],
-      "parentSlug": "education-department"
+      ]
     },
     {
       "name": "Office for Civil Rights",
@@ -5986,11 +5669,7 @@
       "slug": "office-for-civil-rights",
       "titles": [
         34
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "education-department"
+      ]
     },
     {
       "name": "Office of and Adult Education Technical Career",
@@ -5998,11 +5677,7 @@
       "slug": "office-of-and-adult-education-technical-career",
       "titles": [
         34
-      ],
-      "chapters": [
-        "IV"
-      ],
-      "parentSlug": "education-department"
+      ]
     },
     {
       "name": "Office of Bilingual Education and Minority Languages Affairs",
@@ -6010,11 +5685,7 @@
       "slug": "office-of-bilingual-education-and-minority-languages-affairs",
       "titles": [
         34
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "education-department"
+      ]
     },
     {
       "name": "Office of Elementary and Secondary Education",
@@ -6022,11 +5693,7 @@
       "slug": "office-of-elementary-and-secondary-education",
       "titles": [
         34
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "education-department"
+      ]
     },
     {
       "name": "Office of Postsecondary Education",
@@ -6034,11 +5701,7 @@
       "slug": "office-of-postsecondary-education",
       "titles": [
         34
-      ],
-      "chapters": [
-        "VI"
-      ],
-      "parentSlug": "education-department"
+      ]
     },
     {
       "name": "Office of Secretary of Education",
@@ -6046,11 +5709,7 @@
       "slug": "office-of-secretary-of-education",
       "titles": [
         34
-      ],
-      "chapters": [
-        null
-      ],
-      "parentSlug": "education-department"
+      ]
     },
     {
       "name": "Office of Special Education and Rehabilitative Services",
@@ -6058,11 +5717,7 @@
       "slug": "office-of-special-education-and-rehabilitative-services",
       "titles": [
         34
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "education-department"
+      ]
     },
     {
       "name": "Election Assistance Commission",
@@ -6071,10 +5726,6 @@
       "titles": [
         2,
         11
-      ],
-      "chapters": [
-        "LVIII",
-        "II"
       ]
     },
     {
@@ -6083,9 +5734,6 @@
       "slug": "emergency-oil-and-gas-guaranteed-loan-board",
       "titles": [
         13
-      ],
-      "chapters": [
-        "V"
       ]
     },
     {
@@ -6094,9 +5742,6 @@
       "slug": "emergency-steel-guarantee-loan-board",
       "titles": [
         13
-      ],
-      "chapters": [
-        "IV"
       ]
     },
     {
@@ -6105,9 +5750,6 @@
       "slug": "national-commission-for-employment-policy",
       "titles": [
         1
-      ],
-      "chapters": [
-        "IV"
       ]
     },
     {
@@ -6118,17 +5760,10 @@
         2,
         5,
         10,
+        10,
+        10,
         41,
         48
-      ],
-      "chapters": [
-        "IX",
-        "XXIII",
-        "II",
-        "III",
-        "X",
-        "109",
-        "9"
       ]
     },
     {
@@ -6138,12 +5773,7 @@
       "titles": [
         5,
         18
-      ],
-      "chapters": [
-        "XXIV",
-        "I"
-      ],
-      "parentSlug": "energy-department"
+      ]
     },
     {
       "name": "Joint Board for the Enrollment of Actuaries",
@@ -6151,9 +5781,6 @@
       "slug": "joint-board-for-enrollment-of-actuaries",
       "titles": [
         20
-      ],
-      "chapters": [
-        "VIII"
       ]
     },
     {
@@ -6164,17 +5791,10 @@
         2,
         5,
         40,
+        40,
+        40,
         41,
         48
-      ],
-      "chapters": [
-        "XV",
-        "LIV",
-        "I",
-        "IV",
-        "VII",
-        "115",
-        "15"
       ]
     },
     {
@@ -6184,10 +5804,6 @@
       "titles": [
         5,
         29
-      ],
-      "chapters": [
-        "LXII",
-        "XIV"
       ]
     },
     {
@@ -6196,9 +5812,6 @@
       "slug": "executive-office-of-the-president",
       "titles": [
         3
-      ],
-      "chapters": [
-        "I"
       ]
     },
     {
@@ -6207,11 +5820,7 @@
       "slug": "council-on-environmental-quality",
       "titles": [
         40
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "executive-office-of-the-president"
+      ]
     },
     {
       "name": "National Security Council",
@@ -6220,12 +5829,7 @@
       "titles": [
         32,
         47
-      ],
-      "chapters": [
-        "XXI",
-        "II"
-      ],
-      "parentSlug": "executive-office-of-the-president"
+      ]
     },
     {
       "name": "Office of Science and Technology Policy",
@@ -6234,12 +5838,7 @@
       "titles": [
         32,
         47
-      ],
-      "chapters": [
-        "XXIV",
-        "II"
-      ],
-      "parentSlug": "executive-office-of-the-president"
+      ]
     },
     {
       "name": "Office of the Intellectual Property Enforcement Coordinator",
@@ -6247,11 +5846,7 @@
       "slug": "office-of-the-intellectual-property-enforcement-coordinator",
       "titles": [
         5
-      ],
-      "chapters": [
-        "CIV"
-      ],
-      "parentSlug": "executive-office-of-the-president"
+      ]
     },
     {
       "name": "Export-Import Bank of the United States",
@@ -6261,11 +5856,6 @@
         2,
         5,
         12
-      ],
-      "chapters": [
-        "XXXV",
-        "LII",
-        "IV"
       ]
     },
     {
@@ -6275,10 +5865,6 @@
       "titles": [
         5,
         12
-      ],
-      "chapters": [
-        "XXXI",
-        "VI"
       ]
     },
     {
@@ -6288,10 +5874,6 @@
       "titles": [
         5,
         12
-      ],
-      "chapters": [
-        "XXX",
-        "XIV"
       ]
     },
     {
@@ -6300,9 +5882,6 @@
       "slug": "federal-acquisition-regulation",
       "titles": [
         48
-      ],
-      "chapters": [
-        "1"
       ]
     },
     {
@@ -6311,9 +5890,6 @@
       "slug": "federal-acqusition-supply-chain-security",
       "titles": [
         41
-      ],
-      "chapters": [
-        "201"
       ]
     },
     {
@@ -6324,11 +5900,6 @@
         2,
         5,
         47
-      ],
-      "chapters": [
-        "LX",
-        "XXIX",
-        "I"
       ]
     },
     {
@@ -6338,10 +5909,6 @@
       "titles": [
         5,
         12
-      ],
-      "chapters": [
-        "XXII",
-        "III"
       ]
     },
     {
@@ -6351,10 +5918,6 @@
       "titles": [
         5,
         11
-      ],
-      "chapters": [
-        "XXXVII",
-        "I"
       ]
     },
     {
@@ -6363,9 +5926,6 @@
       "slug": "federal-financial-institutions-examination-council",
       "titles": [
         12
-      ],
-      "chapters": [
-        "XI"
       ]
     },
     {
@@ -6374,9 +5934,6 @@
       "slug": "federal-financing-bank",
       "titles": [
         12
-      ],
-      "chapters": [
-        "VIII"
       ]
     },
     {
@@ -6386,10 +5943,6 @@
       "titles": [
         5,
         12
-      ],
-      "chapters": [
-        "LXXX",
-        "XII"
       ]
     },
     {
@@ -6399,10 +5952,6 @@
       "titles": [
         5,
         22
-      ],
-      "chapters": [
-        "XLIX",
-        "XIV"
       ]
     },
     {
@@ -6411,11 +5960,7 @@
       "slug": "federal-service-impasses-panel",
       "titles": [
         5
-      ],
-      "chapters": [
-        "XIV"
-      ],
-      "parentSlug": "federal-labor-relations-authority"
+      ]
     },
     {
       "name": "General Counsel of the Federal Labor Relations Authority",
@@ -6424,11 +5969,7 @@
       "titles": [
         5,
         22
-      ],
-      "chapters": [
-        "XIV"
-      ],
-      "parentSlug": "federal-labor-relations-authority"
+      ]
     },
     {
       "name": "Federal Maritime Commission",
@@ -6436,9 +5977,6 @@
       "slug": "federal-maritime-commission",
       "titles": [
         46
-      ],
-      "chapters": [
-        "IV"
       ]
     },
     {
@@ -6448,10 +5986,6 @@
       "titles": [
         5,
         29
-      ],
-      "chapters": [
-        "CIII",
-        "XII"
       ]
     },
     {
@@ -6461,10 +5995,6 @@
       "titles": [
         5,
         29
-      ],
-      "chapters": [
-        "LXXIV",
-        "XXVII"
       ]
     },
     {
@@ -6473,9 +6003,6 @@
       "slug": "federal-permitting-improvement-steering-council",
       "titles": [
         40
-      ],
-      "chapters": [
-        "IX"
       ]
     },
     {
@@ -6484,9 +6011,6 @@
       "slug": "federal-procurement-regulations-system",
       "titles": [
         41
-      ],
-      "chapters": [
-        null
       ]
     },
     {
@@ -6495,9 +6019,6 @@
       "slug": "federal-property-management-regulations-system",
       "titles": [
         41
-      ],
-      "chapters": [
-        null
       ]
     },
     {
@@ -6506,9 +6027,6 @@
       "slug": "federal-register-administrative-committee",
       "titles": [
         1
-      ],
-      "chapters": [
-        "I"
       ]
     },
     {
@@ -6517,9 +6035,6 @@
       "slug": "federal-reserve-system",
       "titles": [
         12
-      ],
-      "chapters": [
-        "II"
       ]
     },
     {
@@ -6528,22 +6043,15 @@
       "slug": "board-of-governors-of-the-federal-reserve-system",
       "titles": [
         5
-      ],
-      "chapters": [
-        "LVIII"
-      ],
-      "parentSlug": "federal-reserve-system"
+      ]
     },
     {
       "name": "Federal Retirement Thrift Investment Board",
       "short_name": "FRTIB",
       "slug": "federal-retirement-thrift-investment-board",
       "titles": [
+        5,
         5
-      ],
-      "chapters": [
-        "VI",
-        "LXXVI"
       ]
     },
     {
@@ -6553,10 +6061,6 @@
       "titles": [
         5,
         16
-      ],
-      "chapters": [
-        "XLVII",
-        "I"
       ]
     },
     {
@@ -6565,9 +6069,6 @@
       "slug": "federal-travel-regulation-system",
       "titles": [
         41
-      ],
-      "chapters": [
-        null
       ]
     },
     {
@@ -6576,9 +6077,6 @@
       "slug": "financial-stability-oversight-council",
       "titles": [
         12
-      ],
-      "chapters": [
-        "XIII"
       ]
     },
     {
@@ -6587,9 +6085,6 @@
       "slug": "commission-of-fine-arts",
       "titles": [
         45
-      ],
-      "chapters": [
-        "XXI"
       ]
     },
     {
@@ -6598,9 +6093,6 @@
       "slug": "first-responder-network-authority",
       "titles": [
         47
-      ],
-      "chapters": [
-        "V"
       ]
     },
     {
@@ -6609,9 +6101,6 @@
       "slug": "foreign-service-grievance-board",
       "titles": [
         22
-      ],
-      "chapters": [
-        "IX"
       ]
     },
     {
@@ -6619,10 +6108,8 @@
       "short_name": "Disputes Panel",
       "slug": "foreign-service-impasse-disputes-panel",
       "titles": [
+        22,
         22
-      ],
-      "chapters": [
-        "XIV"
       ]
     },
     {
@@ -6630,10 +6117,8 @@
       "short_name": "FSLRB",
       "slug": "foreign-service-labor-relations-board",
       "titles": [
+        22,
         22
-      ],
-      "chapters": [
-        "XIV"
       ]
     },
     {
@@ -6644,11 +6129,6 @@
         5,
         41,
         48
-      ],
-      "chapters": [
-        "LVII",
-        "105",
-        "5"
       ]
     },
     {
@@ -6657,11 +6137,7 @@
       "slug": "civilian-board-of-contract-appeals",
       "titles": [
         48
-      ],
-      "chapters": [
-        "61"
-      ],
-      "parentSlug": "general-services-administration"
+      ]
     },
     {
       "name": "Government Accountability Office",
@@ -6669,9 +6145,6 @@
       "slug": "government-accountability-office",
       "titles": [
         4
-      ],
-      "chapters": [
-        "I"
       ]
     },
     {
@@ -6680,9 +6153,6 @@
       "slug": "government-ethics-office",
       "titles": [
         5
-      ],
-      "chapters": [
-        "XVI"
       ]
     },
     {
@@ -6692,10 +6162,6 @@
       "titles": [
         2,
         40
-      ],
-      "chapters": [
-        "LIX",
-        "VIII"
       ]
     },
     {
@@ -6704,9 +6170,6 @@
       "slug": "harry-s-truman-scholarship-foundation",
       "titles": [
         45
-      ],
-      "chapters": [
-        "XVIII"
       ]
     },
     {
@@ -6718,12 +6181,6 @@
         5,
         45,
         48
-      ],
-      "chapters": [
-        "III",
-        "XLV",
-        null,
-        "3"
       ]
     },
     {
@@ -6732,11 +6189,7 @@
       "slug": "children-and-families-administration",
       "titles": [
         45
-      ],
-      "chapters": [
-        "XIII"
-      ],
-      "parentSlug": "health-and-human-services-department"
+      ]
     },
     {
       "name": "Centers for Medicare & Medicaid Services",
@@ -6744,11 +6197,7 @@
       "slug": "centers-for-medicare-medicaid-services",
       "titles": [
         42
-      ],
-      "chapters": [
-        "IV"
-      ],
-      "parentSlug": "health-and-human-services-department"
+      ]
     },
     {
       "name": "Food and Drug Administration",
@@ -6756,11 +6205,7 @@
       "slug": "food-and-drug-administration",
       "titles": [
         21
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "health-and-human-services-department"
+      ]
     },
     {
       "name": "Indian Health Service",
@@ -6769,12 +6214,7 @@
       "titles": [
         25,
         42
-      ],
-      "chapters": [
-        "V",
-        "I"
-      ],
-      "parentSlug": "health-and-human-services-department"
+      ]
     },
     {
       "name": "Office of Administration for Children and Families Child Support Enforcement (Child Support Enforcement Program)",
@@ -6782,11 +6222,7 @@
       "slug": "office-of-administration-for-children-and-families-child-support-enforcement-(child-support-enforcement-program)",
       "titles": [
         45
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "health-and-human-services-department"
+      ]
     },
     {
       "name": "Office of Administration for Children and Families Community Services",
@@ -6794,11 +6230,7 @@
       "slug": "office-of-administration-for-children-and-families-community-services",
       "titles": [
         45
-      ],
-      "chapters": [
-        "X"
-      ],
-      "parentSlug": "health-and-human-services-department"
+      ]
     },
     {
       "name": "Office of Administration for Children and Families Family Assistance (Assistance Programs)",
@@ -6806,11 +6238,7 @@
       "slug": "office-of-administration-for-children-and-families-family-assistance-(assistance-programs)",
       "titles": [
         45
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "health-and-human-services-department"
+      ]
     },
     {
       "name": "Office of Administration for Children and Families Refugee Resettlement",
@@ -6818,11 +6246,7 @@
       "slug": "refugee-resettlement-office",
       "titles": [
         45
-      ],
-      "chapters": [
-        "IV"
-      ],
-      "parentSlug": "health-and-human-services-department"
+      ]
     },
     {
       "name": "Office of Inspector General-Health Care",
@@ -6830,11 +6254,7 @@
       "slug": "office-of-inspector-general-health-care",
       "titles": [
         42
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "health-and-human-services-department"
+      ]
     },
     {
       "name": "Public Health Service",
@@ -6842,11 +6262,7 @@
       "slug": "public-health-service",
       "titles": [
         42
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "health-and-human-services-department"
+      ]
     },
     {
       "name": "Department of Homeland Security",
@@ -6856,11 +6272,6 @@
         2,
         5,
         8
-      ],
-      "chapters": [
-        "XXX",
-        "XXXVI",
-        "I"
       ]
     },
     {
@@ -6871,12 +6282,7 @@
         33,
         46,
         49
-      ],
-      "chapters": [
-        "I",
-        "IV"
-      ],
-      "parentSlug": "homeland-security-department"
+      ]
     },
     {
       "name": "Coast Guard (Great Lakes Pilotage)",
@@ -6884,11 +6290,7 @@
       "slug": "coast-guard-(great-lakes-pilotage)",
       "titles": [
         46
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "homeland-security-department"
+      ]
     },
     {
       "name": "Department of Homeland Security Acquisition Regulation",
@@ -6896,11 +6298,7 @@
       "slug": "department-of-homeland-security-acquisition-regulation",
       "titles": [
         48
-      ],
-      "chapters": [
-        "30"
-      ],
-      "parentSlug": "homeland-security-department"
+      ]
     },
     {
       "name": "Federal Emergency Management Agency",
@@ -6908,11 +6306,7 @@
       "slug": "federal-emergency-management-agency",
       "titles": [
         44
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "homeland-security-department"
+      ]
     },
     {
       "name": "Federal Law Enforcement Training Center",
@@ -6920,11 +6314,7 @@
       "slug": "federal-law-enforcement-training-center",
       "titles": [
         31
-      ],
-      "chapters": [
-        "VII"
-      ],
-      "parentSlug": "homeland-security-department"
+      ]
     },
     {
       "name": "Human Resources Management System (Homeland Security - Office of Personnel Management)",
@@ -6932,11 +6322,7 @@
       "slug": "human-resources-management-system-(homeland-security---office-of-personnel-management)",
       "titles": [
         5
-      ],
-      "chapters": [
-        "XCVII"
-      ],
-      "parentSlug": "homeland-security-department"
+      ]
     },
     {
       "name": "Office of the Secretary of Homeland Security",
@@ -6944,11 +6330,7 @@
       "slug": "office-of-the-secretary-of-homeland-security",
       "titles": [
         6
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "homeland-security-department"
+      ]
     },
     {
       "name": "Secret Service",
@@ -6956,11 +6338,7 @@
       "slug": "secret-service",
       "titles": [
         31
-      ],
-      "chapters": [
-        "IV"
-      ],
-      "parentSlug": "homeland-security-department"
+      ]
     },
     {
       "name": "Transportation Security Administration",
@@ -6968,11 +6346,7 @@
       "slug": "transportation-security-administration",
       "titles": [
         49
-      ],
-      "chapters": [
-        "XII"
-      ],
-      "parentSlug": "homeland-security-department"
+      ]
     },
     {
       "name": "U.S. Customs and Border Protection",
@@ -6980,11 +6354,7 @@
       "slug": "u-s-customs-and-border-protection",
       "titles": [
         19
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "homeland-security-department"
+      ]
     },
     {
       "name": "Department of Housing and Urban Development",
@@ -6994,11 +6364,6 @@
         2,
         5,
         48
-      ],
-      "chapters": [
-        "XXIV",
-        "LXV",
-        "24"
       ]
     },
     {
@@ -7007,11 +6372,7 @@
       "slug": "government-national-mortgage-association",
       "titles": [
         24
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "housing-and-urban-development-department"
+      ]
     },
     {
       "name": "Office of Assistant Secretary for Community Planning and Development",
@@ -7019,11 +6380,7 @@
       "slug": "office-of-assistant-secretary-for-community-planning-and-development",
       "titles": [
         24
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "housing-and-urban-development-department"
+      ]
     },
     {
       "name": "Office of Assistant Secretary for Equal Opportunity",
@@ -7031,25 +6388,17 @@
       "slug": "office-of-assistant-secretary-for-equal-opportunity",
       "titles": [
         24
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "housing-and-urban-development-department"
+      ]
     },
     {
       "name": "Office of Assistant Secretary for Housing - Federal Housing Commissioner",
       "short_name": "",
       "slug": "office-of-assistant-secretary-for-housing---federal-housing-commissioner",
       "titles": [
+        24,
+        24,
         24
-      ],
-      "chapters": [
-        "II",
-        "VIII",
-        "XX"
-      ],
-      "parentSlug": "housing-and-urban-development-department"
+      ]
     },
     {
       "name": "Office of Assistant Secretary for Public and Indian Housing",
@@ -7057,11 +6406,7 @@
       "slug": "office-of-assistant-secretary-for-public-and-indian-housing",
       "titles": [
         24
-      ],
-      "chapters": [
-        "IX"
-      ],
-      "parentSlug": "housing-and-urban-development-department"
+      ]
     },
     {
       "name": "Office of Federal Housing Enterprise Oversight",
@@ -7069,11 +6414,7 @@
       "slug": "office-of-federal-housing-enterprise-oversight",
       "titles": [
         12
-      ],
-      "chapters": [
-        "XVII"
-      ],
-      "parentSlug": "housing-and-urban-development-department"
+      ]
     },
     {
       "name": "Office of Housing and Multifamily Housing Assistance Restructuring",
@@ -7081,11 +6422,7 @@
       "slug": "office-of-housing-and-multifamily-housing-assistance-restructuring",
       "titles": [
         24
-      ],
-      "chapters": [
-        "IV"
-      ],
-      "parentSlug": "housing-and-urban-development-department"
+      ]
     },
     {
       "name": "Office of Inspector General, Housing and Urban Development",
@@ -7093,11 +6430,7 @@
       "slug": "office-of-inspector-general,-housing-and-urban-development",
       "titles": [
         24
-      ],
-      "chapters": [
-        "XII"
-      ],
-      "parentSlug": "housing-and-urban-development-department"
+      ]
     },
     {
       "name": "Office of Secretary",
@@ -7105,11 +6438,7 @@
       "slug": "office-of-secretary",
       "titles": [
         24
-      ],
-      "chapters": [
-        null
-      ],
-      "parentSlug": "housing-and-urban-development-department"
+      ]
     },
     {
       "name": "Office of Secretary (Housing Assistance Programs and Public and Indian Housing Programs)",
@@ -7117,11 +6446,7 @@
       "slug": "office-of-secretary-(housing-assistance-programs-and-public-and-indian-housing-programs)",
       "titles": [
         24
-      ],
-      "chapters": [
-        "VII"
-      ],
-      "parentSlug": "housing-and-urban-development-department"
+      ]
     },
     {
       "name": "Office of Independent Counsel",
@@ -7129,9 +6454,6 @@
       "slug": "office-of-independent-counsel",
       "titles": [
         28
-      ],
-      "chapters": [
-        "VII"
       ]
     },
     {
@@ -7140,9 +6462,6 @@
       "slug": "united-states-institute-of-peace",
       "titles": [
         22
-      ],
-      "chapters": [
-        "XVII"
       ]
     },
     {
@@ -7152,10 +6471,6 @@
       "titles": [
         5,
         22
-      ],
-      "chapters": [
-        "LXIII",
-        "X"
       ]
     },
     {
@@ -7167,12 +6482,6 @@
         5,
         41,
         48
-      ],
-      "chapters": [
-        "XIV",
-        "XXV",
-        "114",
-        "14"
       ]
     },
     {
@@ -7180,13 +6489,9 @@
       "short_name": "BIA",
       "slug": "indian-affairs-bureau",
       "titles": [
+        25,
         25
-      ],
-      "chapters": [
-        "I",
-        "V"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Bureau of Land Management",
@@ -7194,11 +6499,7 @@
       "slug": "land-management-bureau",
       "titles": [
         43
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Bureau of Ocean Energy Management",
@@ -7206,11 +6507,7 @@
       "slug": "ocean-energy-management-bureau",
       "titles": [
         30
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Bureau of Reclamation",
@@ -7218,11 +6515,7 @@
       "slug": "reclamation-bureau",
       "titles": [
         43
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Bureau of Safety and Environmental Enforcement",
@@ -7230,11 +6523,7 @@
       "slug": "safety-and-environmental-enforcement-bureau",
       "titles": [
         30
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Geological Survey",
@@ -7242,11 +6531,7 @@
       "slug": "geological-survey",
       "titles": [
         30
-      ],
-      "chapters": [
-        "IV"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Indian Arts and Crafts Board",
@@ -7254,11 +6539,7 @@
       "slug": "indian-arts-and-crafts-board",
       "titles": [
         25
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "National Indian Gaming Commission",
@@ -7266,11 +6547,7 @@
       "slug": "national-indian-gaming-commission",
       "titles": [
         25
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "National Park Service",
@@ -7278,11 +6555,7 @@
       "slug": "national-park-service",
       "titles": [
         36
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Office of Indian Affairs Assistant Secretary",
@@ -7290,11 +6563,7 @@
       "slug": "office-of-indian-affairs-assistant-secretary",
       "titles": [
         25
-      ],
-      "chapters": [
-        "VI"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Office of Natural Resources Revenue",
@@ -7302,11 +6571,7 @@
       "slug": "natural-resources-revenue-office",
       "titles": [
         30
-      ],
-      "chapters": [
-        "XII"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Office of Secretary of the Interior",
@@ -7314,11 +6579,7 @@
       "slug": "office-of-secretary-of-the-interior",
       "titles": [
         43
-      ],
-      "chapters": [
-        null
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Office of Special Trustee for American Indians",
@@ -7326,11 +6587,7 @@
       "slug": "special-trustee-for-american-indians-office",
       "titles": [
         25
-      ],
-      "chapters": [
-        "VII"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "Office of Surface Mining Reclamation and Enforcement",
@@ -7338,25 +6595,17 @@
       "slug": "surface-mining-reclamation-and-enforcement-office",
       "titles": [
         30
-      ],
-      "chapters": [
-        "VII"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "United States Fish and Wildlife Service",
       "short_name": "FWS",
       "slug": "fish-and-wildlife-service",
       "titles": [
+        50,
+        50,
         50
-      ],
-      "chapters": [
-        "I",
-        "IV",
-        "VI"
-      ],
-      "parentSlug": "interior-department"
+      ]
     },
     {
       "name": "United States Section United States and Mexico International Boundary and Water Commission",
@@ -7364,9 +6613,6 @@
       "slug": "international-boundary-and-water-commission-united-states-and-mexico",
       "titles": [
         22
-      ],
-      "chapters": [
-        "XI"
       ]
     },
     {
@@ -7375,9 +6621,6 @@
       "slug": "united-states-international-development-cooperation-agency",
       "titles": [
         22
-      ],
-      "chapters": [
-        "XII"
       ]
     },
     {
@@ -7388,11 +6631,6 @@
         2,
         5,
         22
-      ],
-      "chapters": [
-        "XVI",
-        "XXXIII",
-        "VII"
       ]
     },
     {
@@ -7403,11 +6641,6 @@
         2,
         22,
         48
-      ],
-      "chapters": [
-        "VII",
-        "II",
-        "7"
       ]
     },
     {
@@ -7416,9 +6649,6 @@
       "slug": "international-joint-commission-united-states-and-canada",
       "titles": [
         22
-      ],
-      "chapters": [
-        "IV"
       ]
     },
     {
@@ -7427,9 +6657,6 @@
       "slug": "international-organizations-employees-loyalty-board",
       "titles": [
         5
-      ],
-      "chapters": [
-        "V"
       ]
     },
     {
@@ -7438,9 +6665,6 @@
       "slug": "international-trade-commission",
       "titles": [
         19
-      ],
-      "chapters": [
-        "II"
       ]
     },
     {
@@ -7449,9 +6673,6 @@
       "slug": "interstate-commerce-commission",
       "titles": [
         5
-      ],
-      "chapters": [
-        "XL"
       ]
     },
     {
@@ -7460,9 +6681,6 @@
       "slug": "james-madison-memorial-fellowship-foundation",
       "titles": [
         45
-      ],
-      "chapters": [
-        "XXIV"
       ]
     },
     {
@@ -7471,9 +6689,6 @@
       "slug": "japan-united-states-friendship-commission",
       "titles": [
         22
-      ],
-      "chapters": [
-        "XVI"
       ]
     },
     {
@@ -7484,19 +6699,11 @@
         2,
         5,
         28,
+        28,
         31,
         40,
         41,
         48
-      ],
-      "chapters": [
-        "XXVIII",
-        "I",
-        "XI",
-        "IX",
-        "IV",
-        "128",
-        "28"
       ]
     },
     {
@@ -7505,11 +6712,7 @@
       "slug": "alcohol-tobacco-firearms-and-explosives-bureau",
       "titles": [
         27
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "justice-department"
+      ]
     },
     {
       "name": "Bureau of Prisons",
@@ -7517,11 +6720,7 @@
       "slug": "prisons-bureau",
       "titles": [
         28
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "justice-department"
+      ]
     },
     {
       "name": "Drug Enforcement Administration",
@@ -7529,11 +6728,7 @@
       "slug": "drug-enforcement-administration",
       "titles": [
         21
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "justice-department"
+      ]
     },
     {
       "name": "Executive Office for Immigration Review",
@@ -7541,11 +6736,7 @@
       "slug": "executive-office-for-immigration-review",
       "titles": [
         8
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "justice-department"
+      ]
     },
     {
       "name": "Federal Prison Industries",
@@ -7553,11 +6744,7 @@
       "slug": "federal-prison-industries",
       "titles": [
         28
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "justice-department"
+      ]
     },
     {
       "name": "Foreign Claims Settlement Commission of the United States",
@@ -7565,11 +6752,7 @@
       "slug": "foreign-claims-settlement-commission",
       "titles": [
         45
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "justice-department"
+      ]
     },
     {
       "name": "Offices of Independent Counsel",
@@ -7577,11 +6760,7 @@
       "slug": "offices-of-independent-counsel",
       "titles": [
         28
-      ],
-      "chapters": [
-        "VI"
-      ],
-      "parentSlug": "justice-department"
+      ]
     },
     {
       "name": "Department of Labor",
@@ -7592,12 +6771,6 @@
         5,
         41,
         48
-      ],
-      "chapters": [
-        "XXIX",
-        "XLII",
-        "50",
-        "29"
       ]
     },
     {
@@ -7606,11 +6779,7 @@
       "slug": "benefits-review-board",
       "titles": [
         20
-      ],
-      "chapters": [
-        "VII"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Employee Benefits Security Administration",
@@ -7618,11 +6787,7 @@
       "slug": "employee-benefits-security-administration",
       "titles": [
         29
-      ],
-      "chapters": [
-        "XXV"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Employees' Compensation Appeals Board",
@@ -7630,11 +6795,7 @@
       "slug": "employees-compensation-appeals-board",
       "titles": [
         20
-      ],
-      "chapters": [
-        "IV"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Employment and Training Administration",
@@ -7642,11 +6803,7 @@
       "slug": "employment-and-training-administration",
       "titles": [
         20
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Mine Safety and Health Administration",
@@ -7654,11 +6811,7 @@
       "slug": "mine-safety-and-health-administration",
       "titles": [
         30
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Occupational Safety and Health Administration",
@@ -7666,11 +6819,7 @@
       "slug": "occupational-safety-and-health-administration",
       "titles": [
         29
-      ],
-      "chapters": [
-        "XVII"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Office of Assistant Secretary for Veterans' Employment and Training Service",
@@ -7679,12 +6828,7 @@
       "titles": [
         20,
         41
-      ],
-      "chapters": [
-        "IX",
-        "61"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Office of Federal Contract Compliance Programs",
@@ -7692,24 +6836,16 @@
       "slug": "federal-contract-compliance-programs-office",
       "titles": [
         41
-      ],
-      "chapters": [
-        "60"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Office of Labor-Management Standards",
       "short_name": "LMSO",
       "slug": "labor-management-standards-office",
       "titles": [
+        29,
         29
-      ],
-      "chapters": [
-        "II",
-        "IV"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Office of Secretary of Labor",
@@ -7717,24 +6853,16 @@
       "slug": "office-of-secretary-of-labor",
       "titles": [
         29
-      ],
-      "chapters": [
-        null
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Office of Workers' Compensation Programs",
       "short_name": "OWCP",
       "slug": "workers-compensation-programs-office",
       "titles": [
+        20,
         20
-      ],
-      "chapters": [
-        "I",
-        "VI"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Wage and Hour Division",
@@ -7742,11 +6870,7 @@
       "slug": "wage-and-hour-division",
       "titles": [
         29
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "labor-department"
+      ]
     },
     {
       "name": "Legal Services Corporation",
@@ -7754,9 +6878,6 @@
       "slug": "legal-services-corporation",
       "titles": [
         45
-      ],
-      "chapters": [
-        "XVI"
       ]
     },
     {
@@ -7765,9 +6886,6 @@
       "slug": "national-commission-on-libraries-and-information-science",
       "titles": [
         45
-      ],
-      "chapters": [
-        "XVII"
       ]
     },
     {
@@ -7776,9 +6894,6 @@
       "slug": "library-of-congress",
       "titles": [
         36
-      ],
-      "chapters": [
-        "VII"
       ]
     },
     {
@@ -7787,11 +6902,7 @@
       "slug": "copyright-royalty-board",
       "titles": [
         37
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "library-of-congress"
+      ]
     },
     {
       "name": "U.S. Copyright Office",
@@ -7799,11 +6910,7 @@
       "slug": "copyright-office-library-of-congress",
       "titles": [
         37
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "library-of-congress"
+      ]
     },
     {
       "name": "Office of Management and Budget",
@@ -7812,13 +6919,8 @@
       "titles": [
         2,
         5,
+        5,
         48
-      ],
-      "chapters": [
-        null,
-        "III",
-        "LXXVII",
-        "99"
       ]
     },
     {
@@ -7827,11 +6929,7 @@
       "slug": "federal-procurement-policy-office",
       "titles": [
         48
-      ],
-      "chapters": [
-        "99"
-      ],
-      "parentSlug": "management-and-budget-office"
+      ]
     },
     {
       "name": "Marine Mammal Commission",
@@ -7839,9 +6937,6 @@
       "slug": "marine-mammal-commission",
       "titles": [
         50
-      ],
-      "chapters": [
-        "V"
       ]
     },
     {
@@ -7849,11 +6944,8 @@
       "short_name": "MSPB",
       "slug": "merit-systems-protection-board",
       "titles": [
+        5,
         5
-      ],
-      "chapters": [
-        "II",
-        "LXIV"
       ]
     },
     {
@@ -7862,9 +6954,6 @@
       "slug": "office-for-micronesian-status-negotiations",
       "titles": [
         32
-      ],
-      "chapters": [
-        "XXVII"
       ]
     },
     {
@@ -7873,9 +6962,6 @@
       "slug": "military-compensation-and-retirement-modernization-commission",
       "titles": [
         5
-      ],
-      "chapters": [
-        "XCIX"
       ]
     },
     {
@@ -7884,9 +6970,6 @@
       "slug": "national-commission-on-military-national-and-public-service",
       "titles": [
         1
-      ],
-      "chapters": [
-        "IV"
       ]
     },
     {
@@ -7895,9 +6978,6 @@
       "slug": "millennium-challenge-corporation",
       "titles": [
         22
-      ],
-      "chapters": [
-        "XIII"
       ]
     },
     {
@@ -7906,9 +6986,6 @@
       "slug": "morris-k-udall-and-stewart-l-udall-foundation",
       "titles": [
         36
-      ],
-      "chapters": [
-        "XVI"
       ]
     },
     {
@@ -7920,12 +6997,6 @@
         5,
         14,
         48
-      ],
-      "chapters": [
-        "XVIII",
-        "LIX",
-        "V",
-        "18"
       ]
     },
     {
@@ -7934,12 +7005,8 @@
       "slug": "corporation-for-national-and-community-service",
       "titles": [
         2,
+        45,
         45
-      ],
-      "chapters": [
-        "XXII",
-        "XII",
-        "XXV"
       ]
     },
     {
@@ -7950,11 +7017,6 @@
         2,
         5,
         36
-      ],
-      "chapters": [
-        "XXVI",
-        "LXVI",
-        "XII"
       ]
     },
     {
@@ -7963,11 +7025,7 @@
       "slug": "information-security-oversight-office",
       "titles": [
         32
-      ],
-      "chapters": [
-        "XX"
-      ],
-      "parentSlug": "national-archives-and-records-administration"
+      ]
     },
     {
       "name": "Office of Federal Register",
@@ -7975,22 +7033,15 @@
       "slug": "federal-register-office",
       "titles": [
         1
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "national-archives-and-records-administration"
+      ]
     },
     {
       "name": "National Capital Planning Commission",
       "short_name": "NCPC",
       "slug": "national-capital-planning-commission",
       "titles": [
+        1,
         1
-      ],
-      "chapters": [
-        "IV",
-        "VI"
       ]
     },
     {
@@ -7999,9 +7050,6 @@
       "slug": "national-counterintelligence-center",
       "titles": [
         32
-      ],
-      "chapters": [
-        "XVIII"
       ]
     },
     {
@@ -8011,10 +7059,6 @@
       "titles": [
         5,
         12
-      ],
-      "chapters": [
-        "LXXXVI",
-        "VII"
       ]
     },
     {
@@ -8023,9 +7067,6 @@
       "slug": "national-crime-prevention-and-privacy-compact-council",
       "titles": [
         28
-      ],
-      "chapters": [
-        "IX"
       ]
     },
     {
@@ -8035,10 +7076,6 @@
       "titles": [
         2,
         21
-      ],
-      "chapters": [
-        "XXXVI",
-        "III"
       ]
     },
     {
@@ -8047,9 +7084,6 @@
       "slug": "national-foundation-on-the-arts-and-the-humanities",
       "titles": [
         45
-      ],
-      "chapters": [
-        "XI"
       ]
     },
     {
@@ -8059,12 +7093,7 @@
       "titles": [
         2,
         5
-      ],
-      "chapters": [
-        "XXXI",
-        "LXVII"
-      ],
-      "parentSlug": "national-foundation-on-the-arts-and-the-humanities"
+      ]
     },
     {
       "name": "National Endowment for the Arts",
@@ -8073,12 +7102,7 @@
       "titles": [
         2,
         5
-      ],
-      "chapters": [
-        "XXXII",
-        "LV"
-      ],
-      "parentSlug": "national-foundation-on-the-arts-and-the-humanities"
+      ]
     },
     {
       "name": "National Endowment for the Humanities",
@@ -8087,12 +7111,7 @@
       "titles": [
         2,
         5
-      ],
-      "chapters": [
-        "XXXIII",
-        "LVI"
-      ],
-      "parentSlug": "national-foundation-on-the-arts-and-the-humanities"
+      ]
     },
     {
       "name": "National Labor Relations Board",
@@ -8101,10 +7120,6 @@
       "titles": [
         5,
         29
-      ],
-      "chapters": [
-        "LXI",
-        "I"
       ]
     },
     {
@@ -8114,10 +7129,6 @@
       "titles": [
         5,
         29
-      ],
-      "chapters": [
-        "CI",
-        "X"
       ]
     },
     {
@@ -8126,9 +7137,6 @@
       "slug": "national-railroad-adjustment-board",
       "titles": [
         29
-      ],
-      "chapters": [
-        "III"
       ]
     },
     {
@@ -8137,9 +7145,6 @@
       "slug": "national-railroad-passenger-corporation",
       "titles": [
         49
-      ],
-      "chapters": [
-        "VII"
       ]
     },
     {
@@ -8151,12 +7156,6 @@
         5,
         45,
         48
-      ],
-      "chapters": [
-        "XXV",
-        "XLIII",
-        "VI",
-        "25"
       ]
     },
     {
@@ -8165,9 +7164,6 @@
       "slug": "national-transportation-safety-board",
       "titles": [
         49
-      ],
-      "chapters": [
-        "VIII"
       ]
     },
     {
@@ -8176,9 +7172,6 @@
       "slug": "navajo-and-hopi-indian-relocation-office",
       "titles": [
         25
-      ],
-      "chapters": [
-        "IV"
       ]
     },
     {
@@ -8187,9 +7180,6 @@
       "slug": "neighborhood-reinvestment-corporation",
       "titles": [
         24
-      ],
-      "chapters": [
-        "XXV"
       ]
     },
     {
@@ -8198,9 +7188,6 @@
       "slug": "northeast-interstate-low-level-radioactive-waste-commission",
       "titles": [
         10
-      ],
-      "chapters": [
-        "XVIII"
       ]
     },
     {
@@ -8212,12 +7199,6 @@
         5,
         10,
         48
-      ],
-      "chapters": [
-        "XX",
-        "XLVIII",
-        "I",
-        "20"
       ]
     },
     {
@@ -8226,9 +7207,6 @@
       "slug": "nuclear-waste-technical-review-board",
       "titles": [
         10
-      ],
-      "chapters": [
-        "XIII"
       ]
     },
     {
@@ -8237,9 +7215,6 @@
       "slug": "occupational-safety-and-health-review-commission",
       "titles": [
         29
-      ],
-      "chapters": [
-        "XX"
       ]
     },
     {
@@ -8248,9 +7223,6 @@
       "slug": "oklahoma-city-national-memorial-trust",
       "titles": [
         36
-      ],
-      "chapters": [
-        "XV"
       ]
     },
     {
@@ -8260,10 +7232,6 @@
       "titles": [
         2,
         22
-      ],
-      "chapters": [
-        "XXXVII",
-        "III"
       ]
     },
     {
@@ -8272,9 +7240,6 @@
       "slug": "pennsylvania-avenue-development-corporation",
       "titles": [
         36
-      ],
-      "chapters": [
-        "IX"
       ]
     },
     {
@@ -8283,9 +7248,6 @@
       "slug": "pension-benefit-guaranty-corporation",
       "titles": [
         29
-      ],
-      "chapters": [
-        "XL"
       ]
     },
     {
@@ -8294,17 +7256,12 @@
       "slug": "personnel-management-office",
       "titles": [
         5,
+        5,
+        5,
         45,
+        48,
+        48,
         48
-      ],
-      "chapters": [
-        "I",
-        "IV",
-        "XXXV",
-        "VIII",
-        "16",
-        "17",
-        "21"
       ]
     },
     {
@@ -8314,10 +7271,6 @@
       "titles": [
         5,
         39
-      ],
-      "chapters": [
-        "XLVI",
-        "III"
       ]
     },
     {
@@ -8327,10 +7280,6 @@
       "titles": [
         5,
         39
-      ],
-      "chapters": [
-        "LX",
-        "I"
       ]
     },
     {
@@ -8339,9 +7288,6 @@
       "slug": "presidio-trust",
       "titles": [
         36
-      ],
-      "chapters": [
-        "X"
       ]
     },
     {
@@ -8350,9 +7296,6 @@
       "slug": "privacy-and-civil-liberties-oversight-board",
       "titles": [
         6
-      ],
-      "chapters": [
-        "X"
       ]
     },
     {
@@ -8361,9 +7304,6 @@
       "slug": "railroad-retirement-board",
       "titles": [
         20
-      ],
-      "chapters": [
-        "II"
       ]
     },
     {
@@ -8373,10 +7313,6 @@
       "titles": [
         5,
         17
-      ],
-      "chapters": [
-        "XXXIV",
-        "II"
       ]
     },
     {
@@ -8385,9 +7321,6 @@
       "slug": "selective-service-system",
       "titles": [
         32
-      ],
-      "chapters": [
-        "XVI"
       ]
     },
     {
@@ -8397,10 +7330,6 @@
       "titles": [
         2,
         13
-      ],
-      "chapters": [
-        "XXVII",
-        "I"
       ]
     },
     {
@@ -8409,9 +7338,6 @@
       "slug": "smithsonian-institution",
       "titles": [
         36
-      ],
-      "chapters": [
-        "V"
       ]
     },
     {
@@ -8422,11 +7348,6 @@
         2,
         20,
         48
-      ],
-      "chapters": [
-        "XXIII",
-        "III",
-        "23"
       ]
     },
     {
@@ -8434,11 +7355,8 @@
       "short_name": "OSC",
       "slug": "special-counsel-office",
       "titles": [
+        5,
         5
-      ],
-      "chapters": [
-        "VIII",
-        "CII"
       ]
     },
     {
@@ -8450,12 +7368,6 @@
         22,
         28,
         48
-      ],
-      "chapters": [
-        "VI",
-        "I",
-        "XI",
-        "6"
       ]
     },
     {
@@ -8464,9 +7376,6 @@
       "slug": "surface-transportation-board",
       "titles": [
         49
-      ],
-      "chapters": [
-        "X"
       ]
     },
     {
@@ -8475,9 +7384,6 @@
       "slug": "susquehanna-river-basin-commission",
       "titles": [
         18
-      ],
-      "chapters": [
-        "VIII"
       ]
     },
     {
@@ -8487,10 +7393,6 @@
       "titles": [
         5,
         18
-      ],
-      "chapters": [
-        "LXIX",
-        "XIII"
       ]
     },
     {
@@ -8502,12 +7404,6 @@
         5,
         44,
         48
-      ],
-      "chapters": [
-        "XII",
-        "L",
-        "IV",
-        "12"
       ]
     },
     {
@@ -8516,11 +7412,7 @@
       "slug": "federal-aviation-administration",
       "titles": [
         14
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Federal Aviation Administration Commercial Space Transportation",
@@ -8528,24 +7420,16 @@
       "slug": "commercial-space-transportation-office",
       "titles": [
         14
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Federal Highway Administration",
       "short_name": "FHWA",
       "slug": "federal-highway-administration",
       "titles": [
+        23,
         23
-      ],
-      "chapters": [
-        "I",
-        "II"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Federal Motor Carrier Safety Administration",
@@ -8553,11 +7437,7 @@
       "slug": "federal-motor-carrier-safety-administration",
       "titles": [
         49
-      ],
-      "chapters": [
-        "III"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Federal Railroad Administration",
@@ -8565,11 +7445,7 @@
       "slug": "federal-railroad-administration",
       "titles": [
         49
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Federal Transit Administration",
@@ -8577,11 +7453,7 @@
       "slug": "federal-transit-administration",
       "titles": [
         49
-      ],
-      "chapters": [
-        "VI"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Great Lakes St. Lawrence Seaway Development Corporation",
@@ -8589,11 +7461,7 @@
       "slug": "great-lakes-st-lawrence-seaway-development-corporation",
       "titles": [
         33
-      ],
-      "chapters": [
-        "IV"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Maritime Administration",
@@ -8601,11 +7469,7 @@
       "slug": "maritime-administration",
       "titles": [
         46
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "National Highway Traffic Safety Administration",
@@ -8613,16 +7477,10 @@
       "slug": "national-highway-traffic-safety-administration",
       "titles": [
         23,
+        23,
         47,
         49
-      ],
-      "chapters": [
-        "II",
-        "III",
-        "IV",
-        "V"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Office of Secretary (Aviation Proceedings)",
@@ -8630,11 +7488,7 @@
       "slug": "office-of-secretary-(aviation-proceedings)",
       "titles": [
         14
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Office of Secretary of Transportation",
@@ -8642,11 +7496,7 @@
       "slug": "office-of-secretary-of-transportation",
       "titles": [
         49
-      ],
-      "chapters": [
-        null
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Pipeline and Hazardous Materials Safety Administration",
@@ -8654,11 +7504,7 @@
       "slug": "pipeline-and-hazardous-materials-safety-administration",
       "titles": [
         49
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "transportation-department"
+      ]
     },
     {
       "name": "Department of Treasury",
@@ -8671,14 +7517,6 @@
         17,
         31,
         48
-      ],
-      "chapters": [
-        "X",
-        "XXI",
-        "XV",
-        "IV",
-        "IX",
-        "10"
       ]
     },
     {
@@ -8687,11 +7525,7 @@
       "slug": "alcohol-and-tobacco-tax-and-trade-bureau",
       "titles": [
         27
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Bureau of Engraving and Printing",
@@ -8699,11 +7533,7 @@
       "slug": "engraving-and-printing-bureau",
       "titles": [
         31
-      ],
-      "chapters": [
-        "VI"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Bureau of the Fiscal Service",
@@ -8711,11 +7541,7 @@
       "slug": "bureau-of-the-fiscal-service",
       "titles": [
         31
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Community Development Financial Institutions Fund",
@@ -8723,11 +7549,7 @@
       "slug": "community-development-financial-institutions-fund",
       "titles": [
         12
-      ],
-      "chapters": [
-        "XVIII"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Comptroller of the Currency",
@@ -8735,11 +7557,7 @@
       "slug": "comptroller-of-the-currency",
       "titles": [
         12
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Financial Crimes Enforcement Network",
@@ -8747,11 +7565,7 @@
       "slug": "financial-crimes-enforcement-network",
       "titles": [
         31
-      ],
-      "chapters": [
-        "X"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Fiscal Service",
@@ -8759,11 +7573,7 @@
       "slug": "fiscal-service",
       "titles": [
         31
-      ],
-      "chapters": [
-        "II"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Internal Revenue Service",
@@ -8771,11 +7581,7 @@
       "slug": "internal-revenue-service",
       "titles": [
         26
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Monetary Offices",
@@ -8783,11 +7589,7 @@
       "slug": "monetary-offices",
       "titles": [
         31
-      ],
-      "chapters": [
-        "I"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Office of Financial Research",
@@ -8795,11 +7597,7 @@
       "slug": "office-of-financial-research",
       "titles": [
         12
-      ],
-      "chapters": [
-        "XVI"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Office of Foreign Assets Control",
@@ -8807,11 +7605,7 @@
       "slug": "foreign-assets-control-office",
       "titles": [
         31
-      ],
-      "chapters": [
-        "V"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Office of Investment Security",
@@ -8819,11 +7613,7 @@
       "slug": "investment-security-office",
       "titles": [
         31
-      ],
-      "chapters": [
-        "VIII"
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Office of Secretary of the Treasury",
@@ -8831,11 +7621,7 @@
       "slug": "office-of-secretary-of-the-treasury",
       "titles": [
         31
-      ],
-      "chapters": [
-        null
-      ],
-      "parentSlug": "treasury-department"
+      ]
     },
     {
       "name": "Office of United States Trade Representative",
@@ -8843,9 +7629,6 @@
       "slug": "trade-representative-office-of-united-states",
       "titles": [
         15
-      ],
-      "chapters": [
-        "XX"
       ]
     },
     {
@@ -8854,9 +7637,6 @@
       "slug": "utah-reclamation-mitigation-and-conservation-commission",
       "titles": [
         43
-      ],
-      "chapters": [
-        "III"
       ]
     },
     {
@@ -8867,11 +7647,6 @@
         2,
         38,
         48
-      ],
-      "chapters": [
-        "VIII",
-        "I",
-        "8"
       ]
     },
     {
@@ -8880,9 +7655,6 @@
       "slug": "office-of-vice-president-of-the-united-states",
       "titles": [
         32
-      ],
-      "chapters": [
-        "XXVIII"
       ]
     },
     {
@@ -8891,9 +7663,6 @@
       "slug": "water-resources-council",
       "titles": [
         18
-      ],
-      "chapters": [
-        "VI"
       ]
     },
     {
@@ -8902,11 +7671,8 @@
       "slug": "president's-commission-on-white-house-fellowships",
       "titles": [
         1
-      ],
-      "chapters": [
-        "IV"
       ]
     }
   ],
-  "downloadedAt": "2025-12-19T05:08:05.063Z"
+  "downloadedAt": "2025-12-19T19:36:48.736Z"
 }
