@@ -1,139 +1,81 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { fetchAgencies, fetchChecksums, Agency, AgencyChecksum } from '../api';
+import { fetchAgencies, Agency } from '../api';
 
 function formatNumber(num: number): string {
     if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
     if (num >= 1000) return (num / 1000).toFixed(1) + 'K';
-    return num.toString();
+    return num.toLocaleString();
 }
 
 export default function AgencyList() {
     const [agencies, setAgencies] = useState<Agency[]>([]);
-    const [checksums, setChecksums] = useState<Map<string, AgencyChecksum>>(new Map());
     const [loading, setLoading] = useState(true);
-    const [error, setError] = useState<string | null>(null);
-    const [searchTerm, setSearchTerm] = useState('');
+    const [search, setSearch] = useState('');
 
     useEffect(() => {
-        async function loadData() {
-            try {
-                const [agencyData, checksumData] = await Promise.all([
-                    fetchAgencies(),
-                    fetchChecksums()
-                ]);
-                setAgencies(agencyData.agencies);
-
-                const checksumMap = new Map<string, AgencyChecksum>();
-                checksumData.checksums.forEach(c => checksumMap.set(c.slug, c));
-                setChecksums(checksumMap);
-            } catch (err: any) {
-                setError(err.message);
-            } finally {
-                setLoading(false);
-            }
-        }
-        loadData();
+        fetchAgencies().then(data => {
+            setAgencies(data.agencies);
+            setLoading(false);
+        });
     }, []);
 
-    const filteredAgencies = agencies.filter(a =>
-        a.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        (a.shortName && a.shortName.toLowerCase().includes(searchTerm.toLowerCase()))
+    const filtered = agencies.filter(a =>
+        a.name.toLowerCase().includes(search.toLowerCase()) ||
+        a.shortName?.toLowerCase().includes(search.toLowerCase())
     );
 
-    if (loading) {
-        return (
-            <div className="loading">
-                <div className="spinner" />
-                <p>Loading agencies...</p>
-            </div>
-        );
-    }
-
-    if (error) {
-        return (
-            <div className="error-state">
-                <h2>Unable to Load Agencies</h2>
-                <p>{error}</p>
-            </div>
-        );
-    }
+    if (loading) return <div className="loading"><div className="spinner" /><p>Loading...</p></div>;
 
     return (
         <div>
             <div className="section-header">
                 <h2>Federal Agencies</h2>
-                <p>Browse all agencies with CFR regulations and their checksums</p>
+                <p>{agencies.length} agencies with word counts and checksums</p>
             </div>
 
-            <div style={{ marginBottom: 'var(--space-xl)' }}>
-                <input
-                    type="text"
-                    placeholder="Search agencies..."
-                    value={searchTerm}
-                    onChange={(e) => setSearchTerm(e.target.value)}
-                    style={{
-                        width: '100%',
-                        maxWidth: '400px',
-                        padding: 'var(--space-md)',
-                        background: 'var(--bg-tertiary)',
-                        border: '1px solid rgba(255,255,255,0.1)',
-                        borderRadius: 'var(--radius-md)',
-                        color: 'var(--text-primary)',
-                        fontSize: '1rem'
-                    }}
-                />
-            </div>
+            <input
+                type="text"
+                placeholder="Search agencies..."
+                value={search}
+                onChange={e => setSearch(e.target.value)}
+                style={{
+                    width: '100%',
+                    maxWidth: '400px',
+                    padding: 'var(--space-md)',
+                    marginBottom: 'var(--space-xl)',
+                    background: 'var(--bg-tertiary)',
+                    border: '1px solid rgba(255,255,255,0.1)',
+                    borderRadius: 'var(--radius-md)',
+                    color: 'var(--text-primary)'
+                }}
+            />
 
             <div className="card">
                 <table className="data-table">
                     <thead>
                         <tr>
-                            <th>Agency Name</th>
-                            <th>Short Name</th>
-                            <th>Titles</th>
+                            <th>Agency</th>
+                            <th>Word Count</th>
                             <th>Checksum</th>
                             <th></th>
                         </tr>
                     </thead>
                     <tbody>
-                        {filteredAgencies.map(agency => {
-                            const checksum = checksums.get(agency.slug);
-                            return (
-                                <tr key={agency.slug}>
-                                    <td>
-                                        <Link to={`/agencies/${agency.slug}`} style={{ color: 'var(--text-primary)', textDecoration: 'none' }}>
-                                            {agency.name}
-                                        </Link>
-                                    </td>
-                                    <td style={{ color: 'var(--text-secondary)' }}>{agency.shortName || '-'}</td>
-                                    <td>{agency.titleCount}</td>
-                                    <td>
-                                        <code style={{
-                                            fontSize: '0.8rem',
-                                            background: 'var(--bg-primary)',
-                                            padding: '4px 8px',
-                                            borderRadius: '4px',
-                                            fontFamily: 'monospace'
-                                        }}>
-                                            {checksum?.checksum || '-'}
-                                        </code>
-                                    </td>
-                                    <td>
-                                        <Link to={`/agencies/${agency.slug}`} className="btn btn-secondary" style={{ padding: '6px 12px', fontSize: '0.85rem' }}>
-                                            View
-                                        </Link>
-                                    </td>
-                                </tr>
-                            );
-                        })}
+                        {filtered.map(a => (
+                            <tr key={a.slug}>
+                                <td>
+                                    <Link to={`/agencies/${a.slug}`}>{a.name}</Link>
+                                    {a.shortName && <span style={{ color: 'var(--text-secondary)', marginLeft: '8px', fontSize: '0.85rem' }}>({a.shortName})</span>}
+                                </td>
+                                <td>{formatNumber(a.wordCount)}</td>
+                                <td><code style={{ background: 'var(--bg-primary)', padding: '2px 6px', borderRadius: '4px', fontSize: '0.8rem' }}>{a.checksum}</code></td>
+                                <td><Link to={`/agencies/${a.slug}`} className="btn btn-secondary" style={{ padding: '4px 8px', fontSize: '0.8rem' }}>View</Link></td>
+                            </tr>
+                        ))}
                     </tbody>
                 </table>
-                {filteredAgencies.length === 0 && (
-                    <div style={{ textAlign: 'center', padding: 'var(--space-xl)', color: 'var(--text-secondary)' }}>
-                        No agencies found matching "{searchTerm}"
-                    </div>
-                )}
+                {filtered.length === 0 && <p style={{ textAlign: 'center', padding: 'var(--space-xl)', color: 'var(--text-secondary)' }}>No agencies found</p>}
             </div>
         </div>
     );

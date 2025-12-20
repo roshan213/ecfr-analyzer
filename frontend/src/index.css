@@ -557,3 +557,10 @@ body {
     display: none;
   }
 }
+
+.metric-description {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    margin-top: var(--space-xs);
+    line-height: 1.3;
+}

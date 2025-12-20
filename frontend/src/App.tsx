@@ -5,7 +5,6 @@ import AgencyDetail from './pages/AgencyDetail';
 
 function Header() {
     const location = useLocation();
-
     return (
         <header className="header">
             <div className="header-content">
@@ -13,23 +12,19 @@ function Header() {
                     <div className="logo-icon">eC</div>
                     <div className="logo-text">
                         <h1>eCFR Analyzer</h1>
-                        <span>Federal Regulations Analysis</span>
+                        <span>Federal Regulations</span>
                     </div>
                 </Link>
                 <nav className="nav-links">
-                    <Link to="/" className={location.pathname === '/' ? 'active' : ''}>
-                        Dashboard
-                    </Link>
-                    <Link to="/agencies" className={location.pathname.startsWith('/agencies') ? 'active' : ''}>
-                        Agencies
-                    </Link>
+                    <Link to="/" className={location.pathname === '/' ? 'active' : ''}>Dashboard</Link>
+                    <Link to="/agencies" className={location.pathname.startsWith('/agencies') ? 'active' : ''}>Agencies</Link>
                 </nav>
             </div>
         </header>
     );
 }
 
-function App() {
+export default function App() {
     return (
         <BrowserRouter>
             <div className="app">
@@ -45,5 +40,3 @@ function App() {
         </BrowserRouter>
     );
 }
-
-export default App;

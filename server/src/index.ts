@@ -1,75 +1,94 @@
 import express from 'express';
 import cors from 'cors';
-import agenciesRouter from './routes/agencies';
-import analysisRouter from './routes/analysis';
 import { dataStore } from './services/dataStore';
+import { analyzer } from './services/analyzer';
 
 const app = express();
-const PORT = process.env.PORT || 3001;
-
-// Middleware
 app.use(cors());
 app.use(express.json());
 
-// Request logging
-app.use((req, res, next) => {
-    console.log(`${new Date().toISOString()} ${req.method} ${req.path}`);
-    next();
+// Summary endpoint
+app.get('/api/analysis/summary', (req, res) => {
+    const cache = analyzer.getAnalysis();
+    res.json(cache.summary);
 });
 
-// API Routes
-app.use('/api/agencies', agenciesRouter);
-app.use('/api/analysis', analysisRouter);
+// Word counts endpoint
+app.get('/api/analysis/word-counts', (req, res) => {
+    const limit = parseInt(req.query.limit as string) || 15;
+    const cache = analyzer.getAnalysis();
+    const wordCounts = cache.agencyAnalysis
+        .filter(a => a.wordCount > 0)
+        .sort((a, b) => b.wordCount - a.wordCount)
+        .slice(0, limit)
+        .map(a => ({ slug: a.slug, name: a.shortName || a.name, wordCount: a.wordCount }));
+    res.json({ wordCounts });
+});
 
-// Health check
-app.get('/api/health', (req, res) => {
-    const hasData = dataStore.hasData();
+// Historical changes endpoint
+app.get('/api/analysis/history', (req, res) => {
+    const monthlyChanges = analyzer.getMonthlyChanges();
+    res.json({ monthlyChanges });
+});
+
+// Agencies list with checksums
+app.get('/api/agencies', (req, res) => {
+    const data = dataStore.getAgencies();
+    const cache = analyzer.getAnalysis();
+    if (!data) return res.status(404).json({ error: 'No data' });
+
+    const agencies = data.flatAgencies.map(a => {
+        const analysis = cache.agencyAnalysis.find(x => x.slug === a.slug);
+        return {
+            slug: a.slug,
+            name: a.name,
+            shortName: a.short_name,
+            wordCount: analysis?.wordCount || 0,
+            checksum: analysis?.checksum || '-'
+        };
+    });
+    res.json({ agencies });
+});
+
+// Agency detail with rankings
+app.get('/api/agencies/:slug', (req, res) => {
+    const { slug } = req.params;
+    const data = dataStore.getAgencies();
+    const cache = analyzer.getAnalysis();
+    if (!data) return res.status(404).json({ error: 'No data' });
+
+    const agency = data.flatAgencies.find(a => a.slug === slug);
+    if (!agency) return res.status(404).json({ error: 'Agency not found' });
+
+    const analysis = cache.agencyAnalysis.find(a => a.slug === slug);
+    const history = analysis ? analyzer.getAgencyMonthlyChanges(analysis.titles) : [];
+
+    // Calculate rankings for each metric (only agencies with data)
+    const withData = cache.agencyAnalysis.filter(a => a.wordCount > 0);
+    const total = withData.length;
+
+    const getRank = (key: string) => {
+        if (!analysis) return null;
+        const sorted = [...withData].sort((a, b) => (b as any)[key] - (a as any)[key]);
+        return sorted.findIndex(a => a.slug === slug) + 1;
+    };
+
+    const rankings = analysis ? {
+        wordCount: { rank: getRank('wordCount'), total },
+        mandateCount: { rank: getRank('mandateCount'), total },
+        penaltyCount: { rank: getRank('penaltyCount'), total },
+        exemptionCount: { rank: getRank('exemptionCount'), total },
+        definitionCount: { rank: getRank('definitionCount'), total },
+        reportingCount: { rank: getRank('reportingCount'), total }
+    } : null;
+
     res.json({
-        status: 'ok',
-        dataAvailable: hasData,
-        timestamp: new Date().toISOString()
+        agency: { name: agency.name, shortName: agency.short_name, titles: agency.titles },
+        analysis: analysis || null,
+        history,
+        rankings
     });
 });
 
-// Root endpoint
-app.get('/', (req, res) => {
-    res.json({
-        name: 'eCFR Analysis API',
-        version: '1.0.0',
-        endpoints: {
-            health: '/api/health',
-            agencies: '/api/agencies',
-            agencyDetail: '/api/agencies/:slug',
-            summary: '/api/analysis/summary',
-            wordCounts: '/api/analysis/word-counts',
-            checksums: '/api/analysis/checksums',
-            complexity: '/api/analysis/complexity',
-            history: '/api/analysis/history',
-            all: '/api/analysis/all'
-        }
-    });
-});
-
-// Error handler
-app.use((err: any, req: express.Request, res: express.Response, next: express.NextFunction) => {
-    console.error('Error:', err);
-    res.status(500).json({ error: 'Internal server error' });
-});
-
-app.listen(PORT, () => {
-    console.log(`\n🚀 eCFR Analysis Server running on http://localhost:${PORT}`);
-    console.log(`\nAvailable endpoints:`);
-    console.log(`  GET  /api/health          - Health check`);
-    console.log(`  GET  /api/agencies        - List all agencies`);
-    console.log(`  GET  /api/agencies/:slug  - Get agency details`);
-    console.log(`  GET  /api/analysis/summary    - Summary metrics`);
-    console.log(`  GET  /api/analysis/word-counts - Word counts by agency`);
-    console.log(`  GET  /api/analysis/checksums  - Checksums by agency`);
-    console.log(`  GET  /api/analysis/complexity - Complexity scores`);
-    console.log(`  GET  /api/analysis/history    - Historical changes`);
-    console.log(`  POST /api/analysis/refresh    - Refresh analysis cache`);
-
-    if (!dataStore.hasData()) {
-        console.log(`\n⚠️  No data found. Run 'npm run download' to fetch eCFR data.`);
-    }
-});
+const PORT = process.env.PORT || 3001;
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
